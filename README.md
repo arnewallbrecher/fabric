@@ -7,12 +7,12 @@ In honor of Dr. Eckart Wallbrecher the family donated the source code to the sci
 
 Fabric is a bundle of Geological Software for:
 
-Structural Data
-Stereonets and Rose Diagrams
-Statistics of Orientation Data
-Calculation of Paleostresses
-Fold Shape Analysis (Isogons and Fourier)
-Strain Analysis with various Methods
+ Structural Data
+ Stereonets and Rose Diagrams
+ Statistics of Orientation Data
+ Calculation of Paleostresses
+ Fold Shape Analysis (Isogons and Fourier)
+ Strain Analysis with various Methods
 
 The package Fabric8 for Windows consists of 32 strong computer programs for the solution of various problems in structural geology, petrofabrics, neotectonics, rock mechanics, engineering geology, physical geography, geophysics, and other fields of earth sciences. The programs have been in use for a long time.
 
