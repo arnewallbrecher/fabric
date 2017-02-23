@@ -5,7 +5,7 @@ February 22nd, 2017
 
 In honor of Dr. Eckart Wallbrecher the family donated the source code to the scientific community.
 
-Geological Software for
+Fabric is a bundle of Geological Software for:
 
 Structural Data
 Stereonets and Rose Diagrams
