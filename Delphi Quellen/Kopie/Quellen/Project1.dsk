@@ -1,0 +1,141 @@
+[Closed Files]
+File_0=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Unit4.pas',0,1,170,25,177,1,0
+File_1=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Unit5.pas',0,1,675,1,685,1,0
+File_2=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Unit12.pas',0,1,367,1,614,1,0
+File_3=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Unit3.pas',0,1,306,1,308,1,0
+File_4=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Hilfdeut.txt',0,1,195,20,204,0,0
+File_5=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Unit8.pas',0,1,214,1,1,1,0
+File_6=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\DEUTSCH7.txt',0,1,1332,1,1,0,0
+File_7=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\English7.txt',0,1,1,14,7,0,0
+File_8=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Unit61.pas',0,1,390,1,399,0,0
+File_9=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Unit63.pas',0,1,1892,1,1901,0,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+
+[D:\Eigene Dateien auf D\Delphi-Quellen\Fabric7\Quellen\Project1.dpr]
+FormState=0
+FormOnTop=0
+
+[C:\Programme\Borland\Delphi5\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=2
+Left=2
+Top=2
+Width=1024
+Height=131
+MaxLeft=-1
+MaxTop=-1
+MaxWidth=1032
+MaxHeight=131
+ClientWidth=1024
+ClientHeight=104
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=525
+ClientHeight=326
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=75
+Top=193
+Width=190
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=180
+ClientHeight=468
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[BreakpointWindow]
+Create=1
+Visible=0
+State=0
+Left=322
+Top=285
+Width=379
+Height=197
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=371
+ClientHeight=173
+TBDockHeight=197
+LRDockWidth=379
+Dockable=1
+Column0Width=100
+Column1Width=75
+Column2Width=225
+Column3Width=40
+Column4Width=75
+Column5Width=75
+
+[DockHosts]
+DockHostCount=0
+

@@ -1,0 +1,1765 @@
+1§File 'Fabric.ini' not found
+2§  A Program Package
+3§for Graphical Display
+4§      and Analysis
+5§  of Tectonic Data
+6§Enter password:
+7§Angles, Intersections, Planes, or Normals to Planes
+8§Rotation of Orientation Data
+9§Plot of Orientation Data
+10§Plot of Great Circles
+11§Plot of Small Circles
+12§Statistics of Circular Distributions
+13§Rose Diagrams
+14§Statistics of Orientation Data
+15§Contoured Diagrams of Orientation Data
+16§Significant Separation of Submaxima
+17§Palaeostress Analysis with the Dihedra Method
+18§Plot of Slickenside Planes and Striations
+19§Hoeppener Diagram
+20§Shape Factor of a Palaeostress Ellipsoid
+21§Projections of a Sphere
+22§R%-G% Diagram
+23§Woodcock Diagram
+24§Vollmer Diagram
+25§Fourier Analysis of Fold Shapes
+26§Classification of Folds with Layer Thickness Variation
+27§End of Fabric8
+28§End
+29§Not found
+30§Back
+31§                                                        
+32§ These programs are protected by copyright. All rights  
+33§ are reserved.  Copying without consent of the author
+34§ is unlawful.                                           
+35§                                                        
+36§ Please let me know if you find any mistakes. I shall
+37§ try to correct them immediately.
+38§ Address: Dr. Eckart Wallbrecher
+39§                Paracelsusgasse 59
+40§                A-8010 Graz, Austria
+41§                e-mait: eckart.wallbrecher@uni-graz.at
+42§                                                  
+43§ This program was copied without approval of the  
+44§ author. It will not run.
+45§ Get a temporary license, or buy a permanent one.
+46§                                                  
+47§ The author
+48§                                                  
+49§Install Fabric8 again
+50§You want to quit Fabric8?
+51§Fabric8
+52§Fabric8: Select a program
+53§End
+54§Fabric8: Calculations of Angles, Intersections, Planes, or Normals to Planes
+55§Data input
+56§Manual
+57§From a file
+58§
+59§
+60§From the data bank
+61§Calculations
+62§Intersection of 2 planes
+63§Angle between 2 planes
+64§Angle between 2 linears
+65§Plane from 2 linears
+66§Normal on 2 linears
+67§Angle
+68§1..360 deg
+69§1..400 gon
+70§            Calculation of Angles, Planes,
+71§      Intersection Lines, Normal to Planes.
+72§  Conversion of Pitch Angles to Lineations,
+73§ of Strike to Dip Directions and Vice Versa.
+74§
+75§The following settings have been chosen:
+76§Continue
+77§Data input:
+78§From hard disk
+79§Calculation:
+80§Angle between 2 Planes
+81§Angle:
+82§1..360 deg
+83§From diskette
+84§1..400 gon
+85§Fabric8: Calculations, Manual Data Input
+86§Save data
+87§Save
+88§Save as
+89§On the 2nd diskette
+90§Finish
+91§Save results
+92§Printer
+93§Print
+94§Install printer
+95§Type measures as azimuth
+96§of dip and angle of dip.
+97§Hit 'Enter' to continue
+98§Input. Corrections with
+99§the 'Tab' key.
+100§ 1. Plane      2. Plane      Intersection
+101§Data
+102§Data input:
+103§1. Measure:
+104§2. Measure:
+105§Input OK
+106§Terminate input
+107§Fabric8: Calculations, Data Input from a Folder
+108§  Plane 1          Plane 2      Intersection
+109§Plane 1 :
+110§Plane 2 :
+111§  Plane 1          Plane 2         Angle
+112§  Linear 1         Linear 2        Angle
+113§Linear 1 :
+114§Linear 2 :
+115§  Linear 1         Linear 2          Plane
+116§  Linear 1         Linear 2          Normal
+117§Data may now be saved and/or printed
+118§Data are saved
+119§Insert
+120§data diskette
+121§into drive
+122§Diskette is write protected!
+123§Remove write protect
+124§or insert another diskette.
+125§No diskette in the drive
+126§Diskette defect
+127§or drive not locked.
+128§Correct the error, then hit any key
+129§Insert name of the saving file:
+130§The extension
+131§ will be appended automatically
+132§ This search path does not exist!
+133§ Check path for data file
+134§ in the file 'Fabric.ini'
+135§Incorrect input
+136§Selected files:
+137§Select files:
+138§Number:
+139§Calculate
+140§ No file found
+141§Intersection of Two Planes
+142§    Plane 1:           Plane 2:         Intersection:
+143§         ________          ________          ___________
+144§Angle between Two Planes
+145§  Plane 1:           Plane 2:               Angle:
+146§         ________          ________              ______
+147§Angle between Two Linears
+148§  Linear 1:          Linear 2:              Angle:
+149§         ________          ________             ______
+150§Plane from Two Linears
+151§    Linear 1:          Linear 2:             Plane:
+152§         ________         ________              ______
+153§Normal on Two Linears
+154§    Linear:            Linear 2:             Normal:
+155§   ________          ________             _______
+156§Fabric8: Rotations
+157§Fabric Type
+158§Linears
+159§Planes
+160§U-stage-axes
+161§U-stage-poles
+162§Help
+163§    Rotation of Orientation Data
+164§around an Arbitrary Axis
+165§Fabric type:
+166§On diskette
+167§Manual
+168§From diskette A:
+169§Linears
+170§Planes
+171§U-stage-axes
+172§U-stage-poles
+173§Fabric8: Rotations (manual data input)
+174§Save rotated Data
+175§Write rotation axis as azimuth of dip/
+176§angle of dip.
+177§Clockwise rotation angle is positive
+178§Angle of tilt to N or W is negative!
+179§Rotation axis:
+180§Rotation angle:
+181§Number of data:
+182§Terminate data input
+183§Data :
+184§Rotated data:
+185§Linears
+186§Planes
+187§U-stage-axes
+188§U-stage-poles
+189§Rotation of Orientation Data
+190§Day of calculation:
+191§Jan.
+192§Feb.
+193§March
+194§April
+195§May
+196§June
+197§July
+198§Aug.
+199§Sept.
+200§Oct.
+201§Nov.
+202§Dec.
+203§Monday
+204§Tuesday
+205§Wednesday
+206§Thursday
+207§Friday
+208§Saturday
+209§Sunday
+210§  Time:
+211§File :
+212§Data are
+213§Rotation axis =
+214§Rotation angle =
+215§ Data are saved now
+216§INPUT ERROR !
+217§Fabric8: Rotations, Input from a Folder
+218§  Data:            Rotated Data:
+219§Azimuth
+220§Dip
+221§Rotation angle:
+222§Number:
+223§No data found
+224§ Wrong value
+225§ Correct this value in file
+226§
+227§Fabric8: Plot of Data into a Stereo Net
+228§   Plot of Linears or Poles to Planes
+229§      in Various Projections
+230§
+231§Fabric8: Plot of Great Circles
+232§              Plot of Great Circles
+233§From Diskette
+234§
+235§Fabric8: Plot of Linears or Planes, Manual Input
+236§Fabric8: Plot of Great Circles, Manual Input
+237§Fabric8: Statistical Measures, Manual Input
+238§Fabric8: Contour Lines of Orientation Data, Manual Input
+239§Type data as azimuth/angle of dip.
+240§Fabric8: Cluster of Orientation Data, Manual Input
+241§Plot
+242§On Diskette
+243§No data found.
+244§Fabric8: Plot of Linears or Planes, Data Input from a Folder
+245§Fabric8: Plot of Great Circles, Input from a Folder
+246§Fabric8: Statistical Measures, Input from a Folder
+247§Fabric8: Contour-Line Plot, Input from a Folder
+248§Selection OK?
+249§Calculation of  Statistical Parameters
+250§of Fabric data
+251§Plot   of   Tectonic   Data
+252§Plot of Great Circles
+253§Cluster of Orientation Data
+254§Plot of Contour Lines
+255§Calculation of the Orientation of Principal Stresses
+256§Filename :
+257§Fabric8: Plot of Orientation Data, Diagram
+258§Projection
+259§Lambert
+260§Stereografic
+261§Symbol
+262§Open circle
+263§Filled circle
+264§Open square
+265§Filled square
+266§Open triangle
+267§Filled triangle
+268§Open diamond
+269§Filled diamond
+270§Plot poles (axes)
+271§Solid lines
+272§Dashed lines
+273§Dotted lines
+274§Dash-dotted lines
+275§Colour
+276§Black
+277§Blue
+278§Green
+279§Red
+280§Violett
+281§Diagram
+282§Copy
+283§Cut out
+284§Save
+285§Save under
+286§Load from clipboard
+287§Load from file
+288§Plot with the printer
+289§Plot into a HPGL file
+290§Plot into a DXF file
+291§Size
+292§Portrait
+293§Landscape
+294§Colour of the objects
+295§Choose size, format, colour und periphery
+296§Number of Data:
+297§Plot:
+298§Create Plotfile
+299§Radius [mm]:
+300§Centre [mm]:
+301§X-coordinate:
+302§Y-coordinate:
+303§Coordinates OK?
+304§Fabric 8: Plot of Great Circles: Diagram
+305§Fabric 8: Plot of Small Circles: Diagram
+306§No image on the clipboard!
+307§File not found
+308§Radius too large
+309§X-coordinate too large
+310§Y-coordinate too large
+311§Plot of the Great Circles
+312§Plot of the Small Circles
+313§Fabric8: Small Circles
+314§ Plot of Small Circles
+315§Fabric8: Small Circles, Manual Data Input
+316§Type Axis as
+317§Azimuth / angle of dip.
+318§Axis:       Apical Angle:
+319§Axis:
+320§Apical Angle:
+321§Fabric8: Statistical Measures of Circular Distributions
+322§          Calculation
+323§ of Statistical Measures
+324§of Circular Distributions
+325§Data
+326§Pure directions
+327§Directions with lengths
+328§Range
+329§Half circle (1..180)
+330§Full circle (1..360)
+331§Data:
+332§Range:
+333§Fabric8: Plot of a Rose Diagram
+334§               Plot of
+335§       a Rose Diagram
+336§of a Circular Distribution
+337§pure directions
+338§directions with lengths
+339§1..360 deg
+340§1..400 gon
+341§Half circle
+342§Full circle
+343§Fabric8: Statistical Measures of Circular Data, Input from a Folder
+344§Type data as azimuths.
+345§Type data as integer numbers.
+346§Direction:           Length:
+347§Direction:
+348§Length:
+349§Measures
+350§On diskette
+351§Statistical Measures of Circularly Distributed Data
+352§Number
+353§Vector Sum
+354§Normalized Vector Sum
+355§Preferred Orientation
+356§Vector Mean
+357§Skewness
+358§Kurtosis
+359§Linears
+360§Planes
+361§U-stage-axes
+362§U-stage-poles
+363§1..360 deg
+364§1..400 gon
+365§The sample lies in the  cluster-field
+366§The sample lies in the girdle field
+367§Contour lines:
+368§Select size, format, and colour
+369§Plot of the contour lines
+370§Significant separation
+371§Not significantly
+372§separated groups:
+373§Pooled groups:
+374§ in clusters
+375§Fabric8: Slickensides and Striation Lineation, Manual Input
+376§Fabric8: Hoeppener Diagram, Manual Input
+377§Calculation of the Directions of Principal Stresses
+378§Choose colour of the contour lines and the size of the counting calotte!
+379§Sliplines can be changed by
+380§overwriting the input
+381§Data, which do not fit in these slip lines,
+382§can be eliminated from
+383§the diagram by a double mouse click.
+384§ Plot of the Slickenside Planes
+385§Theoretical:
+386§Measured:
+387§Diagram too long
+388§Plot of the Eigenvalues
+389§Angle:
+390§Plot of the projection
+391§Data Input
+392§Open circle
+393§Filled circle
+394§Open square
+395§Filled square
+396§Open triangle
+397§Filled triangle
+398§Open diamond
+399§Filled diamond
+400§Select size and colours
+401§Select colours
+402§Axes too large
+403§Origin is too far right
+404§Origin is too high
+405§Input is wrong
+406§WOODCOCK Diagram
+407§VOLLMER Diagram
+408§ Diagrams
+409§   Eigenvalue 1     Eigenvalue 2     Eigenvalue 3     c-Value
+410§Plot of the WOODCOCK Diagram
+411§Plot of the Vollmer Diagram
+412§Error in file Fabric.ini, line
+413§must be
+414§Correct this line
+415§ with a texteditor
+416§Turn on printer,
+417§Rot.:
+418§T'alpha/Alpha-Method (Ramsay,1967)
+419§File:
+420§Folds
+421§Fold
+422§Hinge distance:
+423§Isogon      Distance of Isogons     Tà/T0
+424§ERROR: 1. First sign not allowed
+425§Directions
+426§Fourier Analysis of Fold Shapes
+427§'Vergency         1.Point
+428§2.Point               3.Point              b1          b3
+429§            b5
+430§Fabric 7
+431§ Turn on plotter,
+432§ insert paper,
+433§ then hit any key
+434§finished?
+435§Plot terminated
+436§Plotting of the Diagram on the Plotter
+437§The plot file '
+438§' is set up
+439§Type diagramm caption:
+440§ Data
+441§Data
+442§Plot symbol
+443§Select a single sign
+444§Plot of the partial great circle
+445§Too many contour lines
+446§No result at
+447§ iterations
+448§ R%-G%-Diagram
+449§Diagrams
+450§Plot of the Fourier Diagram
+451§Plot of the fold
+452§Select the program, you want to work with:
+453§Type data as azimuth / angle of dip.
+454§Fabric8: Plot of Data in a Projektion Net
+455§Fabric8: Cluster of Orientation Data, Input from a Folder
+456§Fabric8: Small Circles, Manual Data Input
+457§Fabric8: Measures of Circular Distributions, Results
+458§Files:
+459§Range:
+460§Number of data
+461§Vector sum
+462§Normalized vector sum
+463§Preferred orientation
+464§Vector mean
+465§Skewness
+466§Kurtosis
+467§Fabric8: Statistical Measures of Circular Distributions, Input from a Folder
+468§Measures
+469§Plot
+470§Fabric8: Plot of Rose Diagrams
+471§Rose Type
+472§Block rose
+473§Star rose
+474§Floating intervals
+475§Fill the Diagram
+476§Not filled
+477§Filled
+478§Colour
+479§Black
+480§Blue
+481§Green
+482§Red
+483§Violett
+484§Diagram
+485§Copy
+486§Cut out
+487§Save
+488§Save under
+489§Load from clipboard
+490§Load from file
+491§Plot on a HP plotter
+492§Plot into a HPGL file
+493§Plot into a DXF file
+494§Size
+495§Format
+496§Portrait
+497§Landscape
+498§Colour of the periphery
+499§Colour of the objects
+500§Interval:
+501§Increment:
+502§Plot:
+503§Fabric8: Statistic Measures of Orientation Data
+504§Data Input
+505§     Calculation and Plot
+506§      of Orientation Data
+507§Fabric8: Calculation and Plot of Statistic Measures of Orientatation Data
+508§Confidence
+509§90 Percent
+510§95 Percent
+511§99 Percent
+512§Colour of Data
+513§Colour of Eigenvectors
+514§Colour of Aperture
+515§Colour of Cone of Confidence
+516§Data Symbol
+517§open circle
+518§filled circle
+519§Open square
+520§Filled square
+521§Open triangle
+522§Filled triangle
+523§Open diamond
+524§Filled diamond
+525§Lines
+526§Straight
+527§Dashed
+528§Dashdotted
+529§Dashdotted
+530§Colour of eigenvectors
+531§Colour of aperture
+532§Colour of cone of confidence
+533§Number of data
+534§Preferred orientation
+535§Concentration-parameter
+536§Cone of confidence
+537§Spherical aperture
+538§Centre of gravity
+539§Eigenvalues:
+540§Eigenvectors:
+541§Cylindricity
+542§Circular aperture
+543§The sample lies in the girdle field
+544§Fabric8: Presentation of Orientation Data with Contour Lines
+545§  Countour Diagram
+546§    of a Distribution
+547§  of Orientation Data
+548§
+549§Fabric8: Presentation of Orientation Data with Contour Lines, Plot
+550§Contouring
+551§Multiples of even distribution
+552§Choose steps
+553§1. Contour line
+554§2. Contour line
+555§3. Contour line
+556§4. Contour line
+557§5. Contour line
+558§Straight line
+559§Dashed line
+560§Dotted line
+561§Dotdashed line
+562§Colour of the 1st contour line
+563§Colour of the 2nd contour line
+564§Colour of the 3rd contour line
+565§Colour of the 4th contour line
+566§Colour of the 5th contour line
+567§Contours:
+568§at:
+569§Manual input:
+570§1st Contour:
+571§2nd Contour:
+572§3rd Contour:
+573§4th Contour:
+574§5th Contour:
+575§Calotte:
+576§Fabric8: Clusters of Orientation Data
+577§CLODAT
+578§Significant Separation
+579§of Submaxima
+580§in Distributions of Orientation Data
+581§
+582§Fabric8: Clusters of Orientation Data, Plot
+583§Select
+584§Confidence and Multiples
+585§of Even Distribution:
+586§Significant separation
+587§significant
+588§1,2,3,4,5,6,7,8,9,10
+589§Test angle:
+590§Data in Clusters:
+591§Multiples of
+592§Even Distribution:
+593§Group
+594§Number
+595§R%
+596§Con.-p.
+597§Theta
+598§S.aper.
+599§C.aper.
+600§Cyl.
+601§Centre
+602§Fabric8: Palaeo-Stress Analysis
+603§Determination of the Orientations
+604§of the Axes
+605§  Palaeo-Stress Analysis
+606§with Slickensides and Striations
+607§Slickenside plane:
+608§Azimuth / angle of dip
+609§Striation: azimuth / ±angle of dip
+610§positive: reverse fault
+611§negative: normal fault
+612§Output: corrected striations
+613§Slickenside
+614§Striation
+615§Slickenside:
+616§Striation:
+617§Fabric8: Palaeostress Analysis with the Dihedra Method, Plot
+618§Contour Lines
+619§20%
+620§40%
+621§60%
+622§80%
+623§95%
+624§Colour of the 20-percent contur line
+625§Colour of the 40-percent contur line
+626§Colour of the 60-percent contur line
+627§Colour of the 80-percent contur line
+628§Colour of the 95-percent contur line
+629§Number of dihedra:
+630§Size of the calotte
+631§Contour lines:
+632§Select size of calotte
+633§Fabric8: Plot Slickenside Planes and Striation Lineations
+634§ Plot of Slickenside Planes
+635§ and Striation Lineations
+636§in Lambert or
+637§Stereographic Projection
+638§Fabric8: Slickenside Planes and Striation Lineation, Plot
+639§Projection
+640§Lambert
+641§stereographic
+642§Colour
+643§slickenside planes
+644§Striations
+645§Dotted
+646§Number of Data:
+647§Fabric8: Hoeppener Diagram
+648§       Plot of a
+649§      Hoeppener Diagram
+650§in Lambert or Stereographic
+651§Projection
+652§Fabric8: Hoeppener Diagram, Plot
+653§Slip lines
+654§No
+655§Yes
+656§Upper slip-lines
+657§Lower slip-lines
+658§Save
+659§Cleaned data
+660§Erased data
+661§on the 2nd diskette
+662§Colour of points
+663§arrows
+664§Data that do not fit in these slip lines
+665§can be erased by double click
+666§with the mouse
+667§Finish correction
+668§Principal stresses:
+669§Sigma1:
+670§Sigma3:
+671§Shape factor 1:
+672§Shape factor 2:
+673§Change slip lines by overwriting
+674§and hitting 'Start'.
+675§Fabric8: Estimation of the Shape Factor, Plot
+676§Theoretical points
+677§Measured points
+678§Colour of the diagram
+679§Colour of the theoretical Points
+680§Colour of the measured Points
+681§Eigenvalues of the striations
+682§theoretical
+683§measured:
+684§Plot input ok?
+685§Length of the sides [mm]:
+686§Origin:
+687§X:
+688§Y:
+689§Coordinates
+690§Fabric8: Estimation of the Shape Factor of a Palaeo-Stress Ellipsoid
+691§                   Estimation
+692§           of the Shape Factor
+693§     of a Palaeostress Ellipsoid
+694§with the Eigenvalue Method
+695§Fabric8: Projections of a Globe
+696§               Plot
+697§         of Various
+698§Projections of a Sphere
+699§Fabric8: Projections of a Globe, Plot
+700§Great and Small Circles
+701§Equator
+702§Colour of the circles
+703§Colour of the equator
+704§Projection net:
+705§Orthographic net
+706§Angle:
+707§Distance of circles:
+708§Angle increment:
+709§Angle of tilt:
+710§Fabric8: R% - G% Diagram
+711§          Plot of a
+712§
+713§R% - G% - Diagram
+714§Fabric8: R%-G%-Diagram, Manual Data Input
+715§Type preferred orientation
+716§and cylindricity.
+717§Then click on a plot symbol.
+718§R%:
+719§G%:
+720§Symbol
+721§Data input:
+722§Orientation:
+723§Cylindricity:
+724§Symbol:
+725§Finish data input
+726§plot
+727§Fabric8: R%-G%-Diagram, Input from a Folder
+728§Fabric8: R%-G%-Diagram, Plot
+729§Colour of the Coordinates
+730§Colour of the Objects
+731§Length [mm]:
+732§Origin [mm]
+733§X-coordinate [mm]:
+734§Y-coordinate [mm]:
+735§Fabric8: Woodcock Diagram
+736§          Plot of a
+737§
+738§Woodcock Diagram
+739§Fabric8: Woodcock Diagram, Manual Data Input
+740§Type Eigenvalues:
+741§without the decimal point.
+742§Sum is wrong!
+743§Fabric8: Woodcock Diagram, Data Input from a Folder
+744§Fabric8: Woodcock Diagram, Plot
+745§Symbol
+746§Colour of the diagramm
+747§Colour of the objects
+748§Table of the c-values:
+749§Fabric8: Plot of a Vollmer Diagram
+750§  Vollmer-Diagram
+751§Fabric8: Vollmer Diagram, Plot
+752§Fabric8: Fourier Analysis of Fold Shapes
+753§  for Quantitative Description
+754§            of Fold Shapes
+755§Fabric8: Fourier Analysis of Fold Shapes, Manual Input
+756§Put fold-inversion into the origin of the coordinates.
+757§Vergency to the right is positive, to the left negative.
+758§Type X- and Y-coordinates of three Points of a quarter
+759§fold. The 3rd point must be in the fold hinge.
+760§1st point:
+761§2nd point:
+762§3rd point:
+763§1.point
+764§2.point
+765§3.point
+766§Vergency:
+767§Fabric8: Fourier Analysis of Fold Shapes, Input from a Folder
+768§Ver:
+769§1.point:
+770§2.point:
+771§3.point:
+772§Fabric8: Fourier-Analysis of Fold Shapes, Plot
+773§Side length [mm]:
+774§Origin [mm]:
+775§X:
+776§Y:
+777§Fabric8: T'alpha/Alpha-Method
+778§       Classification of Folds
+779§            by the Thickness
+780§            of Folded Layers
+781§T'alpha/Alpha-Method (RAMSAY, 1967)
+782§Fabric8: T'alpha/Alpha-Method, Manual Data Input
+783§Measure the distance of hinge lines (T0) between two
+784§neighbouring layers. Type lengths of the isogons
+785§(Talpha) between the borders of the layer.
+786§(Talpha) between the borders of the layer.
+787§Use only integer numbers.
+788§Number of layers
+789§    T0:        Isogons:       T  /T0:
+790§Isogons:
+791§Fabric8: T'alpha/Alpha Method, Data Input from a Folder
+792§Fabric8: T'alpha/Alpha-Method, Plot
+793§Lines
+794§Straight
+795§Dashed
+796§Dotdashed
+797§Dotted
+798§Number of folds:
+799§Table:
+800§T0:    Isogons:
+801§Side length [cm]:
+802§
+803§Schmidt net
+804§Wulff net
+805§orthographic net
+806§Kavraiskii net
+807§Length of ordinate [mm]
+808§Save Rotated Data
+809§Input:
+810§of the Statistic Parameters
+811§From diskette
+812§           Fourier Analysis
+813§of the origin [mm]:
+814§Length of Coordinates [mm]:
+815§Cluster field
+816§Girdle field
+817§OK?
+818§Points
+819§Girdle
+820§Random
+821§Intersection of 2 planes
+822§Angle between 2 linears
+823§Plane from 2 linears
+824§Normal on 2 linears
+825§Output in 'deg'
+826§From hard disk
+827§Angle between 2 planes
+828§: Clockwise is positive
+829§ angle of dip
+830§Colour of the periphery
+831§Colour of the slickensides
+832§Colour of the striations
+833§Estimation of the Shape Factor, Data Input from a Folder
+834§Plot of slickenside planes
+835§Points
+836§Girdles
+837§Random
+838§Fabric8, Measures of Circularly Distributed Measures, Manual Input
+839§Plot of a Rose Diagramm
+840§Fabric8: Plot of a Rose Diagram, Manual Data Input
+841§Fabric8: Plot of a Rose Diagram, Data Input from a Folder
+842§Pref. Orientation
+843§Cylindricity
+844§Fabric8: Vollmer Diagram, Manual Data Input
+845§Fabric8: Vollmer Diagram, Data Input from a Folder
+846§Symbol for data points
+847§Line Style
+848§Language
+849§Orthographic
+850§Type of Plot File:
+851§No plot
+852§Plot Size
+853§Portrait
+854§Landscape
+855§Confidence:
+856§Background Colour
+857§Gray
+858§Aqua
+859§White
+860§Colour of the Diagram
+861§Yellow
+862§Colour of Coordinates
+863§Program to Install Fabric8
+864§Change Fabric.ini:
+865§Path for the Data File:
+866§Path for the Plot File:
+867§Plotter Interface:
+868§Password:
+869§Yes
+870§No
+871§Language:
+872§Write to Fabric.ini
+873§The test period has expired.
+874§You have to buy the program
+875§to receive an unlimited license.
+876§The changes have been carried out in 'Fabric.ini'
+877§cannot be created.
+878§has been created.
+879§White
+880§Print Parameters:
+881§Print
+882§Abort
+883§Radius [in % of Paperwidth]:
+884§Centre of the Image:
+885§X-coordinate [in % of paper width]:
+886§Y-coordinate [in % of paper height]:
+887§Figure caption
+888§Font size
+889§Flush left
+890§Centered
+891§Flush right
+892§Colour of Frame
+893§Number of Data                  =
+894§Degree of Preferred Orientation =
+895§Concentration Parametre         =
+896§Cone of Confidence              =
+897§Spherical Aperture              =
+898§Centre of Gravity               =
+899§Eigenvalues:   Eigenvectors:                                                   
+900§Cylindricity      =
+901§Circular Aperture =
+902§Length [in % of Paperwidth]:
+903§Projection:
+904§Reconstruction or Simulation of Orientation Data
+905§            Reconstruction of Measures
+906§            (Azimuth and Angle of Dip)
+907§                    from a Stereo-Plot
+908§    or Simulation of Distribution Patterns
+909§ Create a bitmap of the diagram you want to evaluate.
+910§(use only the part within the periphery)
+911§   then copy the bitmap to the clipboard   
+912§Finish Reconstruction
+913§Number of data
+914§List of data
+915§Type of fabric
+916§Projection
+917§Projection
+918§Stereographic
+919§Orthographic
+920§Type of fabric
+921§Linears
+922§Planes
+923§Colour
+924§Black
+925§Red
+926§Blue
+927§Green
+928§Violet
+929§Yellow
+930§Save
+931§On hard disk
+932§On diskette A:
+933§On diskette
+934§Printer
+935§Setup
+936§Print
+937§Help
+938§Reconstruction
+939§Simulation
+940§or Creation of a Simulated Data Set    
+941§Finish simulation
+942§                  Shear Box 
+943§Simulation of Plane Strain
+944§Colour of Frame
+945§Colour of Undeformed Pattern
+946§Colour of Deformed Pattern
+947§Undeformed Pattern:
+948§Line
+949§Ellipse
+950§Rectangle
+951§Clipboard
+952§Erase
+953§Shear angle:
+954§Deg
+955§Shear:
+956§Shear
+957§Affin
+958§Non affin
+959§Factor:
+960§Flattening
+961§to
+962§Percent:
+963§Windows Version
+964§XP or older
+965§***empty***
+966§Talbot Method for 3-Dimensional Strain Analysis
+967§ Analysis of 3-Dimensional Strain
+968§ with the Talbot Method
+969§Talbot Method, manual Data input
+970§Extension: positive azimuth
+971§Compression: negative
+972§Strain analysis with the Talbot method
+973§Fabric8: Talbot Method, Data Input from a Folder
+974§Data
+975§Compression
+976§Extension
+977§Number of data larger
+978§than reserved number.
+979§Change max. number of data in the previous form.
+980§in file Fabric.ini.
+981§max. number of data:
+982§Orientation of the strain-ellipsoid
+983§Compression field:
+984§Prolate
+985§Oblate
+986§Strain-ellipsoid:
+987§Long axis:
+988§Middle axis:
+989§Short axis:
+990§Apical angle of cone
+991§Point in the Flinn-diagram
+992§Colour of the axes
+993§Colour of the ellipse
+994§Method of contouring
+995§Mellis method
+996§Distance method
+997§Smoothing degree
+998§Density steps
+999§In steps
+1000§Floating
+1001§Smoothing
+1002§New path:
+1003§Path:
+1004§Find data path
+1005§Data will be saved in:
+1006§Do you agree?
+1007§From Excel file
+1008§Data input from an Excel file
+1009§No excel file found
+1010§Find directory
+1011§Directory:
+1012§Upper cell
+1013§Lower row
+1014§Excel file:
+1015§Excel rows: from
+1016§to
+1017§Choose a worksheet
+1018§Worksheet:
+1019§Before you start Fabric8, Excel must be closed.
+1020§Make shure that Excel.exe is removed from the task manager as well.
+1021§(Press 'Strg-Alt-Del', click on 'processes' and remove "excel.exe"
+1022§from the list.
+1023§Data of the same fabric type (Planes or lineations) can be placed in one
+1024§or in two rows. empty cells or text containing cells are allowed
+1025§and will be ignored. Azimuth and dip must be separated by a sign
+1026§("/", ",",";").
+1027§Wrong data format in the excel file!
+1028§New File
+1029§Choose columns from excel file
+1030§Choose Excel file from the list
+1031§or choose new directory.
+1032§Fabic type:
+1033§Data in:
+1034§One column
+1035§Two columns
+1036§Input in two columns
+1037§Left upper cell
+1038§Right column
+1039§Lower row
+1040§Make sure that EXCEL.EXE is not
+1041§listed in the task manager.
+1042§Erase it, if necessary. Press
+1043§the keys CLR-ALT-DEL simultaneously
+1044§to open the task manager.
+1045§Gray, 20% black
+1046§Gray, 40% black
+1047§Gray, 60% black
+1048§Gray, 80% black
+1049§Colour
+1050§Steps of Gray
+1051§Multiples of even distribution
+1052§Click on the colours for
+1053§the highest and
+1054§the lowest contour line.
+1055§Manual
+1056§Colour of cones of confidence of pooled groups
+1057§Colour of spherical apertures of pooled groups
+1058§Colour of data points
+1059§Light green
+1060§Fry Method
+1061§Contours: Percent
+1062§Contours: Multiples
+1063§Strain Analysis with the Fry Method
+1064§From a picture
+1065§From a coordinate file
+1066§Terminate input
+1067§Fry-Method, load Bitmap
+1068§Import Picture
+1069§Paste
+1070§Save points
+1071§Save image
+1072§Save as *.bmp
+1073§Save as *.jpg
+1074§No image on the clipboard
+1075§Fry-Method, Evaluation
+1076§Zoom factor:
+1077§Number of points
+1078§Click on the ends of the
+1079§ long diameter of the ellipse.
+1080§Print image
+1081§Import bitmap as *.bmp or *.jpg
+1082§of even distribution
+1083§Periphery
+1084§Area
+1085§Centre to Centre Method
+1086§Centre Points
+1087§Hemisphere
+1088§Lower
+1089§Upper
+1090§Convergence
+1091§Divergence
+1092§Click on Sigma1
+1093§Click on Sigma3
+1094§Counting Calotte
+1095§Attention: Minimize the Excel sheet. Don't switch it off!
+1096§Fabric8: Fourier Analysis, Data from an Image
+1097§Inflection
+1098§Hinge
+1099§Click on an inflection point.
+1100§Click on the other inflection point.
+1101§Click on a point in the axial plane.
+1102§Click on another point of the axial plane.
+1103§Point 1
+1104§Point 2
+1105§Adjust picture
+1106§Rotate
+1107§Eliminate vergency
+1108§Coordinates
+1109§of the quarter fold:
+1110§T'/Alpha-Method, Data Input from an Image
+1111§New Centre Point
+1112§1st Hinge Point
+1113§2nd Hinge Point
+1114§Click on the new centre.
+1115§Click on a hinge point.
+1116§Click on the other hinge point.
+1117§Angle of Dip:
+1118§Isogon
+1119§New Fold
+1120§Click on one endpoint of the isogon.
+1121§Click on the other endpoint of the isogon.
+1122§Fold
+1123§Hinge distance(T0)
+1124§Show this message again
+1125§U-stage
+1126§Click on the data,
+1127§you want to erase.
+1128§Enter the directions
+1129§of sigma1 and sigma3,
+1130§and click on 'OK'.
+1131§Then enter the estimated lower
+1132§and upper limits of the shape factor.
+1133§Coordinates
+1134§Show point
+1135§Calculation of MRSS
+1136§Shape factor:
+1137§Click on a point in the
+1138§diagram, to show it's
+1139§azimuth and angle of dip.
+1140§Rotate picture
+1141§90° right
+1142§90° left
+1143§About 180°
+1144§Talbot-Method, Plot
+1145§Projection Method (Panozzo Method)
+1146§Strain analysis with the Projection Method
+1147§               (after Panozzo, 1984)
+1148§From a polygon file
+1149§Digitize polygons
+1150§Projection Method, Plot
+1151§Save polygons
+1152§Projection Method, load file
+1153§Load Data from a File
+1154§Number of Polygons
+1155§Colour of polygons
+1156§Ellipticity (R):
+1157§Form Analysis
+1158§Import a picture from the clipboard or from a file.
+1159§Click on the edges of a polygon with the left mouse button.
+1160§Avoid strongly concave shapes!
+1161§Close the polygon pressing the right mouse button.
+1162§Erase last polygon
+1163§Save centres of gravity
+1164§From a polygon file
+1165§Draw Isogons
+1166§Draw diagram
+1167§Median line horizontal
+1168§Isogon
+1169§Next dip angle
+1170§Centre point
+1171§New centre point
+1172§Increment (°):
+1173§Carry out the following steps:
+1174§1) Choose the increment of the dip angles of the tangents.
+1175§2) Put the 0°-tangent on the first layer border and press the left mouse button.
+1176§3) Hold the mouse button down and put the tangent on the next layer border.
+1177§4) Lift the mouse button and repeat steps 2) and 3).
+1178§5) When all 0°-isogons are drawn, press the button "next dip angle"
+1179§and repeat steps 2 - 5.
+1180§Colour of isogons
+1181§Pen width
+1182§Dash dot dot
+1183§References
+1184§Pen width
+1185§no significant clusters found
+1186§Pen width (Pixel)
+1187§Choose pen width:
+1188§Scale
+1189§Clockwise
+1190§Counterclockwise
+1191§The results may vary up
+1192§to 6°, depending on pixel distance!
+1193§Data
+1194§Point
+1195§Fabric8: Plot Counting Calottes
+1196§Counting Points/Diameter
+1197§Counting grid
+1198§Change counting grid
+1199§Nets
+1200§Projections
+1201§Counting grids
+1202§Orthographic
+1203§Colour
+1204§Counting calotte
+1205§change counting calotte
+1206§Size of calotte in %:
+1207§Rtf file
+1208§Vergency   Point 1   Point 2   Point 3      b1     b3     b5
+1209§Data: strike/dip/N or S
+1210§Compass
+1211§Brunton Compass
+1212§Clar Compass
+1213§Size of points
+1214§Small
+1215§Sarge
+1216§Lineation
+1217§Plane
+1218§Test of Non-Random Distribution
+1219§ Test of Non-Random Distribution
+1220§after Woodcock and Naylor (1983)
+1221§Number
+1222§of data
+1223§Significant
+1224§Random
+1225§Start this programme.
+1226§Confirmation
+1227§Cannot read this format,
+1228§Change the file to a *.bmp or *.jpg-format.
+1229§Isogons
+1230§Clockwise isogons
+1231§Anticlockwise isogons
+1232§Click on the beginning of the isogon
+1233§Click on the next point of the isogon
+1234§Choose the distance between the isogons (Increment)
+1235§Undo
+1236§Click on the hinge point.
+1237§Click on X1.
+1238§Click on X2.
+1239§Adjust picture?
+1240§No adjustment
+1241§Eliminate vergency?
+1242§Type measures as strike,
+1243§angle of dip, and N or S.
+1244§Finish with the right mouse button.
+1245§Principal stresses
+1246§Fabric8: Rose Diagram, Input from an Aerial (Satellite) Image
+1247§Rotate picture
+1248§Determine the north direction by clicking on two points. 1st point:
+1249§Click on the 2nd point
+1250§Click on one end of a lineation
+1251§Click on the other end
+1252§Colour of lineations
+1253§Lineations:
+1254§Azimuth Length
+1255§Click on the vector arrow of a lineation
+1256§Click on the vector tail of the lineation
+1257§Wrong data can be erased from the list by clicking on them. 
+1258§Plot Data on a Map
+1259§    Plot Orientation Data
+1260§             on a Map
+1261§From a map
+1262§Geographic
+1263§Plot Measures on a Map (manual data input)
+1264§Geogr. Latitude
+1265§Geogr. Longitude
+1266§Deg
+1267§Min
+1268§Sector
+1269§North-East
+1270§North-West
+1271§South-East
+1272§South-West
+1273§Change margins of the map:
+1274§Upper left corner
+1275§Lower right corner
+1276§Latit.
+1277§Longit.
+1278§Wrong latitudes or longitudes!
+1279§Length of symbols
+1280§Lengths of sides [in % of paper width]
+1281§Colour of the map
+1282§Plot measures on a map (input from a folder)
+1283§Plot Measures on a Map (with Coordinates)
+1284§Plot Measures on a Map (with Points in the Map)
+1285§Marking of data locations
+1286§ Go to menu 'Marking of data locations'
+1287§
+1288§Plot Data from an EXCEL File on a Map
+1289§Position display format
+1290§Sec
+1291§not defined
+1292§Input of the columns for latitude and longitude.
+1293§Column of azimuth values
+1294§Column of dip values
+1295§Excel-lines
+1296§to
+1297§Upper line
+1298§Lower line
+1299§Move margins (in min.)
+1300§Easting:
+1301§Northing:
+1302§Margins of the map
+1303§Wrong easting!
+1304§Wrong northing!
+1305§Plot of the map
+1306§Column of easting
+1307§Colunm of northing
+1308§E
+1309§N
+1310§Files have different coordinate formats
+1311§and
+1312§Gauss-Krueger
+1313§UTM
+1314§Outside
+1315§Inside
+1316§Left
+1317§Right
+1318§Upper
+1319§Lower
+1320§Move margins (in m)
+1321§On the front side
+1322§On the backside
+1323§Click on the data points
+1324§Easting
+1325§Northing
+1326§Wrong easting
+1327§Wrong northing
+1328§Change margins of the map
+1329§Set margins of the map
+1330§Colour of data
+1331§Upper margin
+1332§Lower margin
+1333§Left margin
+1334§Right margin
+1335§Map
+1336§Symbols
+1337§Structural symbols
+1338§Numbers
+1339§Separator
+1340§Wrong data in line
+1341§Other methods
+1342§Statistics
+1343§Plot of data
+1344§Plot of poles to planes
+1345§Plot of great circles
+1346§Plot of the displacement data
+1347§Calculation of the shape factor
+1348§Plot of a Hoeppener-Diagram
+1349§Dihedra-method
+1350§Test of non-random distribution
+1351§Plot poles to planes
+1352§Vector graphics
+1353§Pixel graphics (in steps)
+1354§Pixel graphics (floating)
+1355§Polygons
+1356§Fry-Method
+1357§Projection-Method (Panozzo-Method)
+1358§Rf/Phi-Method (Lisle 1985)
+1359§       for Strain Analysis
+1360§    with Elliptical Markers
+1361§Rf/Phi-Method, Data Input
+1362§RF/Phi file
+1363§Rf/Phi, Evaluation
+1364§Rf/Phi Method
+1365§Harmonic mean of Rf =
+1366§Vector mean of Phi  =
+1367§Symmetrie-Index     =
+1368§Strain-Ellipse      =
+1369§Degrees of freedom  =
+1370§The distribution is probably symmetrical
+1371§The distribution is probably asymmetrical
+1372§Rf/Phi diagram
+1373§Chi² diagram
+1374§Print Rf/Phi diagram
+1375§Print Chi² diagram
+1376§Save Results
+1377§Chi² diagram
+1378§Colour of diagram
+1379§Print Rf diagram
+1380§Print Chi² diagram
+1381§Print Results
+1382§Rf (Harmon. Mean):
+1383§(Vector Mean):
+1384§Index of Symmetry:
+1385§Number of Data      =
+1386§Degr. of Freedom
+1387§Numbering
+1388§Choose projection and fabric type
+1389§Click on the end points of the E-W-diameter
+1390§Click on "Cut out"
+1391§Choose projection
+1392§Choose shape factor and enter azimuth and dip of sigma1 and sigma3.
+1393§Erase last ellipse
+1394§The results may vary up to 6°
+1395§according to distance of pixels!
+1396§Undo
+1397§Fault plane: strike, dip angle, direction (N or S)
+1398§Striation  : strike, ± dip angle, direction (N or S)
+1399§Pitch angle:
+1400§Striation  : ± pitch angle, clockwise
+1401§Striation  : ± pitch angle, counterclockwise
+1402§Amount of data
+1403§single data
+1404§set of data
+1405§Pitch angle from a plane and lineation
+1406§     Plane          Lineation     Pitch Angle
+1407§Lineation from Pitch angle
+1408§   Plane           Pitch Angle      Lineation
+1409§   Plane        Lineation       Pitch Angle
+1410§   Plane         Pitch Angle     Lineation
+1411§     Plane             Lineation           Pitch Angle
+1412§  Plane             Lineation             Pitch Angle
+1413§Position of the image on the printed page:
+1414§All lengths in % of paper width
+1415§Left margin
+1416§Upper margin
+1417§Long image side
+1418§Transparent
+1419§Change ellipse
+1420§Redraw
+1421§Long axis
+1422§Rotate Ellipse
+1423§Rotate 1° clockwise
+1424§Rotate 1° anticlockwise
+1425§Short axis
+1426§short diameter of the ellipse.
+1427§Plot calculated ellipse
+1428§Change size of the ellipse
+1429§' Diagram
+1430§Fry Plot
+1431§D'/alpha' diagram
+1432§Print Fry plot
+1433§Print d'/alpha' diagram
+1434§Method
+1435§Conventional
+1436§Normalized
+1437§Conventional Fry Plot
+1438§Normalized Fry Plot
+1439§Change image size
+1440§Image Width (Pixels):
+1441§Image Height (Pixels):
+1442§Fabric8: Reconstruction of Orientation Data
+1443§Fabric8: Calculation of azimuth and dip angle from the data points
+1444§Fourier coefficients
+1445§Fabric8: Talbot method, manual data input
+1446§ short diameter of the ellipse
+1447§Calculated
+1448§Table (Lisle, 1985)
+1449§Shape factor
+1450§Mohr diagram
+1451§As *.BMP
+1452§As *.JPG
+1453§Background
+1454§Colour of the not realized area
+1455§Constructed ellipse
+1456§Calculated ellipse
+1457§Add file name
+1458§Save triangle diagram
+1459§Save triangle diagram under
+1460§Save Mohr diagram
+1461§Save Mohr diagram under
+1462§Column of dip direction
+1463§Colour Click points
+1464§Image too large
+1465§Click on the centres.
+1466§Click on the centres and on the short diameters of the ellipses.
+1467§Azimuth/dip in strike/dip/direction
+1468§Azimuth of dip:
+1469§Angle of dip:
+1470§Azimuth/Dip          Strike/Dip/Direction
+1471§Strike
+1472§Dip
+1473§N or S
+1474§Azimuth/Dip from Strike/Dip/Direction
+1475§Plane: Strike/Dip/Direction from Azimuth/Dip
+1476§Linear: Strike/Dip/Direction from Azimuth/Dip
+1477§Plane: Azimuth/Dip from Strike/Dip/Direction
+1478§Linear: Azimuth/Dip from Strike/Dip/Direction
+1479§Strike/Dip/Direction           Azimuth/Dip
+1480§Planes from Azimuth/Dip to Strike/Dip Direction
+1481§Azimuth/Dip                Strike/Dip Direction
+1482§Linears from Azimuth/Dip to Strike/Dip Direction
+1483§Planes from Strike/Dip Direction to Azimuth/Dip
+1484§Strike/Dip Direction       Azimuth/Dip
+1485§Linears from Strike/Dip Direction to Azimuth/Dip
+1486§Get picture from a file
+1487§Get picture from clipboard
+1488§Fabric8: Plot of Small Circles: Input from a Folder
+1489§Plot of Small circles: List of Data
+1490§Mohr Circle for Stress or Finite Strain
+1491§         Mohr Circle for Stress
+1492§                or Finite Strain
+1493§Mohr circle
+1494§Stress
+1495§Strain
+1496§For stress
+1497§For finite strain
+1498§Size of the points
+1499§Colour of the Circle
+1500§Colour of the filling
+1501§Mohr Circle for Finite Strain
+1502§Axes
+1503§Open the menu "Data input"
+1504§Shear strain:
+1505§Fabric8: Palaeo-Stress Analysis, Manual Data Input
+1506§Fabric8: Palaeostress Analysis, Data Input from a Folder
+1507§Fabric8: Hoeppener Diagram, Data Input from a Folder
+1508§Fabric8: Slickenside Planes and Striations, Data Input from a Folder
+1509§Fabric8: Vollmer Diagram, Manual Data Input
+1510§Fabric8: Vollmer Diagram, Data Input from a Folder
+1511§Fabric8: Shape Factor of the Stress Ellipsoid, Manual Data Input
+1512§Fabric8: Shape Factoe of the Stress Ellipsoid, Data Input from a Folder
+1513§Fabric8: T'alpha/Alpha Method, Data Input from an Image
+1514§Fabric8: Panozzo Method, Data Input
+1515§Fabric8: Test of Non-Random Distribution
+1516§Fabric8: Test of Non-Random Distribution, Manual Data Input
+1517§Fabric8: Test of Non-Random Distribution, Data Input from a Folder
+1518§Column for directions
+1519§Column for lengths
+1520§Result
+1521§Palaeostress Analysis, Input from an Excel Worksheet
+1522§Sclickenside Planes:
+1523§Striations:
+1524§In steps with contour lines
+1525§Sigma1 must be larger than Sigma2!
+1526§Create polylines.
+1527§Fill contour lines?
+1528§Polygons
+1529§Polyline cannot be closed,
+1530§Polylines are created.
+1531§Please wait.
+1532§Connect TECTRONIC 4000 to a serial interface
+1533§Elongation:
+1534§Flinn and Hsü (Nadai) Diagrams
+1535§Flinn and Hsü Diagrams
+1536§ of the Ratio of the Axes
+1537§Scaling
+1538§Linear
+1539§Logarithmic
+1540§Flinn and Hsü Diagrams: Manual Input
+1541§Input of the long, middle,
+1542§and short axis of an ellipsoid
+1543§and press 'return' after each input.
+1544§long a.
+1545§middle a.
+1546§short a.
+1547§ Long a.   middel a.   short a.
+1548§Flinn and Hsü Diagrams, Input from a File
+1549§Type of Data
+1550§Elongation
+1551§Flinn Diagram
+1552§Hsü Diagram
+1553§Colours
+1554§Diagram
+1555§Frame
+1556§Unknown image format. The following formats can be used:
+1557§Diagram Name:
+1558§Add extension
+1559§Find Diagram
+1560§Plot of diagramms
+1561§Make a diagram
+1562§Method
+1563§Dihedra
+1564§Determination of the Shape Factor with the Iteration Method
+1565§with the Dihedra Method
+1566§Eigenvalues
+1567§Iteration
+1568§Azimuth
+1569§Dip
+1570§Eigenvalue Method
+1571§Show Diagram
+1572§Plot Data
+1573§Original Data
+1574§Rotated Data
+1575§With the Dihedra Method
+1576§As Hoeppener Diagram
+1577§As Displacement Data
+1578§Save iteration diagram
+1579§Save iteration diagram as
+1580§Width [mm]
+1581§Calibrate printer
+1582§Wanted width [mm]
+1583§Width on printer paper [mm]
+1584§Colour of iteration curve
+1585§Iteration method
+1586§Colour of Sigma1 and Sigma3
+1587§Estimated location of Sigma1 and Sigma3
+1588§Colour of points
+1589§Colour of small circles
+1590§Colour of small circle filling
+1591§No filling of small circles
+1592§Geographic (dd°mm.mmm')
+1593§Geograohic (dd^°mm'ss.s'')
+1594§Gauss-Krueger
+1595§UTM
+1596§The following option has been chosen:
+1597§Nets
+1598§Counting grid
+1599§   Draw Isogons
+1600§    of Ellipsoid Bodies
+1601§Save as *.gif file
+1602§Save as *.tif file
+1603§Save as *.wmf file
+1604§Save as *.emf file
+1605§Flattening to
+1606§Plot great circle
+1607§Cut out
+1608§Whole picture
+1609§Cut out
+1610§Click on the upper left edge of the cut out.
+1611§Click on the lower right edge of the cut out.
+1612§BMP (Windows Bitmap)
+1613§GIF (Grapics Interchange Format)
+1614§TIF (Tagged Image File Format)
+1615§Jpg (Jpeg File Interchange Format)
+1616§Wmf (Windows Metafile)
+1617§Emf (Enhanced Windows Metafile)
+1618§PNG (Portable Network Graphics)
+1619§PLT (Hewlett Packard Graphic Language)
+1620§DXF (Drawing Interchange Format)
+1621§Font
+1622§A plt file cannot be created.
+1623§Height
+1624§Save all data
+1625§ Orientation Data
+1626§ Displacement Data
+1627§ Fold Analysis
+1628§ Eigenvalue Methods
+1629§ Twodimensional Strain Analysis
+1630§ Mapping
+1631§Symmetry plane between two planes
+1632§  Plane 1          Plane 2      Symmetry
+1633§  Azimuth/dip       Strike/dip Direction
+1634§  Strike/Dip Direction   Azimuth/Dip
+1635§Plane 1:          Plane 2:        Symmetry Plane:
+1636§  Plane: Strike/Dip, Direction from Azimuth of Dip/Dip Angle
+1637§  Linear: Strike/Dip, Direction from Azimuth of Dip/Dip Direction
+1638§Direct inversion
+1639§Click on sigma2
+1640§with the left mouse
+1641§button. Hold the
+1642§button down and
+1643§move sigma2
+1644§until the circles
+1645§fit the point
+1646§distribution.
+1647§R-Values for Measured Planes
+1648§Direct method
+1649§Mohr's circles
+1650§Histogram
+1651§Vectors
+1652§S1-s3-circle
+1653§S1-s2-circle
+1654§s3-s2-circle
+1655§Planes with R <= 1
+1656§Do you really want to erase
+1657§permanently?
+1658§erased
+1659§Erase file
+1660§Erase
+1661§Mean =
+1662§Actual point
+1663Separation of submaxima
+1664§Click the estimated
+1665§projection point for s1.
+1666§Confirm with button s1.
+1667§Do the same for s3.
+1668§Choose a radius (in mm, R<Xcentre, R<Ycentre)
+1669§in the panel 'Plot'.
+1670§Press the button 'Create plotfile'.
+1671§A test will be printed.
+1672§Write the chosen and the printed diameter
+1673§in the fields below.
+1674§Chosen diameter
+1675§Printed diameter
+1676§Choose the length of a coordinate (in mm)
+1677§on the Panel 'Plot'
+1678§Write the chosen and the printed lengths
+1679§in the fields below.
+1680§Chosen length
+1681§Printed length
+1682§Cancel
+1683§Reconstruct;
+1684§Y-coordinate too small
+1685§Superimpose another diagram
+1686§From Clipboard
+1687§From a file
+1688§Undo
+1689§You have one diagram on the clipboard. Erase?
+1690§Erased
+1691§Clipboard
+1692§Position
+1693§Position of the first form
+1694§Input of the position of the upper left corner
+1695§(in pixels)
+1696§Left
+1697§Top
+1698§Superimpose an image (a map)
+1699§Insert text
+1700§Write text
+1701§Finish with 'return'
+1702§Click on the point where the left upper corner of the text shall appear.
+1703§Fry plot
+1704§D/Alpha diagram
+1705§Calculations
+1706§Eliminate clusters
+1707§Eliminate Clusters
+1708§with clicking on the points
+1709§Finished
+1710§Orientaion of axes
+1711§Within the n.f.l.s. ellipse:
+1712§Extension
+1713§Shortening
+1714§Prolate
+1715§Oblate
+1716§Principal planes
+1717§Draw
+1718§Save data?
+1719§Point in the list 'Select file' on the file you want to erase.
+1720§Then press the left mouse button.
+1721§Long axis
+1722§The Flinn diagramm can not be constructed.
+1723§Presentation
+1724§Congruent
+1725§Overlapping
+1726§Arrangement of forms
+1727§Threedimensional Strain Analysis
+1728§Click on one end of the long diameter of the ellipse.
+1729§Click on one end of the short diameter of the ellipse.
+1730§Long and short radius
+1731§Repeat
+1732§Data Input: Strike - Dip Angle - Dip Direction
+1733§(N or S)
+1734§Wellman's Method for Deformed Rectangular Markers
+1735§Wellman's Method
+1736§Strain Analysis with Former Rectangular
+1737§      Markers
+1738§Wellman (1962)
+1739§Wellman's Method, Main Form
+1740§Wellman's Method, Evaluation
+1741§Click on the endpoints of the first marker in the first object.
+1742§Click on the endpoints of the other marker in the object.
+1743§Click on the intersection point of the two lines.
+1744§Click on the endpoints of the first marker in the next object.
+1745§List of Points:
+1746§Wellman's Method, Get Data from a File.
+1747§Save points
+1748§Wellman's Method of 2D Strain Analysis
+1749§List of Points
+1750§Coordinates (x  y)
+1751§Fit ellipse
+1752§Fit the ellipse to the points
+1753§Print picture
+1754§Erase last object
+1755§No rotation
+1756§Rotate picture?
+1757§Click on one point of the reference line.
+1758§Click on another point of the reference line.
+1759§Move
+1760§Ellipse OK
+1761§Angle / Rotation
+!762§Rotate clockwise
+1763§Rotate anticlockwise
+1764§Image Width (in % of paper width)
+1765§End

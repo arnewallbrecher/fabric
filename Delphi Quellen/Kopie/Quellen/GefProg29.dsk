@@ -1,0 +1,117 @@
+[Closed Files]
+File_0=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit96.pas',0,1,52,37,67,1,0
+File_1=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit10.pas',0,1,172,54,191,1,0
+File_2=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit95.pas',0,1,83,34,95,1,0
+File_3=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\English.txt',0,1,1525,5,1544,0,0
+File_4=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\DEUTSCH.txt',0,1,1523,5,1544,0,0
+File_5=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit12.pas',0,1,745,26,765,1,0
+File_6=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit13.pas',0,1,89,46,102,0,0
+File_7=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Globvar.pas',0,1,262,30,279,0,0
+File_8=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit1.pas',0,1,79,15,94,1,0
+File_9=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit2.pas',0,1,67,10,77,1,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+
+[D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\GefProg29.dpr]
+FormState=0
+FormOnTop=0
+
+[C:\Programme\Borland\Delphi5\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=2
+Top=2
+Width=1036
+Height=105
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1028
+ClientHeight=78
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=525
+ClientHeight=326
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=186
+Width=190
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=180
+ClientHeight=468
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[DockHosts]
+DockHostCount=0
+

@@ -1,0 +1,53 @@
+program Fabric8;
+uses
+  Forms,
+  Globvar,
+  SysUtils,
+  Dialogs,
+  Standard,
+  LiesConf,
+  Texte,
+  Classes,
+  ShlObj,
+  Windows,
+  ShellApi,
+  ActiveX,
+  Basic,
+  Unit1 in 'Unit1.pas' {Form1  Fabric8},
+  Unit2 in 'Unit2.pas' {Form2  Liste der Unterprogramme};
+
+{$R *.RES}
+//const                                //
+//  CSIDL_LOCAL_APPDATA = $001C;       //
+//  CSIDL_COMMON_APPDATA = $0023;      //
+//var                                  //
+// hWindow : HWND;                     //
+// Folder  : integer;
+
+begin
+//  GetDir(0, DirectS);                //
+  DirectS := ExtractFilePath(paramstr(0));
+//  DirectS := GetSpecialFolder(hWindow,Folder);   //
+  FabIni;
+  LiesConfig;
+  if not fileexists (DirectS+'\'+'Lizenz.bin') then
+  begin
+    showmessage('Fabric8 is installed in '+chr(13)+
+                 DirectS+'.'+chr(13)+
+                'To run the program, you need a licence'+chr(13)+
+                'which will be send to you when you write an e-mail to'+chr(13)+
+                'eckart.wallbrecher@uni-graz.at.');
+    exit;
+  end
+  else
+  begin
+    LiesLizenz;
+    Application.Initialize;
+    Application.Icon.LoadFromFile(DirectS+'\'+'Symbol1.ico');
+    Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+  end;
+
+end.
+

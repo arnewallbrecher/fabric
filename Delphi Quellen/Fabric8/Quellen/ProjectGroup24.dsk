@@ -1,0 +1,121 @@
+[Closed Files]
+File_0=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Unit17.pas',0,1,131,46,135,1,0
+File_1=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Unit15.pas',0,1,164,45,180,1,0
+File_2=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Unit16.pas',0,1,168,39,182,1,0
+File_3=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Unit18.pas',0,1,176,39,195,1,0
+File_4=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\HpPlot.pas',0,1,784,3,802,0,0
+File_5=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Dateien.pas',0,1,268,1,282,0,0
+File_6=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\DEUTSCH7.txt',0,1,53,20,86,0,0
+File_7=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Unit6.pas',0,1,130,46,141,1,0
+File_8=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Unit19.pas',0,1,796,20,812,0,0
+File_9=SourceModule,'D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Unit11.pas',0,1,135,41,142,1,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+
+[D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Gefprog6.dpr]
+FormState=0
+FormOnTop=0
+
+[D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\ProjectGroup24.bpg]
+FormState=0
+FormOnTop=0
+
+[D:\Eigene Dateien auf D\Delphi-Quellen\Gefuege7\Quellen\Gefprog24.dpr]
+FormState=0
+FormOnTop=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=4
+Top=9
+Width=1024
+Height=131
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1016
+ClientHeight=104
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=525
+ClientHeight=326
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=21
+Top=244
+Width=190
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=180
+ClientHeight=468
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[DockHosts]
+DockHostCount=0
+

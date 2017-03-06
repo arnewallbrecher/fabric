@@ -1,0 +1,641 @@
+1§zurück zu Windows|Das Programm wird beendet
+2§zu den Unterprogrammen|Die Programmliste wird geöffnet,
+3§ in der eines der Unterprogramme ausgewählt werden muß.
+4§Rechtmäßiger Benutzer von Fabric8|
+5§Demo-Lizenz für zwei Monate. Eine permanente Lizenz wird nur bei Erwerb von Fabric8 vergeben.
+6§Erläuterungen finden Sie im Handbuch|
+7§Das Handbuch befindet sich im Ordner 'Manual'. Das aktuelle Kapitel kann durch Klicken auf 'Handbuch' eingesehen werden.
+8§Programm wählen|Klicken Sie ein Unterprogramm doppelt an,
+9§ oder wählen Sie mit dem Aufwärts- oder Abwärts-Pfeil und RETURN.
+10§zurück zum Anfang
+11§Abbrechen|zurück zum Anfang
+12§Futteral-Falte|Foto: SW Scherzone, G. Meatiq, östliche Wüste, Ägypten
+13§Dateneingabe, Berechnung, Winkel|
+14§Die gewählten Spezifikationen werden angezeigt.
+15§Auswahl|Die gewählten Spezifikationen werden hier angezeigt
+16§zum nächsten Fenster|weiter zur Dateneingabe und Berechnung
+17§ Weiter-Taste nach Auswahl von Dateneingabe, Berechnungen und Winkel
+18§zurück zum letzten Fenster| zurück zum Fenster 'Auswahl der Unterprogramme'
+19§Abbruch|zurück zur Programm-Liste
+20§Anzahl|Anzahl der eingegebenen Daten
+21§Azimut|Fall-Azimut der ersten Messung, Eingabe mit RETURN abschließen.
+22§Fallwinkel|Fallwinkel der ersten Messung, Eingabe mit RETURN abschließen.
+23§Azimut|Fall-Azimut der zweiten Messung, Eingabe mit RETURN abschließen.
+24§Fallwinkel|Fallwinkel der zweiten Messung, Eingabe mit RETURN abschließen.
+25§Alles richtig?|Wenn die Eingaben korrekt sind, hier klicken.
+26§Abschließen|Daten können jetzt gespeichert und/oder gedruckt werden
+27§Programmbeginn|Nach Drücken von Start werden Daten eingegeben
+28§zurück zum letzten Fenster|Rückkehr zum Beginn von 'Berechnungen'
+29§Liste|Liste aller eingegebener Daten und Ergebnisse
+30§Abbruch|sofortige Rückkehr zur Programm-Liste
+31§Eingabe und Ergebnisse|Anzeige der eingegebenen Daten und der Ergebnisse
+32§Anzeige der ausgewählten Dateien|Anzeige der Namen der ausgewählten Dateien
+33§Auswahl|Klicken Sie alle Dateien an, mit denen Sie arbeiten wollen
+34§Daten-Directory|Der gesamte Pfad und die Datei,die die Daten enthält, wird angezeigt.
+35§Extension anzeigen| Die Extension für den gewählten Datentyp wird angezeigt
+36§Anzahl der Daten|Summe der Daten in allen ausgewählten Dateien
+37§Aktivieren der Grafik|Darstellung der Lagenkugel-Projektion der ausgwewählten Daten
+38§Berechnen|Berechnungen werden gestartet. Ergebnisse können gespeichert werden
+39§Azimut|Azimut der Rotationsachse, Eingabe mit RETURN beenden.
+40§Fallwinkel|Fallwinkel der Rotationsachse, Eingabe mit RETURN beenden.
+41§Rotationswinkel|Drehwinkel im Uhrzeigersinn eingeben, Eingabe mit RETURN beenden.
+42§Bestätigen|Daten für die Rotation bestätigen
+43§Azimut|Fall-Azimut der Daten, Eingabe mit RETURN beenden.
+44§Fallwinkel|Fallwinkel der Daten, Eingabe mit RETURN beenden.
+45§Bestätigen|Bestätigung der Eingabe. Es kann auch RETURN eingegeben werden.
+46§zurück zum letzten Fenster|zurück zum Anfang von ROTATIONEN
+47§Datenliste|Liste der eingegebenen Daten und der rotierten Daten
+48§nächstes Fenster|Das Fenster für Dateneingabe wird angezeigt
+49§manuelle Dateneingabe| Eingabe der Daten (Azimut/Fallwinkel)
+50§Aktivieren des Fensters|Nach START kann die Dateneingabe beginnen.
+51§Umschalten zur Graphik|Den Bildschirm für die Lagenkugel-Projektion anzeigen.
+52§zurück zum letzten Fenster|zurück zum Beginn von 'Plotten von Daten'
+53§Datenliste|Die eingegebenen Daten werden hier aufgelistet.
+54§Datenliste|Die Daten aller ausgewählter Dateien werden aufgelistet.
+55§Auswahl beenden|Auswahl der Dateien beenden
+56§Plotfläche|Die ausgewählten Daten werden dargestellt. Projektion, Darstellung
+57§der Daten und Farbe waren in Fabric.ini gespeichert.
+58§Plot-Datei|Angaben für die Plot-Datei,
+59§ diese muß mit dem Grafik-Menu spezifiziert werden
+60§Grafik-Menu ok?|Die im Menu 'Grafik' gewählten Spezifikationen sollen gelten
+61§Radius der Projektion|Radius der Projektion in der Plot-Datei
+62§Mittelpunkt der Projektion|Mittelpunkt der Projektion in der Plot-Datei
+63§horizontal|horizontaler Abstand des Mittelpunktes vom linken Bildrand
+64§vertikal|vertikaler Abstand vom unteren Bildrand
+65§übernehmen|Diese Einstellungen sollen gelten
+66§Auswahl anzeigen|zeigt an, ob die Eingabe in Alt- oder Neugrad erfolgen soll
+67§nächstes Fenster|Zur Eingabe von Achse und Öffnungswinkel
+68§Daten|Daten des Kleinkreises
+69§Azimut|Azimut der Kleinkreis-Achse, Eingabe mit RETURN beenden.
+70§Fallwinkel|Fallwinkel der Kleinkreis-Achse, Eingabe mit RETURN beenden.
+71§Apical-Winkel|Öffnungswinkel des Kleinkreises, Eingabe mit RETURN beenden.
+72§Eingabe bestätigen|Daten zum Zeichnen eines Kleinkreises bestätigen
+73§Daten verwenden|Kleinkreise für eingegebene Daten werden berechnet.
+74§Dateneingabe, Datentyp, Winkeltyp, Bereich |
+75§zum nächsten Fenster|weiter zur Dateneingabe
+76§manuelle Dateneingabe|Meßdaten eingeben
+77§Betrag (Länge)|Länge des gemessenen Objektes, Eingabe mit RETURN beenden.
+78§Ende der Dateneingabe|Daten können gespeichert werden
+79§Berechnung starten|Die statistischen Maßzahlen werden angezeigt
+80§zum vorigen Fenster|zurück zum Anfang von 'Kleinkreise'
+81§zum vorigen Fenster|zurück zum Anfang von 'Masszahlen'
+82§Liste der Dateien|Daten aus diesen Dateien wurden zur Berechnung zusammengefaßt
+83§Voll- oder Halbkreis|Daten sind Achsen (1..180) oder Vektoren (1..360)
+84§siehe Hilfe|Diese Masszahlen werden in der Hilfe bzw. im Handbuch erklärt.
+85§zum vorigen Fenster|zurück zur Dateneingabe
+86§Maximalwert|Größe der an stärksten besetzten Klasse
+87§Plotfläche|Die Darstellung der Richtungsrose, Füllung und Farbe wurden aus Fabric.ini übernommen.
+88§ Füllung und Farbe ausgewählt werden.
+89§Winkel-Intervall|Die Größe der Sektoren (Klassen) wird als Winkel eingegeben
+90§Winkelabstand|Schrittweite für fließende Klassengrenzen (muß ein Teiler des Intervalls sein.)
+91§Eingabe|Sektorengröße und Schrittweite
+92§Bestätigung|Die Eingaben werden übernommen.
+93§zum letzten Fenster|zurück zum Beginn von 'RICHTUNGSROSE'
+94§Dateneingabe, Gefügetyp, Winkel|
+95§Plotfläche|Alle Einstellungen (Halbkugel, Projektion, Farbe etc.) wurden in Fabric.ini gespeichert.
+96§eingegeben werden.
+97§zurück zum letzten Fenster|zurück zur Dateneingabe
+98§zum nächsten Fenster|zu den Lagekugel-Projektionen
+99§Plotfläche|PLot der Lagenkugel (Einstellungen wurden in Fabric.ini gespeichert).
+100§Projektionsmethode|Art des Netzes
+101§Netz zeichnen|Abstände der Groß- und Kleinkreise und Kippung der N-S-Achse
+102§Abstand der Groß- und Kleinkreise von einander als Winkel eingeben (10 Grad)
+103§Stützpunkte|Abstand zwischen den Stützpunkten als Winkel eingeben
+104§Kippung der N-S-Achse|Kippung der N-S-Achse nach vorne positiv
+105§übernehmen|Diese Werte werden für den Plot übernommen.
+106§zum letzten Fenster|Zurück zum Anfang von 'PROJEKTIONEN'
+107§Art der Dateneingabe|Die Art der Dateneingabe muß gewählt werden
+108§Daten eingeben|Regelungsgrad und Zyindrizität eingeben. Darstellungsart wählen
+109§Regelungsgrad eingeben|Regelungsgrad in Prozent eingeben, Eingabe mit RETURN beenden.
+110§Zylindrizität eingeben|Zylindrizität in Prozent eingeben, Eingabe mit RETURN beenden.
+111§Symbol anklicken|Symbol zur Darstellung der Daten, mit Return beenden.
+112§Umschalten zur Grafik|R%-G&-Diagramm wird geplottet.
+113§zurück zum Anfang|zurück zum Anfang von 'R%-G%'
+114§Plotfläche|Vor dem Plot muß die Farbe gewählt werden.
+115§Koordinaten|Länge der Koordinaten-Achsen eingeben
+116§Koordinaten-Nullpunkt|Lage des Nullpunktes von linken und unteren Rand
+117§horizontal|horizontaler Abstand des Nullpunktes vom linken Bildrand
+118§Vertikal|vertikaler Abstand des Nullpunktes vom unteren Bildrand
+119§zurück zum letzten Fenster|zurück zur Dateneingabe
+120§Azimut|Azimut der Störungsfläche eingeben, Eingabe mit RETURN beenden.
+121§Fallwinkel|Fallwinkel der Störungsfläche eingeben, Eingabe mit RETURN beenden.
+122§Azimut|Azimut des Striemungslinears eingeben, Eingabe mit RETURN beenden.
+123§Fallwinkel|Fallwinkel des Striemungslinears eingeben (Abschiebung negativ), Eingabe mit RETURN beenden.
+124§zurück zum letzten Fenster|zurück zum Begin von 'Paläostress'
+125§Plotfläche|Alle Einstellungen zum Zeichnen der Grafik wurden in Fabric.ini gespeichert.
+126§Auszählkalotte|Größe der Auszählkalotte (%) eingeben. Vorschlag: 10%.
+127§Isolinien der Kompression|Farben der gewählten Isolinien werden angezeigt.
+128§Maximum und Minimum|maximale und minimale Zahl der Kompressions-Dieder
+129§Maximum|Maximale Zahl der Kompressions-Dieder
+130§Minimum|Minimale Größe der Schnittmenge der Kompressions-Dieder (ideal: 0%)
+131§Art der Dateneingabe|Die Art der Dateneingabe muß gewählt werden
+132§Eingabe einer Viertelfalte|Vergenzwinkel und drei Punkte auf der Viertelfalte
+133§Vergenzwinkel|Vergenzwinkel= Abweichung von der vertikalen (nach links negativ), Eingabe mit RETURN beenden.
+134§1.Punkt, X-Koordinate|1. Punkt vom Inversionspunkt gesehen, X-Wert eingeben, Eingabe mit RETURN beenden.
+135§1.Punkt, Y-Koordinate|1. Punkt vom Inversionspunkt gesehen, Y-Wert eingeben, Eingabe mit RETURN beenden.
+136§mittlerer Punkt, X-Koordinate|2. Punkt vom Inversionspunkt, X-Wert eingeben, Eingabe mit RETURN beenden.
+137§mittlerer Punkt, Y-Koordinate|2. Punkt vom Inversionspunkt, Y-Wert eingeben, Eingabe mit RETURN beenden.
+138§dritter Punkt, X-Koordinate|der 3.Punkt sollte der Scheitel der Falte sein, Eingabe mit RETURN beenden..
+139§dritter Punkt, Y-Koordinate|der 3.Punkt sollte der Scheitel der Falte sein, Eingabe mit RETURN beenden.
+140§zurück zum letzten Fenster|zurück zum Anfang von 'Fourier'
+141§Plotfläche|Die Grafik wird erst nach Eingabe der Farbe und 'Start' geplottet
+142§Tabelle|erste drei ungerade Sinus-Koeffizienten der Falten
+143§Breite|Breite der Grafik
+144§Breite|Breite der Grafik eingeben
+145§Nullpunkt|Abstände des Nullpunktes vom linken und unteren Bildrand
+146§Eingabe|Eingabe der Eigenwerte, nur Nachkommastellen!
+147§Lambda1|Kleinsten Eigenwert eingeben. Nur Nachkommastellen. Eingabe mit RETURN beenden.
+148§Lambda2|mittleren Eigenwert eingeben. Nur Nachkommastellen
+149§Lambda3|größten Eigenwert eingeben. Nur Nachkommastellen. Eingabe mit RETURN beenden.
+150§falscher Wert| Die drei Eigenwerte müssen die Summe 1 bilden.
+151§zurück zum letzten Fenster|zurück zum Anfang von 'WOODCOCK'
+152§Plotfläche|Zum Plotten START drücken
+153§Tabelle|c-Werte = ln(lambda3/lambda1). C ist ein Regelungsmaß
+154§Koordinaten|Länge der Koordinaten-Achsen angeben
+155§Auswahl|art der Dateneingabe und Winkeltyp (Alt-, Neugrad) muß gewählt werden
+156§Plotfeld|Zuerst Projektionsart und Farbe eingeben , 'überarbeiten'
+157§mit 'ja' oder 'nein beantworten und Normalspannungen und Formfaktor eingeben
+158§Spannungsellipsoid|Die Orientierung des Spannungs-Ellipsoides muß bekannt sein.
+159§Azimut|Azimut der größten Hauptnormalspannung eingeben
+160§Fallwinkel|Fallwinkel der größten Haptnormalspannung eingeben.
+161§Azimut|Azimut der kleinsten Hauptnormalspannung eingeben.
+162§Fallwinkel|Fallwinkel der kleinsten Hauptnormalspannung eingeben.
+163§unterer Formfaktor|Kleinsten geschätzten Formfaktor auswählen.
+164§oberer Formfaktor|Größten geschätzten Formfaktor auswählen.
+165§überarbeiten|Löschen von nicht passenden Daten beenden.
+166§Plotfeld|Zum Plotten START drücken
+167§Tabelle der Striemungen|Tabelle der Eigenwerte der Striemungen
+168§Tabelle|Tabelle der Striemungen der berechneten theoretischen Verteilungen
+169§Eigenwerte|Eigenwerte der gemessenen Striemungen
+170§|Isogonen|Längen der Isogonen
+171§Scheitel|Abstand zwischen Scheitelpunkten auf der Bankober- Unterseite eingeben. Eingabe mit RETURN beenden.
+172§10°-Isogone|Länge der 10°-Isogone eingeben. Eingabe mit RETURN beenden.
+173§20°-Isogone|Länge der 20°-Isogone eingeben. Eingabe mit RETURN beenden.
+174§30°-Isogone|Länge der 30°-Isogone eingeben. Eingabe mit RETURN beenden.
+175§40°-Isogone|Länge der 40°-Isogone eingeben. Eingabe mit RETURN beenden.
+176§50°-Isogone|Länge der 50°-Isogone eingeben. Eingabe mit RETURN beenden.
+177§60°-Isogone|Länge der 60°-Isogone eingeben. Eingabe mit RETURN beenden.
+178§70°-Isogone|Länge der 70°-Isogone eingeben. Eingabe mit RETURN beenden.
+179§80°-Isogone|Länge der 80°-Isogone eingeben. Eingabe mit RETURN beenden.
+180§90°-Isogone|Länge der 90°-Isogone eingeben. Eingabe mit RETURN beenden.
+181§Tabelle|Tabelle der Isogonen und normierten Isogonenlängen
+182§Ordinate|Länge der Ordinate eingeben.
+183§zurück zum letzten Fenster|zurück zum Anfang von Talpha
+184§Plotfläche|Alle Einstellungen wurden in Fabric.ini gespeichert.
+185§des Vielfachen der Gleichverteilung
+186§Trennung|Gibt an, ob Trennung signifikant ist, oder ob sich Cluster überlappen
+187§Testwinkel|Der Testwinkel ergibt sich aus dem Vielfachen der Gleichverteilung.
+188§Anzahl der Daten|ohne isolierte, nicht in Clustern vorkommende Daten
+189§Isolinie|Vielfaches der Gleichverteilung zur Berechnung der Clustereingeben
+190§Maßzahlen|Tabelle der statistischen Maßzahlen der Cluster (s. Handbuch)
+191§Plotfläche|Alle Einstellungen zum Zeichnen der Isolinien wurden in Fabric.ini gespeichert.
+192§und der Farben der Isolinien
+193§Isolinien|Abstufung und Farben der Isolinien
+194§Maximum|Das errechnete Maximum und dessen Lage
+195§Isolinien|eigene Abstufung wählen
+196§1.Isolinie|erste Isolinie in Prozent eingeben
+197§2.Isolinie|zweite Isolinie in Prozent eingeben
+198§3.Isolinie|dritte Isolinie in Prozent eingeben
+199§4.Isolinie|vierte Isolinie in Prozent eingeben
+200§5.Isolinie|fünfte Isolinie in Prozent eingeben
+201§Auszählkalotte|Größe der Zählkalotte in Prozent eingeben.
+202§übergeben|gewählte Isolinien Abstufung übergeben
+203§Drucken|Daten und Ergebnisse werden ausgedruckt
+204§Daten speichern|Den Ordner auswählen und die Daten in einer Datei speichern.
+205§Dateneingabe, Gefügetyp, Winkel |
+206§Weiter-Taste wird nach Wahl von Dateneingabe, Gefügetyp und Winkel aktiv.
+207§Ergebnisse speichern|Den Ordner auswählen und die Ergebnisse in einer Datei speichern.
+208§.
+209§.
+210§Hilfe|Hilfe-Funktion aufrufen
+211§auf Festplatte|Gereinigter Datensatz auf Festplatte
+212§auf Diskette 1|Gereinigter Datensatz auf Diskette 1
+213§auf Diskette 2|Gereinigter Datensatz auf Diskette 2
+214§drucken|Gereinigten Datensatz drucken
+215§auf Festplatte|Gelöschte Daten auf Festplatte
+216§auf Diskette 1|Gelöschte Daten auf Diskette 1
+217§auf Diskette 2|Gelöschte Daten auf Diskette 2
+218§drucken|Gelöschte Daten drucken
+219§Weiter zur Grafik|Im nächsten Fenster wird das Diagramm dargestellt.
+220§zurück zur Programliste|Beenden des Programmes 'Rekonstruktion
+221§Erstellung einer Datenliste|Daten werden aus gezeichneten Diagrammen gelesen
+222§Das Feld 'Fertig' anklicken| Wenn die Zeichnung in der Zwischenablage ist.
+223§Linear anklicken|Azimut umd Fallwinkel werden berechnet
+224§zum Hauptformular|zurück zum Hauptformular, neue Bitmap
+225§Grafik öffnen|Plotfeld erstellen
+226§Abschließen|Berechnung der Daten beenden
+227§Anzahl der Daten|Anzahl der berechneten Daten
+228§Datenliste|Liste der berechneten Daten
+229§Art der Daten|Sind die Polpunkte der Bitmap Flächenpole oder Lineare?
+230§Welches Netz?|Welche Projektionsmethode wurde für die Bitmap verwendet?
+231§Festplatte|Berechnete Daten auf der Festplatte speichern
+232§Laufwerk A:|Berechnete Daten auf Laufwerk A: speichern
+233§2. Laufwerk| Berechnete Daten auf dem 2. Laufwerk speichern
+234§Drucker|Liste der berechneten Daten drucken
+235§Hilfe|Hilfe aufrufen
+236§Berechnen von Daten|Azimut & Fallen aus geplotteten Punkten errechnen
+237§von Daten|Punkt mit Mausklick erzeugen. Azimut & Fallwinkel errechnen
+238§ebene Verformung|Durchführung von Scherversuchen
+239§Scherkasten|Weiter zum nächsten Formular
+240§Drucker einrichten|Druck-Parameter einstellen
+241§drucken|Scherkasten drucken
+242§deformierbare Vorzeichnung|eine oder mehrere der Vorzeichnungen auswählen
+243§Linie zeichnen|linke Maustaste drücken, Linie zeichnen, Taste loslassen
+244§Ellipse zeichnen|linke Maustaste drücken, Ellipse formen, Taste loslassen
+245§Rechteck zeichnen|linke Maustaste drücken, Rechteck formen, Taste loslassen
+246§einfügen|Bild aus der Zwischenablage holen
+247§Es muß sich ein einfarbiges Bitmap in der Zwischenablage befinden
+248§alle Vorzeichnungen löschen| Die Bitmap der Vorzeichnungen wird gelöscht
+249§Scherung, bzw. Plättung|Die ausgewählten Werte werden angezeigt
+250§Beginnen|Mit dem Scher-Plättungs-Experiment beginnen
+251§Scherkasten|Das Scherexperiment erfolgt hier
+252§Scherparameter|Scherexperiment auswählen
+253§Scherexperiment|Es wird ein Scherexperiment durchgeführt
+254§homogene Deformation|Kreise werden Ellipsen, Linien bleiben Linien
+255§nicht homogene Deformation|Scherung wird zum oberen Rand hin größer
+256§Scherwinkel wählen|Scrollen und Winkel anklicken
+257§Faktor auswählen| für nicht affine Deformation Faktor auswählen
+258§Plättungsparameter|Auswahl der Plättungsparameter
+259§Plättung wählen|Es wird ein Plättungsexperiment durchgeführt
+260§Maß der Plättung|Prozent auswählen, auf das die Vorzeichnung geplättet werden s
+261§zurück zum Anfang|Scherkasten neu beginnen
+262§kopieren|In die Zwischenablage kopieren
+263§ausschneiden|In die Zwischenablage verlegen
+264§speichern|Bitmap in einer festgelegten Datei speichern
+265§Speichern unter| Datei festlegen und Bitmap speichern
+266§Talbot-Methode|Strainanalyse mit Längung oder Verkürzung von Gängen
+267§zum nächsten Formular|Beginn mit der Strainanalyse
+268§max. Eingabe|maximale Datenmenge (Fabric.ini, Zeile 84)
+269§Meßwerte eies Punkts bestimmen|Klicken Sie einen Punkt im Diagramm an, um sienen Meßwert zu erhalten.
+270§Auswahl der Sprache|Sprache für alle Dialoge wählen. Diese Wahl kann später nicht mehr erfolgen.
+271§Dialoge auf Deutsch|Alle folgenden Dialoge werden auf Deutsch geführt.
+272§Dialoge auf Englisch|Alle folgenden Dialoge werden auf Englisch geführt.
+273§Aufruf des Hilfe-Systems|Die Hilfe ist im Windows-Stil aufgebaut. Sie umfaßt auch mathematische Erläuterungen.
+274§Handbuch|Das aktuelle Kapitel des Handbuchs wird als Winword-Datei aufgemacht. Das gesamte Handbuch findet sich im Ordner 'Handbuch'.
+275§Daten suchen|Der aktuelle Pfad wird angezeigt. Wählen Sie das Laufwerk und den kompletten Pfad für die Datei, die die Daten enthält. 
+276§gewählte Projektion|Projektionen können im Menu 'Projektion' geändert werden.
+277§Typ der Datei, in der die Grafik gespeichert wird|Der Datei-Typ kann im Menu 'Grafik' gewählt werden.
+278§Ordner, der die Excel-Datei enthält|Wählen Sie das Laufwerk und den Pfad und bstätigen Sie mit 'OK'.
+279§Tabelle der Excel-Datei|Die vorhandenen Tabellen werden angezeigt. Wählen Sie eine aus. 
+280§Spalten für Azimut und Fallwinkel|Geben Sie an, ob die Daten einspaltig mit Trennzeichen oder zweispaltig eingetragen wurden.
+281§Bestätigung|einspaltige oder zweispaltige Notierung bestätigen.
+282§Zweispaltige Tabelle|Auswahl der Zellen bei zweispaltiger Notierung
+283§Einspaltige Tabelle|Auswahl der Zellen bei einspaltiger Notierung
+284§erste Zelle der Azimut-Spalte|Geben Sie Spalte (Buchstabe) und Zeile (Zahl) ein und bestätigen Sie mit 'Return'.
+285§Spalte der Fallwerte|Geben Sie den buchstaben für die Spalte der Fallwerte ein und bestätigen Sie mit 'Return'.
+286§letzte Zeile der ausgewählten Daten|Geben Sie die letzte Zeile des Datensatzes, den Sie verwenden wollen, ein. Bestätigen Sie mit 'Return'.
+287§Bestätigung|Klicken Sie 'OK' erst an, wenn Sie sicher sind, daß alles richtig eingetragen ist.
+288§Trennzeichen von Azimut und Fallwinkel|bei einspaltiger Notierung muß das Trenn zeichen angegeben werden.
+289§Erstellen einer weiteren Datei|Mit dieser Taste können Sie eine erneute Datenauswahl vornehmen.
+290§Abschluß der Datenauswahl|Datenauswahl beenden und zum Grafik-Formular übergehen.
+291§Liste der Excel-Dateien|Alle im gewählten Ordner enthaltenen Excel-Dateien werden aufgelistet. Klicken Sie doppelt auf die Datei, die gewählt wird.
+292§ausgewählte daten|alle Daten der ausgewählten Zellen werden angegeben. Zellen, in denen keine daten enthalten sind, werden überlesen. 
+293§Auswahl des Gefügetyps|Klicken Sie den Gefügetyp der Daten an. 
+294§obere Zelle|bei einspaltiger Notierung: erste Zelle (Buchstabe und Zahl) eingeben.
+295§untere Zelle|bei einspaltiger Notierung: letzte Zelle (Buchstabe und Zahl) eingeben.
+296§Formular öffnen| Auflisten aller Dateien dieses Gefügetyps im gewählten Ordner
+297§Konturierung mit fließenden Grenzen|Die Konturierung wird mit dem gewählten Spektrum durchgeführt.
+298§Hauptnormalspannungen|Azimute und Fallwinkel der angeklickten Punkte werden angezeigt.
+299§größte Hauptnormalspannung|Drücken sie diese Taste, wenn Sie Sigma1 angeklickt haben.
+300§mittlere Hauptnormalspannung|Drücken Sie diese Taste, wenn Sie Sigma2 angeklickt haben.
+301§kleinste Hauptnormalspannung|Drücken sie diese Taste, wenn Sie Sigma3 angeklickt haben.
+302§Hauptnormalspannungen eintragen|Klicken Sie auf einen Punkt im Diagramm und anschließend auf die zugehörige Sigma-Taste.
+303§Dateneingabe, Winkel|
+304§'Weiter'-Taste wird nach Wahl der Dateneingabe und des Winkeltyps aktiv.
+305§Gereinigter Datensatz|Die verbliebenen Daten speichern
+306§Gereinigter Datensatz|Die verbliebenen Daten drucken
+307§Eliminierte Daten|die gelöschten Daten speichern
+308§Eliminierte Daten|die gelöschten Daten drucken
+309§Grafik drucken|die Grafik, die auf dem Bildschirm angezeigt wird, drucken
+310§Plotfläche|Dreiecks-Darstellung der Eigenwerte
+311§Liste der Eigenwerte|Eigenwerte der theoretischen und gemessenen Striemungen
+312§Start der Grafik|Diagramm darstellen
+313§Plotfläche|Das Woodcock-Diagramm ist analog zum Flinn-Diagramm
+314§c = lambda3/lamba1|Der c-Wert ist ein Maß für die Regelungsschärfe
+315§PlotFläche|Dreiecksdarstellung der Regelungstypen
+316§Plotfläche|b1-b3-Diagramm nach Ramsay & Huber
+317§Aktivieren der Grafik|Zeichnen eines b1-b3-Diagramms
+318§Plotfläche|normierte Isogonenlängen werden gegen den Isogonenwinkel dargestellt.
+319§Öffnen der Grafik|normierte Isogonenlängen werden gegen den Isogonenwinkel dargestellt.
+320§Strain-Ellipsoid|Die Orientierung der Achsen wird aus der Verteilungsfirm ermittelt.
+321§Häufungen entfernen|Erzeugen sie eine gleichmäßige Verteilung ohne Häufungen.
+322§Strain-Ellipsoid|Form des Strain-Ellipsoides
+323§Strain-Ellipsoid|geometrische Parameter
+324§nächstes Formular|Weiter zur Bildeingabe
+325§Deutsch|Die Dialoge aller Programmen erfolgen in deutscher Sprache.   
+326§Englisch|Die Dialoge aller Programme erfolgen in englischer Sprache.
+327§manuell|Die Dateneingabe erfolgt manuell.
+328§Datei|Die Dateneingabe erfolgt aus einer Datei.
+329§Schnittkante|Ermittlung der Schnittkante aus zwei Flächen
+330§Winkel aus Flächen|Berechnung des Winkels aus zwischen zwei Flächen
+331§Winkel aus Linearen|Berechnung des Winkels aus zwei Linearen
+332§Fläche aus Linearen|Berechnung der Fläche aus zwei Linearen
+333§Normale|Berechnung der Normalen auf zwei Linearen
+334§Altgrad|Winkel werden in Altgrad (0..360°) angegeben.
+335§Neugrad|Winkel werden in Neugrad (0..400gon) angegeben.
+336§Lineare|Daten sind Lineare.
+337§Flächen|Daten sind Flächen.
+338§reine Richtung|Daten haben keine definierten Beträge.
+339§Richtung & Betrag|Daten haben definierte Beträge.
+340§Achsen|Daten sind bipolar.
+341§Vektoren|Daten sind unipolar.
+342§Dateneingabe aus einem Bild|*.BMP oder *.JPG Datei importieren.
+343§Koordinaten|Datei laden, die die Koordinaten der Mittelpunkte deformierter Objekte enthält.    
+344§Excel-Datei|Daten aus einer Excel-Daei lesen.
+345§Bitmap|Bild importieren.
+346§Faltenumbiegung|zuerst den Umbiegungspunkt anklicken, dann diese Taste drücken.
+347§Faltenscheitel|zuerst Faltenscheitel anklicken, dann diese Taste drücken.
+348§Beginnen|Formular aktivieren.
+349§zweiter Punkt der Viertelfalte|2. Punkt anklicken, dann diese Taste drücken
+350§erster Punkt der viertelfalte|1. Punkt anklicken, dann diese Taste drücken.
+351§1. Umbiegung|Zuerst einen Umbiegungspunkt anklicken, dann diese Taste drücken
+352§2. Umbiegungspunkt|Zuerst den zweiten Umbiegungspunkt anklicken, dann diese Taste drücken
+353§Vergenz rückgängig|Einen Punkt in der Faltenachsenfläche anklicken, dann diese Taste drücken
+354§Vergenz rückgängig|Zweiten Punkt auf der Faltenachsenfläche anklicken, dann diese Taste drücken
+355§Bildmittelpunkt nach der Rotation|Klicken Sie auf den Punkt, der nach der Rotation Mittelpunkt werden soll, dann auf diese Taste
+356§Scheitelpunkt der Falte|Klicken Sie auf einen Scheitelpunkt der Falte, dann auf diese Taste
+357§Scheitelpunkt der Falte|Klicken Sie auf den anderen Scheitelpunkt der Falte, dann auf diese Taste
+358§Zeichnen der Isogonen|Legen Sie die Tangenten an die Falte und Klicken Sie auf die Berührungspunkte
+359§Endpunkt der Isogone|Legen Sie die Tangente an die Falte, klicken Sie auf den Berührungspunkt und dann auf diese Taste
+360§Endpunkt der Isogone|Legen Sie die Tangente an die andere Seite der Falte, klicken Sie auf den Berührungspunkt und dann auf diese Taste
+361§Ende der Kurve|Drücken Sie diese Taste, wenn keine weiteren Tangenten möglich sind.
+362§Beginn einer neuen Messung|nächste Falte messen.
+363§Obere Halbkugel|Daten werden in die obere Halbkugel projiziert.
+364§Untere Halbkugel|Daten werden in die untere Halbkugel projiziert.
+365§Farbe|Farbe der Datenpunkte oder -linien
+366§nicht gefüllt|Die Richtungsrose wird mit Linien dargestellt
+367§gefüllt|Die Richtungsrose wird mit Flächen dargestellt
+368§aus Datei|Grafik aus einer Datei laden
+369§U-Tisch-Achsen|Daten sind U-Tisch-Achsen
+370§U-Tisch-Pole| Daten sind U-Tisch-Flächenpole
+371§offene Kreise|Daten werden mit offenen Kreisen geplottet
+372§gefüllte Kreise|Daten werden mit gefüllten Kreisen geplottet
+373§offene Dreiecke|Daten werden mit offenen Dreiecken geplottet
+374§gefüllte Dreiecke|Daten werden mit gefüllten Dreiecken geplottet
+375§offene Quadrate|Daten werden mit offenen Quadraten geplottet
+376§gefüllte Quadrate|Daten werden mit gefüllten Quadraten geplottet
+377§offene Rauten|Daten werden mit offenen Rauten geplottet
+378§gefüllte Rauten|Daten werden mit gefüllten Rauten geplottet
+379§Zählkalotte (Vektorgraphik)|Isolinien mit der Zählkalotte in Vektorgraphik konstruieren
+380§Mellis-Methode|Isolinien mit der Mellis-Methode konstruieren
+381§Skalarprodukt-Methode, Stufen|Abgestufte Konturen mit der Skalarprodukt-Methode konstruieren
+382§Skalarprodukt-Methode, fließend|Fließende Konturen mit der Skalarprodukt-Methode konstruieren
+383§Punktfarbe|Wahl der Farbe eines Punktes, der angeklickt werden kann
+384§Punkt anklicken|Bei Anklicken eines Punktes werden dessen Azimut und Fallwinkel angegeben
+385§Farbe der Harnischflächen|Wählen Sie die Farbe für die Großkreise
+386§Farbe der Striemungen|Wählen Sie die Farbe der Pfeile
+387§Lambert|Darstellung in Lambertscher Projektion
+388§stereografisch|Darstellung in stereografischer Projektion
+389§orthografisch|Darstellung in orthografischer Projektion
+390§Kavraiskii|Darstellung in Kavraiskii-Projektion
+391§durchgezogen|Grosskreise werden durchgezogen gezeichnet.
+392§gestrichelt|Grosskreise werden gestrichelt gezeichnet.
+393§strichpunktiert|Grosskreise werden strichpunktiert gezeichnet.
+394§punktiert|Grosskreise werden punktiert gezeichnet.
+395§Sektorengrenzen|Darstellung mit Sektorengrenzen
+396§Sektorenmitten|Darstellung mit Sektorenmitten
+397§gleitend|Darstellung mit gleitenden Sektorengrenzen
+398§Konfidenz 90%|Der Schwerpunktvektor liegt mit 90% Sicherheit im Vertauenskegel.
+399§Konfidenz 95%|Der Schwerpunktvektor liegt mit 95% sicherheit im Vertrauenskegel.
+400§Konfidenz 99%|Der Schwerpunktvektor liegt mit 99% Sicherheit im Vertrauenskegel.
+401§Farbe der Eigenvektoren|Wählen Sie die Farbe für Eigenvektoren und Schwerpunktvektor.
+402§Farbe des Öffnungsgrades|Wählen Sie die Farbe für den Kleinkreis der Öffnungsgrades.
+403§Farbe des Vertrauenskegels|Wählen Sie die Farbe für den Kleinkreis des Vertrauenskegels.
+404§Drucken der Liste|Daten und statistische Parameter drucken.
+405§Vielfache der Gleichverteilung|automatische Abstufung der Isolinien in Vielfachen der Gleichverteilung
+406§manuell|manuelle Wahl der Abstufung der Isolinien
+407§Grauwerte|Konturierung in Grauwerten
+408§Farbe|farbige Konturierung
+409§Farbe der Datenpunkte|Wählen Sie Die Farbe für die Datenpunkte.
+410§Farbe des Öffnungsgrades (Obergruppen)|Wählen Sie die Farbe für den Kleinkreis des Öffnungsgrades der Obergruppen.
+411§Farbe des Vertrauenskegels (Obergruppen)|Wählen Sie die Farbe für den Klenkreis des Vertrauenkegels der Obergruppen.
+412§Farbe der Hauptnormalspannungen|Wählen Sie die Farbe für die Hauptnormalspannungen.
+413§Anklicken der Hauptnormalspannungen|
+414§slip lines|Zeichne Trajektorien der Gleitrichtungen
+415§Farbe der oberen Slip Lines|Farbe der Slip Lines für den max. geschätzten Formfaktor
+416§Farbe der unteren Slip Lines| Farbe der Slip Lines für den min. geschätzten Formfaktor
+417§Farbe der Pfeile|Farbe der Striemungspfeile
+418§Farbe der Punkte|Farbe der Harnischflächen-Pole
+419§Farbe der theoretischen Punkte|Wählen Sie die Farbe für errechneten Punkte für R= 0.1..1.0;
+420§Farbe des gemessenen Punktes|Wählen Sie die Farbe für den gemessenen Punkt.
+421§Farbe des Kreise|Wählen Sie die Farbe für Groß- und Kleinkreise
+422§Farbe des Äquators|Wählen Sie die Farbe für den Äquator
+423§Drucken|Erzeugte Daten drucken
+424§drehen|Die Umbiegungspunkte werden auf eine horizontale Linie gebracht.
+425§Vergenz rückgängig|Durch Rückscherung wird eine Vergenz eliminiert.
+426§*.BMP-Datei|Grafik als *.bmp-Datei speichern.
+427§*.JPG-Datei|Grafik als *.jpg-Datei speichern.
+428§durchgezogen|Linie wird durchgezogen gezeichnet.
+429§gestrichelt|Linie wird gestrichelt gezeichnet.
+430§strichpunktiert|Linie wird strichpunktiert gezeichnet.
+431§punktiert|Linie wird punktiert gezeichnet.
+432§90° rechts|Drehen der rafik um 90° nach rechts
+433§90° links|Drehen der Grafik um 90° nach links
+434§180°|Drehen der Grafik um 180°
+435§Farbe der konsruierten Ellipse|Farbe der Peripherie der konstruierten Strain-Ellipse
+436§Farbe der Ellipse|Farbe der fläche der Strain-Ellipse
+437§plotten|Vektorgraphik mit dem Drucker plotten.
+438§*.PLT-Datei|Vektorgrafik in eine *.PLT-Datei schreiben.
+439§*.DXF|Vektorgrafik in eine *.DXF-Datei schreiben.
+440§Farbe der Peripherie|Wählen Sie die Farbe der Peripherie des Diagramms.
+441§Farbe des Diagramms|Wählen Sie die Füllfarbe des Diagramms.
+442§Farbe des Rahmens|Wählen Sie die Farbe des Rahmens der Graphik.
+443§Farbe des Hintergrunds|Wählen Sie die Farbe des Hintergrunds der Grafik.
+444§Farbe der Koordinaten|Wählen Sie die Farbe für die Koordinaten des Diagramms.
+445§Farbe der Kompressionsdaten|Wählen Sie die Farbe für die Darstellung der Kompressionsdaten.
+446§Farbe der Dehnungsdaten|Wählen Sie die Farbe für die Darstellung der Dehnungsdaten.
+447§Farbe der Achsen|Wählen Sie die Farbe Ellipsen-Achsen.
+448§Farbe der Ellipse|Wählen Sie die Farbe für die Ellipse.
+449§Flinn-Diagramm|Wählen Sie die Farbe für den Punkt im Flinn-Diagramm.
+450§Maximum Resolved Shear Stresses|Berechnung der theoretischen Striemungsrichtung
+451§Grafik speichern|Grafik als *.bmp-Datei speichern.
+452§Grafik speichern|Grafik als *.jpg-Datei speichern.
+453§Polygone|Datei laden, die Polygon-Daten enthält.
+454§Beginn der Dateneingabe|Bild importieren und Polygonpunkte anklicken.
+455§letztes Polygon fertig?|Abschluss der Digitalisierung
+456§neues Formular|Formular mit den Ergebnissen öffnen.
+457§voriges Formular|Zurück zum Hauptformular 'projektionsmethode'.
+458$Füllfarbe|Farbe der Polygone
+459§Neuer Mittelpunkt|einen Punkt als Mittelpunkt einer Rotation definieren
+460§Horizontieren|Wendelinie horizontal ausrichten
+461§Farbe|Farbe der Isogonen
+462§Literatur|Zeigt die in Fabric8 zitierte Literatur an.
+463§Strichstärke|wählen Sie die Strichstärke in Pixeln aus.
+464§Skalierung|Peripherie mit einer Winkel-Skala versehen
+465§Netzprojektionen|Zeichnet Netzentwürfe in verschiedenen Projektionen
+466§Zählkreise|Zeichnet Raster mit Zählkreisen in verschiedenen Projektionen
+467§Farbe der Zählkreise|Die Farbe der Zählkreise kann geändert werden
+468§Abstand der Rasterpunkte|Änderung des Zählrasters
+469§Zählkalotte|Änderung der Kalottengrösse
+470§Rtf-Datei|In einer Word.rtf-Datei speichern
+471§Clar-Kompass|Daten als Fallrichtung und Fallwinkel gemessen
+472§Brunton-Kompass|Daten als Streichrichtung, Fallwinkel und Fallrichtung (N oder S) eingeben.
+473§Flächennormale anklicken|Azimut und Fallwinkel der Fläche werden berechnet
+474§Numerierung|Nummer der Gruppe
+475§Anzahl|Anzahl der Daten in der Gruppe
+476§Regelung|Prozentualer Regelungsgrad
+477§Konzentration|Konzentrations-Parameter
+478§Vertrauenskegel|Öffnungswinkel des Vertrauenskegels
+479§sphärische Apertur|Sphärischer Öffnungsgrad
+480§zirkulare Apertur|zirkularer Öffnungsgrad
+481§Zylindrizität|Güte einer Großkreis-Verteilung
+482§Schwerpunkt|Richtung des Summenvektors
+483§im Uhrzeigersinn|Isogonen im Uhrzeigersinn zeichnen.
+484§gegen Uhrzeigersinn|Isogonen gegen den Uhrzeigersinn zeichnen.
+485§keine Korrektur|keine Rotation oder Translation durchführen.
+486§Farbe|Farbe der Lineationen
+487§speichern|Azimute und Längen der Lineationen speichern.
+488§rotieren|Nordrichtuns senkrecht nach oben drehen.
+489§keine Korrektur|Nordrichtung ist bereits senkrecht nach oben.
+490§aus einer Karte|Meßßpunkte sind bereits in eine Karte eingetragen.
+491§Längen- und Breitengrade (dd°mm.mmm')|Geographisch Koordinaten.
+492§Gauss-Krüger-Koordinaten|Kartennetz in Gauss-Krüger-Koordinaten angeben.
+493§NW-Sektor|Nördliche Breite, westliche Länge
+494§NE-Sektor|Nördliche Breite, östliche Länge
+495§SW-Sektor|Südliche Breite, westliche Länge
+496§SE-Sektor|Südliche Breite, östliche Länge
+497§Farbe der Karte|Hintergrundfarbe der Karte
+498§Länge|Länge der Symbole
+499§Farbe|Farbe der Symbole
+500§Rückseite|Meßpunkte sind auf der Rückseite der Karte markiert.
+501§Vorderseite|Meßpunkte sind auf der Vorderseite der Karte markiert.
+502§Farbe der Punkte|Farbe der Datenpunkte
+503§Längen und Breitengrade (dd°mm'ss.s')>Geographische Koordinaten
+504§UTM|UTM-Koordinaten
+505§Drucker einrichten|Druckereigenschaften festlegen.
+506§Datenpunkte|Zur Darstellung der Datenpunkte springen.
+507§Isolinien|Zur Isolinien-Darstellung springen.
+508§Submaxima|Zur signifikanten Trennung der Sumaxima springen.
+509§Statistik|Zur Statistik von Richtungsdaten springen.
+510§Richtungsrose|Zum Plot einer Richtungsrose springen.
+511§Grosskreise|Zum Plot von Großkreisen springen.
+512§Versatzdaten|Zum Plot der Versatzdaten springen.
+513§Formfaktor|Zur Bestimmung des Formfaktors springen.
+514§Hoeppener-Diagramm|Zum Plot eines Hoeppener-Diagramms springen.
+515§Dieder|Zum Plot eines Dieder-Diagramms springen.
+516§Vollmer-Diagramm|Zum Plot eines Vollmer-Diagramms springen.
+517§Woodcock-Diagramm|Zum Plot eines Woodcock-Diagramms springen.
+518§Signifikanz|Zum Signifikanz-Test springen.
+519§Flächenpole|Zum Plot der Flächenpole springen.
+520§Pixelgraphik in Stufen|Konturierung entspricht der Mellis-Methode
+521§Pixelgraphik fließend|Konturierung entspricht der Mellis-Methode
+522§Einen Punkt anklicken|Azimut und Fallwinkel des angeklickten Punktes werden angezeigt.
+523§Farbe der Punkte|Farbe der Punkte festlegen, die angezeigt werden sollen.
+524§Pole plotten|Pole zu den Großkreisen zeichnen.
+525§Pole nicht plotten|Pole zu Großkreisen nicht plotten.
+526§Strich-Punkt-Punkt|Linie wird mit Strich-Punkt-Punkt gezeichnet.
+527§Keine Beschriftung|Winkel-Skala entfernen
+528§Im Uhrzeigersinn|Diagramm im Uhrzeigersinn beschriften.
+529§Gegen Uhrzeigersinn|Diagramm gegen den Uhrzeigersinn beschriften.
+530§Slip Lines|Slip Lines zeichnen.
+531§Große Punkte|Große Punkte zeichnen.
+532§Kleine Punkte|Kleine Punkte zeichnen.
+533§Schwerpunkte speichern|Schwerpunkte der Polygone speichern.
+534§Tektonische Symbole|Tektonische Symbole in die Karte eintragen.
+535§Aufschlüsse|Aufschlußpunkte in die Karte eintragen.
+536§Kartenbegrenzung verschieben|Kartenausschnitt durch verschieben der Ränder ändern.
+537§Karte ausschneiden|Kartenausschnitt durch Zeichen eines Rechtecks mit der Maus definieren.
+538§Kartenränder ändern|Kartenbegrenzung durch Eingabe der Koordinaten ändern.
+539§Keine Slip Lines|Slip Lines löschen.
+540§Farbe des Graphen|Wählen Sie die Farbe für ddie Chi-Quadrat-Kurve.
+541§Rf/Phi drucken|Die Rf/Phi-Grafik wird gedruckt.
+542§Chi² drucken|Die Chi-Quadrat/Rs Grafik wird gedruckt.
+543§Ergebnisse drucken|Die Daten und eine Liste der errechneten Parameter wird gedruckt.
+544§Diagramm ausschneiden|Diagramm ausschneiden und vergrößern.
+545§Wertanzeige löschen.
+546§kein Pitch|Striemung wird mit Azimut und Fallwinkel eingegeben.
+547§Pitchwinkel im Uhrzeigersinn|Die Striemung wird mit einem Winkel im Uhrzeigersinn zwischen einer horizontalen Linie und der Striemung angegeben.
+548§Pitchwinkel gegen den Uhrzeigersinn|Die Striemung wird mit einem Winkel gegen den Uhrzeigersinn zwischen einer horizontalen Linie und der Striemung angegeben.
+549§Einzeldaten|Rotationsachse und -winkel nach jeder Eingabe ändern.
+550§mehrere Daten|Rotationsachse und -winkel für mehrere Daten festlegen.
+551§Pitchwinkel aus Linear|Berechnung des Pitchwinkels eines Linears auf einer Fläche
+552§Linear aus Pitchwinkel|Berechnung von Fallazimut und Fallwinkel eines Linears auf einer Fläche aus dem Pitchwinkel
+553§Daten aus RF/Phi-Datei|Lange und kurze Achsen und Winkel der langen Achse gegen die Horizontale sind in einer Datei gespeichert.
+554§konventionelle Fry-Methode|Die Abstände der Punkte werden nicht normiert
+555§normierte Fry-Methode| Die Abstände der Punkte werden normiert
+556§Punktgröße|Größe der Punkte in Pixel
+557§konstruierte Ellipse transparent|Fläche der konstruierten Ellipse farblos darstellen.
+558§Farbfüllung der konstruierten Ellipse|Farbe für Füllung der konstruierten Ellipse auswählen.
+559§Ellipse löschen|Ellipse löschen und neu zeichnen.
+560§lange Achse|Die lange Achse der Ellipse durch Ziehen verändern.
+561§kurze Achse|Die kurze Achse der Ellipse durch Ziehen verändern.
+562§Ellipse drehen|Ellipse im Uhrzeigersinn oder gegen den Uhrzeiger drehen.
+563§Größe der Ellipse|Die Größe der Ellipse durch Ziehen verändern.
+564§Fry-Plot als *.bmp speichern|Den Fry-Plot in einer Bitmap-Datei speichern.
+565§Fry-Plot als *.jpg speichern|Den Fry-Plot in einer JPG-Datei speichern.
+566§d/phi-Diagramm als *.bmp speichern|Das d'/phi'-Diagramm in einer BMP-Datei speichern.
+567§d/phi-Diagramm als *.jpg speichern|Das d'/phi'-Diagramm in einer JPG-Datei speichern.
+568§Fry-Plot drucken|Den Fry-Plot drucken.
+569§d/Phi drucken|Das d'/phi'-Diagramm drucken.
+570§Projektionsmethode|Mit diesen Daten zur Projektions-Methode (nach Panozzo) springen.
+571§Bildgröße des Fry-Diagrammes|Anzahl der Pixel für die Speicherung des Fry-Diagrammes ändern.
+572§Bildgröße des d-Theta-Diagrammes|Anzahl der Pixel für die Speicherung des d-Theta-Diagrammes ändern.
+573§Bildgröße des R-Diagrammes|Anzahl der Pixel für die Speicherung des R-Diagrammes.
+574§Bildgröße des Mohr-Diagrammes|Anzahl der Pixel für die Speicherung des Mohr-Diagrammes.
+575§Kopieren des R-Diagrammes|R-Diagramm in die Zwischenablage kopieren.
+576§Kopieren des Mohr-Diagrammes|Mohr-Diagramm in die Zwischenablage kopieren.
+577§Ausschneiden des R-Diagrammes|R-Diagramm ausschneiden und in die Zwischenablage kopieren.
+578§Ausschneiden des Mohr-Diagrammes|Mohr-Diagramm ausschneiden und in die Zwischenablage kopieren.
+579§R-Diagramm speichern|Speichern des R-Diagrammes.
+580§Mohr-Diagramm speichern|Speichern des Mohr-Diagrammes.
+581§R-Diagramm drucken|Drucken des R-Diagrammes.
+582§Mohr-Diagramm drucken|Drucken des Mohr-Diagrammes.
+583§Bildgroesse des Diagrammes|Anzahl der Pixel für die Speicherung des Diagrammes als *.BMP.
+584§Hintergrund transparent|Hintergrund voll transparent zeichnen
+585§Hintergrund farbig|Farbe für den Hintergrund wählen
+586§als *.BMP speichern|Grafik als Bitmap speichern
+587§als *.GIF speichern|Grafik im Graphic-Interchange-Format speichern
+588§als *.TIF speichern|Grafik im Tagged-Image-File-Format speichern
+589§als *.JPG speichern|Grafik im JPEG-Format speichern
+590§als *.WMF speichern|Grafik als Windows-Metafile speichern
+591§als *.EMF speichern|Grafik als Enhanced Metafile speichern
+592§Numerierung|Symbole durchnumerieren.
+593§Keine Numerierung|Numerierung der Symbole löschen.
+594§Konstruierte Ellipse löschen|Dei konstruierte Ellipse loeschen
+595§Umrissfarbe der errechneten Ellipse|Die Farbe des Umrisses der errechneten Ellipse wählen.
+596§Errechnete Ellipse transparent|Die Fläche der errechneten Ellipse transparent machen.
+597§Füllfarbe der errechneten Ellipse|Die errechnete Ellipse mit Farbe füllen.
+598§Errechnete Ellipse löschen|Die errechnete Ellipse löschen.
+599§Beschriftung des Fry-Plots|Den Dateinamen in den Fry-plot eintragen.
+600§Fry-Plot als *.gif speichern|Den Fry-Plot in einer GIF-Datei abspeichern.
+601§Fry-Plot als *.tif speichern|Den Fry-Plot in einer TIF-Datei abspeichern.
+602§Fry-Plot als *.wmf speichern|Den Fry-Plot in einer WMF-Datei abspeichern.
+603§Fry-Plot als *.emf speichern|Den Fry-Plot in einer EMF-Datei abspeichern.
+604§Beschriftung des d/alpha-Plots|Den Dateinamen in das d/alpha-Diagramm eintragen.
+605§D/alpha-Plot als *.gif speichern|Das D/alpha-Diagramm in einer GIF-Datei speichern.
+606§D/alpha-Plot als *.tif speichern|Das D/alpha-Diagramm in einer TIF-Datei speichern.
+607§D/alpha-Plot als *.wmf speichern|Das D/alpha-Diagramm in einer WMF-Datei speichern.
+608§D/alpha-Plot als *.emf speichern|Das D/alpha-Diagramm in einer EMF-Datei speichern.
+609§Dreieck als BMP|Dreieck-Diagramm als *.bmp-Datei speichern.
+610§Dreieck als GIF|Dreieck-Diagramm als *.gif-Datei speichern.
+611§Dreieck als TIF|Dreieck-Diagramm als *.tif-Datei speichern.
+612§Dreieck als JPG|Dreieck-Diagramm als *.jpg-Datei speichern.
+613§Dreieck als WMF|Dreieck-Diagramm als *.wmf-Datei speichern.
+614§Dreieck als EMF|Dreieck-Diagramm als *.emf-Datei speichern.
+615§Mohr-Diagramm als BMP|Mohr-Diagramm als *.bmp-Datei speichern.
+616§Mohr-Diagramm als GIF|Mohr-Diagramm als *.gif-Datei speichern.
+617§Mohr-Diagramm als TIF|Mohr-Diagramm als *.tif-Datei speichern.
+618§Mohr-Diagramm als JPG|Mohr-Diagramm als *.jpg-Datei speichern.
+619§Mohr-Diagramm als WMF|Mohr-Diagramm als *.wmf-Datei speichern.
+620§Mohr-Diagramm als EMF|Mohr-Diagramm als *.emf-Datei speichern.
+621§BMP holen|Bild aus einer BMP-Datei holen.
+622§GIF holen|Bild aus einer GIF-Datei holen.
+623§TIF holen|Bild aus einer TIF-Datei holen.
+624§JPG holen|Bild aus einer JPG-Datei holen.
+625§WMF holen|Bild aus einer WMF-Datei holen.
+626§EMF holen|Bild aus einer EMF-Datei holen.
+627§Größe der Bid-Datei|Zahl der Pixel ändern.
+628§Fläche: Streichen aus Azimut|Fläche: Umrechnung von Azimut/Fallwinkel in Streichen/Fallen/Richtung
+629§Fläche: Azimut aus Streichen|Fläche: Umrechnung von Streichen/Fallen/Richtung in Azimut/Fallwinkel
+630§Linear: Streichen aus Azimut|Linear: Umrechnung von Azimut/Fallwinkel in Streichen/Fallen/Richtung
+631§Linear: Fläche: Azimut aus Streichen|Linear: Fläche: Umrechnung von Streichen/Fallen/Richtung in Azimut/Fallwinkel
+632§Spannung|Mohrschen Kreis für Spannung berechnen.
+633§Deformation|Mohrschen Kreis für finite Deformation berechnen.
+634§Achsen|Mohrschen Kreis aus den Achsen des Deformations-Ellipsoides berechnen.
+635§Elongation|Mohrschen Kreis aus Elongationen berechnen.
+636§Größe der Punkte|Größe der Punkte in Pixel festlegen.
+637§Farbe des Kreise|Farbe des Mohrschen Kreises festlegen.
+638§Füllung|Farbe der Füllung des Mohrschen Kreises festlegen.
+639§Skalarprodukt-Methode, Stufen mit Isolinien|Abgestufte Konturen mit der Skalarprodukt-Methode konstruieren und Polylinien zeichnen.
+640§Ende
+

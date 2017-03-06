@@ -1,0 +1,687 @@
+File Basic.pas:
+    Text.LoadfromFile (DirectS+'\'+Datnam);
+File CloUnit1.pas:
+  getdir (0, DirectS);
+  assignfile (DateiV,DirectS + '\' + 'VEKTOR.TMP');
+  assignfile (DateiM,DirectS + '\' + 'MZAEHLER.TMP');
+  assignfile (DateiF,DirectS + '\' + 'MFELD.TMP');
+File Clounit2.pas:
+  GetDir (0, DirectS);
+  AssignFile (DateiV,DirectS + '\' + 'VEKTOR.TMP');
+  getdir (0, DirectS);
+  assignfile (DateiV,DirectS + '\' + 'VEKTOR.TMP');
+  assignfile (DateiM,DirectS + '\' + 'MZAEHLER.TMP');
+  assignfile (DateiF,DirectS + '\' + 'MFELD.TMP');
+File Clounit4.pas:
+  getdir (0, DirectS);
+  AssignFile (DateiM,DirectS + '\' + 'MZAEHLER.TMP');
+File Drucken.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Globvar.pas:
+  DirectS           : string;
+File Haupt.pas:
+  getdir(0,DirectS);
+File HpPlot.pas:
+    ChDir (DirectS);
+File LiesConf.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Standard.pas:
+    if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File texte.pas:
+      Text.LoadfromFile (DirectS+'\'+Datnam);
+    Text.LoadfromFile (DirectS+'\'+Datnam);
+  assignFile (Datei, DirectS+'\'+'Lizenz.bin');
+    assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Unit1.pas:
+  getDir(0,DirectS);
+  Icon.Loadfromfile (DirectS+'\'+'Symbol1.ico');
+  Image1.Picture.LoadfromFile (DirectS+'\'+'Fabric7.bmp');
+  Image2.Picture.LoadfromFile (DirectS+'\'+'GeolSoft.wmf');
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit10.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit11.pas:
+  ChDir (DirectS);
+  ChDir (DirectS);
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit12.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit13.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit14.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit15.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit16.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit17.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit18.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit19.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit2.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit20.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit21.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Unit22.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit23.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Unit24.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit25.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  GetDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Unit26.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit27.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit28.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  if not DirectoryExists(PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit29.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Unit3.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit30.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit31.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit32.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit33.pas:
+//  assignFile(Datei,DirectS+'\'+'Simulation'+InttoStr(i)+'.SLI');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit34.pas:
+    assignFile(SDatei,DirectS+'\Simulation'+inttostr(i)+'.SLI');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit35.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit36.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit37.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit38.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit39.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit4.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit40.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit41.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit42.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit43.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit44.pas:
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit45.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit46.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit47.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit48.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit49.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit5.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit50.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit51.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit52.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit53.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit54.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit55.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit56.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit57.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit58.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit59.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit6.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit60.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit61.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit62.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit63.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+File Unit64.pas:
+  DrS := DirectS;
+    ChDir (DirectS);
+    ChDir (DirectS);
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit65.pas:
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit66.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit67.pas:
+    assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  Application.HelpFile :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit68.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+  Application.HelpFile :=DirectS+'\'+DateiS;
+File Unit69.pas:
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+  Application.HelpFile :=DirectS+'\'+DateiS;
+File Unit7.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit8.pas:
+  Application.HelpFile    :=DirectS+'\'+DateiS;
+  if not DirectoryExists (PfadS) then PfadS := DirectS;
+  if SetCurrentDir (DirectS) then getDir (0, DirectS);
+  assignFile(Datei,DirectS+'\'+'Fabric7.ini');
+  ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+File Unit9.pas:
+    Application.HelpFile    := DirectS+'\'+DateiS;
+    Application.HelpFile    := DirectS+'\Help_Files\'+DateiS;
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),
+    ShellExecute(0,'open',PCHar(DirectS+'\'+HilfeS),

@@ -1,0 +1,994 @@
+1§File 'Fabric7.ini' not found
+2§A Program Package
+3§  for Display
+4§and Analysis
+5§of Tectonic Data
+6§Enter password, please:
+7§COMPUTATION of angles, intersections, planes, or normals to planes
+8§ROTATION of orientation data around an optional axis
+9§Plot of DATA in various projections
+10§Plot of GREAT CIRCLES in various projections
+11§Plot of SMALL CIRCLES in various projections
+12§Statistical MEASURES of circular distributions
+13§Plot of a ROSE diagram
+14§FABRIC: Statistical measures and plot of orientation data
+15§ISO1: Plot of contoured diagrams of orientation data
+16§CLODAT: Significant separation of maxima in orientation data sets
+17§Orientation of a PALEOSTRESS ellipsoid (dihedra method)
+18§Plot of SLICKENSIDE planes and striations
+19§Plot of a HOEPPENER diagram
+20§Determination of the FORM-FACTOR of a paleo-stress ellipsoid
+21§Plot of the most common PROJECTIONS of a globe
+22§Plot of a R%-G% diagram
+23§Plot of a WOODCOCK diagram
+24§Plot of a VOLLMER diagram
+25§FOURIER analysis of fold shapes
+26§Classification of folds with the T'ALPHA/ALPHA method
+27§End of Fabric7
+28§End
+29§not found
+30§&back
+31§                                                        
+32§ These programs are protected by copyright. All rights  
+33§ are reserved.  Copying without consent of the authors  
+34§ is unlawful.                                           
+35§                                                        
+36§ Please let us know if you find any mistakes. We shall  
+37§ correct them immediately.                              
+38§ Address: Dr. Eckart Wallbrecher & Dr. Wolfgang Unzog   
+39§          A-8010 Graz, Austria                          
+40§          Paracelsusgasse 59                            
+41§                                                        
+42§                                                  
+43§ This program was copied without approval of the  
+44§ authors. It will not run.                        
+45§ Please buy or licence for more users.
+46§                                                  
+47§ The authors                                      
+48§                                                  
+49§Install Fabric7 again
+50§back to Windows
+51§Fabric7
+52§Fabric7: Select Program
+53§&end
+54§Fabric7: Calculations of Angles, Intersections, Planes, or Normals to Planes
+55§&data input
+56§&manual
+57§from &hard disk
+58§from diskette &A:
+59§from &diskette B:
+60§from the data bank
+61§Calculations
+62§&intersection of 2 planes
+63§&angle between 2 planes
+64§angle between 2 &linears
+65§&plane from 2 linears
+66§&normal on 2 linears
+67§&Angle
+68§1..360 &deg
+69§1..400 &gon
+70§ Computation of the Angle between Two Planes,
+71§       of Intersection Lines between Planes, 
+72§           of a Plane from Two Lineations, 
+73§ or of a Normal to Two Lineations 
+74§  Author: Eckart Wallbrecher, Graz 
+75§The following selections are valid:
+76§&continue
+77§Data input:
+78§from hard disk
+79§Calculation:
+80§angle between 2 Planes
+81§Angle:
+82§1..360 deg
+83§from &diskette 
+84§1..400 gon
+85§Fabric7: Calculations, Manual Data Input
+86§&Save data
+87§on &hard disk
+88§on diskette &A:
+89§on the &2nd diskette
+90§&finish
+91§Save &results
+92§&Printer
+93§&print
+94§Install printer
+95§Type measures as azimuth
+96§of dip and angle of dip.
+97§Hit 'Enter' to continue
+98§input. Corrections with
+99§the 'Tab' key.
+100§ 1. Plane      2. Plane      Intersection
+101§Data
+102§Data input:
+103§1. Measure:
+104§2. Measure:
+105§Input OK
+106§&Terminate input
+107§Fabric7: Calculations (Data Input from Diskette)
+108§  1. Plane         2. Plane     Intersection 
+109§1. Plane  : 
+110§2. Plane  : 
+111§  1. Plane         2. Plane        Angle
+112§  1. Linear        2. Linear       Angle     
+113§1. Linear : 
+114§2. Linear : 
+115§  1. Linear        2. Linear         Plane     
+116§  1. Linear        2. Linear         Normal    
+117§Data may now be saved and/or printed
+118§Data are saved
+119§Insert        
+120§data diskette 
+121§into drive    
+122§Diskette is write protected!       
+123§Remove write protect               
+124§or insert another diskette.        
+125§No diskette in the drive           
+126§Diskette defect                      
+127§or drive not locked.                 
+128§Correct the error, then hit any key  
+129§Insert name of the saving file: 
+130§The extension 
+131§ will be appended automatically   
+132§ This search path does not exist! 
+133§ Check path for data file
+134§ in the file 'Fabric7.ini'       
+135§Incorrect input
+136§Selected files:
+137§Select files:
+138§Number:
+139§&calculate
+140§ No file found 
+141§Intersection of Two Planes
+142§1. Plane:           2. Plane:           Intersection:
+143§         ________          ________          ___________
+144§Angle between Two Planes
+145§1. Plane:           2. Plane:               Angle:
+146§         ________          ________              ______
+147§Angle between Two Linears
+148§1. Linear:          2. Linear:              Angle:
+149§         ________          ________             ______
+150§Plane from Two Linears
+151§1. Linear:          2. Linear:               Plane:
+152§         ________         ________              ______
+153§Normal on Two Linears
+154§1. Linear:          2. Linear:              Normal:
+155§   ________          ________             _______
+156§Fabric7: Rotations
+157§&Fabric Type
+158§&linears
+159§&planes
+160§U-stage-&axes
+161§U-stage-&poles
+162§&Help
+163§    Rotation of Orientation Data
+164§around an Arbitrary Axis
+165§Fabric type:
+166§on &diskette 
+167§manual
+168§from diskette A:
+169§Linears
+170§Planes
+171§U-stage-axes
+172§U-stage-poles
+173§Fabric7: Rotations (manual data input)
+174§&Save rotated Data
+175§Write rotation axis as azimuth of dip/
+176§angle of dip.
+177§Clockwise rotation angle is positive
+178§Angle of tilt to N or W is negative!
+179§Rotation axis:
+180§Rotation angle:
+181§Number of data:
+182§&Terminate data input
+183§Data:
+184§rotated data:
+185§Linears
+186§Planes
+187§U-stage-axes
+188§U-stage-poles
+189§Rotation of Orientation Data
+190§Day of calculation: 
+191§Jan.
+192§Feb.
+193§March
+194§April
+195§May
+196§June
+197§July
+198§Aug.
+199§Sept.
+200§Oct.
+201§Nov.
+202§Dec.
+203§Monday
+204§Tuesday
+205§Wednesday
+206§Thursday
+207§Friday
+208§Saturday
+209§Sunday
+210§  Time: 
+211§File :
+212§Data are 
+213§Rotation axis = 
+214§Rotation angle = 
+215§ Data are saved now 
+216§INPUT ERROR !
+217§Fabric7: Rotations, Input from Diskette
+218§  Data:            Rotated Data:
+219§Azimuth
+220§Dip  
+221§Rotation angle:
+222§Number:
+223§No data found
+224§ Wrong value 
+225§ Correct this value in file 
+226§       
+227§Fabric7: Plot of Data into a Stereo Net
+228§   Plot of Linears or Poles to Planes
+229§     in Various Projections
+230§ 
+231§Fabric7: Plot of Great Circles
+232§             Plot of Great Circles            
+233§from &Diskette 
+234§Help not yet installed
+235§Fabric7: Plot of Linears or Planes, Manual Input
+236§Fabric7: Plot of Great Circles, Manual Input
+237§Fabric7: Statistical Measures, Manual Input
+238§Fabric7: Contour Lines of Orientation Data, Manual Input
+239§Type data as azimuth/angle of dip.
+240§Fabric7: Cluster of Orientation Data, Manual Input
+241§&plot
+242§on &Diskette
+243§No data found.
+244§Plot of Linears or Planes, Input from Diskette
+245§Fabric7: Plot of Great Circles, Input from Diskette
+246§Fabric7: Statistical Measures, Input from Diskette
+247§Fabric7: Contour-Line Plot, Input from Diskette
+248§&Selection OK?
+249§Calculation of  Statistical Parameters
+250§           of Fabric data 
+251§Plot   of   Tectonic   Data
+252§Plot of Great Circles
+253§      Cluster of Orientation Data
+254§          Plot of Contour Lines
+255§Calculation of the Orientation of Principal Stresses
+256§Filename :
+257§Fabric7: Plot of Orientation Data, Grafic
+258§&Projection
+259§&Lambert
+260§&stereografic
+261§&Symbol
+262§open &circle
+263§&filled circle
+264§open &triangle
+265§filled t&riangle
+266§open &square
+267§filled s&quare
+268§open &diamond
+269§filled d&iamond
+270§&plot poles (axes)
+271§&solid lines
+272§&dashed lines
+273§d&otted lines                                                                  
+274§&dash-dotted &lines
+275§&Colour
+276§&black
+277§b&lue
+278§&green
+279§&red
+280§&violett
+281§&Graphic
+282§&copy
+283§cut &out
+284§&save
+285§save &under
+286§&load from clipboard
+287§load from &file
+288§plot with a &printer
+289§plot into a HPGL &file
+290§plot into a D&XF file
+291§&Size
+292§&portrait
+293§&landscape
+294§colour of the &objects
+295§Choose size, format, colour und periphery
+296§Number of Data:
+297§plot:
+298§Create Plotfile?
+299§Radius [mm]:
+300§Centre [mm]:
+301§X-coordinate:
+302§Y-coordinate:
+303§Coordinates OK?
+304§Plot of Great Circles: Grafic
+305§Plot of Small Circles: Grafic
+306§No grafic on the clipboard!
+307§File not found
+308§Radius too large 
+309§X-coordinate too large
+310§Y-coordinate too large
+311§Plot of the Great Circles
+312§Plot of the Small Circles
+313§Fabric7: Small Circles
+314§Plot of Small Circles
+315§Fabric7: Small Circles, Manual Data Input
+316§Type Axis as
+317§azimuth / angle of dip.
+318§Axis:       Apical Angle:
+319§Axis:
+320§Apical Angle:
+321§Fabric7: Statistical Measures of Circular Distributions
+322§Calculation
+323§    of Statistical Measures
+324§of Circular Distributions
+325§&Data
+326§pure &directions
+327§directions with &lengths
+328§&Range
+329§&half circle (1..180)
+330§&full circle (1..360)
+331§Data:
+332§Range:
+333§Fabric7: Plot of a Rose Diagram
+334§     Plot of
+335§         a Rose Diagram
+336§of Circularly Distributed Data
+337§pure directions
+338§directions with lengths
+339§1..360 deg
+340§1..400 gon
+341§half circle
+342§full circle
+343§Fabric7: Statistical Measures of Circular Data, Input from Diskette
+344§Type data as azimuths.
+345§Type data as integer numbers.
+346§Direction:           Length:
+347§Direction:
+348§Length:
+349§Measures
+350§on diskette 
+351§  Statistical Measures of Circularly Distributed Data
+352§Number                                  = 
+353§Vector Sum                        =
+354§Normalized Vector Sum   = 
+355§Preferred Orientation = 
+356§Vector Mean                           = 
+357§Skewness                                 = 
+358§Kurtosis                                 = 
+359§linears
+360§planes 
+361§U-stage-axes
+362§U-stage-poles
+363§1..360 deg
+364§1..400 gon
+365§The sample lies in the  cluster-field
+366§The sample lies in the girdle field
+367§Contour lines:
+368§Select size, format, and colour
+369§Plot of the contour lines
+370§Significant separation
+371§not significantly
+372§separated groups:
+373§pooled groups:
+374§ in clusters
+375§Fabric7: Slickensides and Striation Lineation, Manual Input
+376§Fabric7: Hoeppener Diagram, Manual Input
+377§ Calculation of the Directions of Principal Stresses 
+378§Choose colour of the contour lines and the size of the counting calotte!
+379§Sliplines can be changed by
+380§overriding the input
+381§Data, which do not fit in these slip lines,
+382§can be eliminated from
+383§the grafic by a double mouse click.
+384§ Plot of the Slickenside Planes 
+385§theoretical:
+386§measured:
+387§Diagram too long
+388§Plot of the Eigenvalues
+389§Angle:
+390§Plot of the projection
+391§Data Input
+392§open circle     
+393§filled circle   
+394§open square     
+395§filled square   
+396§open triangle   
+397§filled triangle
+398§open diamond    
+399§filled diamond  
+400§Select size and colours
+401§Select colours
+402§Axes too large 
+403§Origin is too far right
+404§Origin is too high
+405§Input is wrong
+406§WOODCOCK Diagram
+407§VOLLMER Diagram
+408§ Diagrams
+409§   Eigenvalue 1     Eigenvalue 2     Eigenvalue 3     c-Value
+410§Plot of the WOODCOCK Diagram
+411§Plot of the Vollmer Diagram
+412§Error in file Fabric7.ini, line 
+413§must be
+414§Correct this line 
+415§ with a texteditor 
+416§Turn on printer,
+417§Rotated Data:
+418§T'alpha/Alpha-Method after (1967)
+419§File:
+420§Folds
+421§Fold
+422§Hinge distance:
+423§Isogon      Distance of Isogons     Tà/T0
+424§ERROR: 1. First sign not allowed
+425§Directions
+426§Fourier Analysis of Fold Shapes
+427§'Vergency         1.Point               
+428§2.Point               3.Point              b1          b3
+429§            b5
+430§Gefuege 7
+431§ Turn on plotter,   
+432§ insert paper,      
+433§ then hit any key   
+434§finished?
+435§Plot terminated
+436§Plotting of the Diagram on the Plotter
+437§The plot file '
+438§' is set up
+439§Type diagramm caption:
+440§ Data
+441§Data
+442§Plot symbol
+443§Select a single sign
+444§Plot of the partial great circle
+445§Too many contour lines
+446§No result at 
+447§ iterations
+448§ R%-G%-Diagram
+449§Diagrams
+450§Plot of the Fourier Diagram
+451§Plot of the fold
+452§Select the program, you want to work with:
+453§Type data as azimuth / angle of dip.
+454§Fabric7: Plot of Data in a Projektion Net
+455§Fabric7: Cluster of Orientation Data, Input from Diskette
+456§Fabric7: Small Circles, Manual Data Input
+457§Fabric7: Measures of Circular Distributions, Results
+458§Files:
+459§Range:
+460§Number of data
+461§Vector sum
+462§Normalized vector sum
+463§Preferred orientation
+464§Vector mean
+465§Skewness
+466§Kurtosis
+467§Fabric7: Statistical Measures of Circular Distributions, Input from Diskette
+468§Measures
+469§&plot
+470§Fabric7: Plot of Rose Diagrams
+471§&Rose Type
+472§&block rose
+473§&star rose
+474§&floating intervals
+475§&Fill the Diagram
+476§&not filled
+477§&filled
+478§&Colour
+479§&black
+480§b&lue
+481§&green
+482§&red
+483§&violett
+484§&Grafic
+485§&copy
+486§cut &out
+487§&save
+488§save &under
+489§load from &clipboard
+490§load from &file
+491§plot on a &HP plotter
+492§plot into a H&PGL file
+493§plot into a D&XF file
+494§&Size
+495§&Format
+496§&portrait
+497§&landscape
+498§colour of the &periphery
+499§colour of the objects
+500§Interval:
+501§Increment:
+502§Plot:
+503§Fabric7: Statistic Measures of Orientation Data
+504§&Data Input
+505§Calculation and Plot
+506§of Orientation Data
+507§Fabric7: Calculation and Plot of Statistic Measures of Orientatation Data
+508§&Confidence
+509§9&0 Percent
+510§9&5 Percent
+511§9&9 Percent
+512§Colour of &Data
+513§Colour of &Eigenvectors
+514§Colour of &Aperture
+515§Colour of &Cone of Confidence
+516§&Data Symbol
+517§&open circle
+518§filled &circle
+519§o&pen square
+520§filled &square
+521§op&en triangle
+522§filled &triangle
+523§ope&n diamond
+524§filled &diamond
+525§&Lines
+526§&straight
+527§&dashed
+528§&dashdotted
+529§d&ashdotted
+530§Colour of &eigenvectors
+531§Colour of &aperture
+532§Colour of cone of &confidence
+533§Number of data
+534§Preferred orientation
+535§Concentration-parameter
+536§Cone of confidence
+537§Spherical aperture
+538§Centre of gravity
+539§Eigenvalues:
+540§Eigenvectors:
+541§Cylindricity
+542§Circular aperture
+543§The sample lies in the girdle field
+544§Fabric7: Representation of Orientation Data with Contour Lines
+545§Countouring of Orientation Data
+546§  in Multiples of Even Distribution
+547§     and Logarithmic Scaling
+548§   or in Manually Chosen Steps
+549§Fabric7: Representation of Orientation Data with Contour Lines, Plot
+550§&Contouring
+551§multiples of &even distribution
+552§&choose steps
+553§&1. Contour Line
+554§&2. Contour Line
+555§&3. Contour Line
+556§&4. Contour Line
+557§&5. Contour Line
+558§&straight line
+559§&dashed line
+560§d&otted line
+561§&dotdashed line
+562§colour of the &1st contour line
+563§colour of the &2nd contour line
+564§colour of the &3rd contour line
+565§colour of the &4th contour line
+566§colour of the &5th contour line
+567§Contour lines:
+568§at:
+569§Manual input:
+570§1. Contour line:
+571§2. Contour line:
+572§3. Contour line:
+573§4. Contour line:
+574§5. Contour line:
+575§Calotte:
+576§Fabric7: Clusters of Orientation Data
+577§CLODAT7
+578§      A Program for Significant
+579§  Separation of Submaxima
+580§in Distributions of Orientation Data
+581§Authors: E. Wallbrecher and W. Unzog
+582§Fabric7: Clusters of Orientation Data, Plot
+583§Select
+584§Confidence and Multiples
+585§of Even Distribution:
+586§Significant separation
+587§significant
+588§1,2,3,4,5,6,7,8,9,10
+589§Test angle:
+590§Data in Clusters:
+591§Multiples of
+592§Even Distribution:
+593§Group
+594§Number
+595§R%
+596§Conc.-p.
+597§Theta
+598§S.aper.
+599§C.aper.
+600§Cylin.
+601§Centre
+602§Fabric7: Paleo-Stress (Dihedra-Method)
+603§Calculation of the Orientations
+604§               of the Axes
+605§         of a Paleo-Stress Ellipsoid
+606§       from Slickensides and Striations
+607§Slickenside plane:
+608§Azimuth / angle of dip
+609§Striation: azimuth / ±angle of dip
+610§positive: reverse fault
+611§negative: normal fault
+612§Output: corrected striations
+613§Slickenside:
+614§Striation:
+615§Slickenside:
+616§Striation:
+617§Fabric7: Paleo-Stress, Plot
+618§&Contour Lines
+619§20%
+620§40%
+621§60%
+622§80%
+623§95%
+624§Colour of the &20-percent contur line
+625§Colour of the &40-percent contur line
+626§Colour of the &60-percent contur line
+627§Colour of the &80-percent contur line
+628§Colour of the &95-percent contur line
+629§Number of dihedra:
+630§Size of the calotte
+631§Contour lines:
+632§Select size of calotte
+633§Fabric7: Plot Slickenside Planes and Striation Lineations
+634§Plot of Slickenside Planes and
+635§Striation Lineation with Polarity
+636§   in Lambert or
+637§  Stereographic Projection
+638§Fabric7: Slickenside Planes and Striation Lineation, Plot
+639§&Projection
+640§&Lambert
+641§&stereografic
+642§&Colour
+643§&slickenside planes
+644§&striations
+645§&dotted
+646§Number of Data:
+647§Fabric7: Hoeppener Diagram
+648§   Plot of a
+649§    Hoeppener Diagram
+650§         in Lambert or Stereographic
+651§ Projection
+652§Fabric7: Hoeppener Diagram, Plot
+653§&Erase Data
+654§&no
+655§&yes
+656§&upper slip-lines
+657§&lower slip-lines
+658§&save
+659§&cleaned data
+660§&erased data
+661§on the &2nd diskette
+662§&points
+663§&arrows
+664§Data that do not fit in these slip lines
+665§can be erased by double click
+666§with the mouse
+667§&finish correction
+668§Principal stresses:
+669§Sigma1:
+670§Sigma3:
+671§Shape factor 1:
+672§Shape factor 2:
+673§Change slip lines by overwriting
+674§and hitting 'Start'.
+675§Fabric7: Estimation of the Shape Factor, Plot
+676§&theoretical points
+677§&measured points
+678§Colour of the &diagram
+679§Colour of the &theoretical Points
+680§Colour of the &measured Points
+681§Eigenvalues of the striations
+682§theoretical
+683§measured:
+684§Plot input ok?
+685§Length of the sides [mm]:
+686§Origin [mm]:
+687§X:
+688§Y:
+689§Coordinates
+690§Fabric7: Estimation of the Form Factor of a Paleo-Stress Ellipsoid
+691§  Estimation
+692§of the Form Factor
+693§      of a Paleo-Stress Ellipsoid
+694§with the Eigenvalue Method
+695§Fabric7: Projections of a Globe
+696§Plot
+697§   of Various
+698§Projections of a Globe
+699§Fabric7: Projections of a Globe, Plot
+700§&Great and Small Circles
+701§&Equator
+702§colour of the &circles
+703§colour of the equator
+704§Projection net:
+705§orthografic net
+706§angle:
+707§Distance of circles:
+708§Angle increment:
+709§Angle of tilt:
+710§Fabric7: R% - G% Diagram
+711§  Plot
+712§of a
+713§R% - G% - Diagram
+714§Fabric7: R%-G%-Diagram, Manual Data Input
+715§Type preferred orientation,
+716§cylindricity and
+717§plot symbol.
+718§R%:
+719§G%:
+720§Symbol:
+721§Data input:
+722§Orientation:
+723§Cylindricity:
+724§Symbol:
+725§&finish data input
+726§&plot
+727§Fabric7: R%-G%-Diagram, Input from Diskette
+728§Fabric7: R%-G%-Diagram, Plot
+729§Colour of the &Coordinates
+730§Colour of the &Objects
+731§Length [cm]:
+732§Origin
+733§X-coordinate [cm]:
+734§Y-coordinate [cm]:
+735§Fabric7: Woodcock Diagram
+736§  Plot
+737§of a
+738§Woodcock Diagram
+739§Fabric7: Woodcock Diagram, Manual Data Input
+740§Type Eigenvalues:
+741§without the decimal point.
+742§Sum is wrong!
+743§Fabric7: Woodcock Diagram, Data Input from Diskette
+744§Fabric7: Woodcock Diagram, Plot
+745§&Symbol
+746§Colour of the &diagramm
+747§Colour of the &objects
+748§Table of the c-values:
+749§Fabric7: Plot of a Vollmer Diagram
+750§Vollmer-Diagram
+751§Fabric7: Vollmer Diagram, Plot
+752§Fabric7: Fourier Analysis of Fold Shapes
+753§for Quantitative Description
+754§of Fold Shapes
+755§Fabric7: Fourier Analysis of Fold Shapes, Manual Input
+756§Put fold-inversion into the origin of the coordinates.
+757§Vergency to the right is positive, to the left negative.
+758§Type X- and Y-coordinates of three Points of a quarter
+759§fold. The 3rd point must be in the fold hinge.
+760§1st point:
+761§2nd point:
+762§3rd point:
+763§1.point
+764§2.point
+765§3.point
+766§Vergency:
+767§Fabric7: Fourier Analysis of Fold Shapes, Input from Diskette
+768§Ver:
+769§1.point:
+770§2.point:
+771§3.point:
+772§Fabric7: Fourier-Analysis of Fold Shapes, Plot
+773§Side length [mm]:
+774§Origin [mm]:
+775§X:
+776§Y:
+777§Fabric7: T'alpha/Alpha-Method
+778§   Classification of Folds
+779§       by the Thickness
+780§of Folded Layers
+781§T'alpha/Alpha-Method (RAMSEY, 1967)
+782§Fabric7: T'alpha/Alpha-Method, Manual Data Input
+783§Measure the distance of hinge lines (T0) between two
+784§neighbouring layers. Type lengths of the isogons
+785§(Talpha) between the borders of the layer.
+786§(Talpha) between the borders of the layer.
+787§Use only integer numbers.
+788§Number of layers
+789§    T0:        Isogons:       T  /T0:
+790§Isogons:
+791§Fabric7: T'alpha/Alpha Method, Data Input from Diskette
+792§Fabric7: T'alpha/Alpha-Method, Plot
+793§&Lines
+794§&straight
+795§&dashed
+796§&dotdashed
+797§&dotted
+798§Number of folds:
+799§Table:
+800§T0:    Isogons:    T /T0:
+801§Side length [cm]:
+802§Authors: E. Wallbrecher and W. Unzog
+803§&Schmidt net
+804§&Wulff net
+805§&orthografic net
+806§&Kavraiskii net
+807§Length of the ordinate
+808§Save &Rotated Data
+809§Input:
+810§of the Statistic Parametres
+811§from diskette 
+812§Fourier analysis
+813§of the origin [mm]:
+814§Length of Coordinates [mm]:
+815§Cluster field
+816§Girdle field
+817§OK?
+818§Points
+819§Girdle
+820§Random
+821§intersection of 2 planes
+822§angle between 2 linears
+823§plane from 2 linears
+824§normal on 2 linears
+825§Output in 'deg'
+826§from hard disk
+827§angle between 2 planes
+828§: Clockwise is positive
+829§ angle of dip.
+830§colour of the &periphery
+831§colour of the &slickensides
+832§colour of the &striations
+833§Estimation of the Shape Factor, Input from Diskette
+834§Plot of slickenside planes
+835§Points
+836§Girdles
+837§Random
+838§Fabric7, Measures of Circularly Distributed Measures, Manual Input
+839§Plot of a Rose Diagramm
+840§Fabric7: Plot of a Rose Diagram, Manual Data Input
+841§Fabric7: Plot of a Rose Diagram, Input from Diskette
+842§Preferred Orientation [%]
+843§Cylindricity [%]
+844§Fabric7: Vollmer Diagram, Manual Data Input
+845§Fabric7: Vollmer Diagram, Data Input from Diskette
+846§Symbol for data points
+847§Line Style
+848§Language
+849§orthographic
+850§Type of Plot File:
+851§no plot
+852§Plot Size
+853§Portrait
+854§Landscape
+855§Confidence:
+856§Background Colour
+857§&gray
+858§&aqua
+859§&white
+860§Colour of the Diagram
+861§&yellow
+862§Colour of Coordinates
+863§Program to Install Fabric7
+864§Change Fabric7.ini:
+865§Path for the Data File:
+866§Path for the Graphic File:
+867§Plotter Interface:
+868§Password:
+869§yes
+870§no
+871§Language:
+872§&write to Fabric7.ini
+873§The test period has expired.
+874§You have to buy the program
+875§to receive an unlimited license.
+876§The changes have been carried out in 'Fabric7.ini'
+877§cannot be created.
+878§has been created.
+879§&White
+880§Print-Parametres:
+881§print
+882§abort
+883§Radius [in % of Paperwidth]:
+884§Centre of the Image:
+885§X-Coordinate [in % of Paperwidth]:
+886§Y-Coordinate [in % of Paperheight]:
+887§Figure Caption
+888§Font Size
+889§flush left
+890§centered
+891§flush right
+892§Colour of Frame
+893§Number of Data                  =
+894§Degree of Preferred Orientation =
+895§Concentration Parametre         =
+896§Cone of Confidence              =
+897§Spherical Aperture              =
+898§Centre of Gravity               =
+899§Eigenvalues:   Eigenvectors:                                                   
+900§Cylindricity      =
+901§Circular Aperture =
+902§Length [in % of Paperwidth]:
+903§Projection:
+904§RECONSTRUCTION or Simulation of tectonic data
+905§ Reconstruction of Measures 
+906§(Azimuth and Angle of Dip)
+907§     from a Stereo-Projection   
+908§Autor: Eckart Wallbrecher, Graz
+909§ Create a bitmap of the diagram you want to evaluate.
+910§(use only the part within the periphery)
+911§   then copy the bitmap to the clipboard   
+912§&Finish Reconstruction
+913§Number of data
+914§List of data
+915§Type of fabric
+916§Projection
+917§&Projection
+918§&stereographic
+919§&orthographic
+920§&Type of fabric
+921§&Linears
+922§&Planes
+923§&Colour
+924§&Black
+925§&Red
+926§&Blue
+927§&Green
+928§&Violet
+929§&Yellow
+930§&save
+931§on &hard disk
+932§on diskette &A:
+933§on &diskette
+934§&Printer
+935§&Setup
+936§&print
+937§Help
+938§&Reconstruction
+939§&Simulation
+940§    or Creation of a simulated Data Set    
+941§&Finish simulation
+942§ Shear Box 
+943§SIMULATION of Plain Strain 
+944§Colour of &Frame
+945§Colour of &Undeformed Pattern
+946§Colour of &Deformed Pattern
+947§Undeformed Pattern:
+948§&Line
+949§&Ellipse
+950§&Rectangle
+951§&Clipboard
+952§&Erase
+953§Shearangle:
+954§Deg
+955§Shear:
+956§&Shear
+957§&affine
+958§&non affine
+959§Factor:
+960§Flattening
+961§to
+962§Percent:
+963§The student license only allows
+964§usage for study purpose and no                                                 
+965§commercial or scientific application.
+966§Talbot Method for Strain Analysis
+967§Strain Analysis
+968§with the Talbot Method
+969§Talbot Method, manual Data input
+970§Extension: positive azimuth
+971§Compression: negative
+972§Strain analysis with the Talbot method
+973§Talbot method, Data input from diskette
+974§Data
+975§Compression
+976§Extension
+977§Number of data larger
+978§than reserved number.
+979§Change line 84
+980§in file Fabric7.ini.
+981§max. number of data:                                                           
+982§Orientation of the strain-ellipsoid
+983§remove clusters
+984§prolate
+985§oblate
+986§Strain-ellipsoid:
+987§long axis:
+988§middle axise:
+989§short axis:
+990§Apical angle of cone
+991§Point im Flinn-Diagram
+992§Colour of the axes
+993§Colour of the ellipse
+994§End

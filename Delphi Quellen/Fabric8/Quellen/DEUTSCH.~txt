@@ -1,0 +1,1764 @@
+1§Datei Fabric.ini nicht gefunden
+2§Ein Programm-Paket
+3§    zur Darstellung
+4§      und Analyse
+5§  tektonischer Daten
+6§Passwort eingeben:
+7§Winkel, Schnittkanten, Flächen, Normale etc.
+8§Rotation von Richtungsdaten
+9§Plotten von Richtungsdaten
+10§Plotten von Grosskreisen
+11§Plotten von Kleinkreisen
+12§Statistische Maßzahlen zirkularer Verteilungen
+13§Richtungsrosen
+14§Statistische Maßzahlen und Plot von Richtungsdaten
+15§Isolinien-Darstellungen
+16§Signifikante Trennung von Submaxima
+17§Paläospanungs-Analyse mit der Dieder-Methode
+18§Harnisch-Flächen und Striemungslineare
+19§Hoeppener-Diagramm
+20§Formfaktor eines Spannungs-Ellipsoides
+21§Lagekugelprojektionen
+22§R%-G%-Diagramm
+23§Woodcock-Diagramm
+24§Vollmer-Diagramm
+25§Fourier-Analyse von Faltenformen
+26§Faltenklassifizierung mit Änderung der Schichtmächtigkeit
+27§Ende von Fabric8
+28§Ende
+29§nicht gefunden
+30§Zurück
+31§                                                        
+32§ Alle Rechte an diesem Programm liegen bei dem Autor.
+33§ Das Programm darf daher weder weitergegeben noch
+34§ kopiert werden.
+35§
+36§ Der Autor ist dankbar für eventuelle
+37§ Verbesserungsvorschläge
+38§ Adresse: Dr. Eckart Wallbrecher
+39§                Paracalsusgasse59
+40§                A-8010 Graz, Austria
+41§                e-mail eckart.wallbrecher@uni-graz.at
+42§                                                  
+43§ Dies Programm wurde ohne Genehmigung des Autors
+44§ kopiert. Es kann daher nicht laufen.             
+45§ Tut mir leid.
+46§                                                  
+47§ Der Autor
+48§                                                  
+49§Installieren Sie Fabric8 neu
+50§Wollen Sie Fabric8 verlassen?
+51§Fabric8
+52§Fabric8: Unterprogramm auswählen
+53§Beenden
+54§Fabric8: Berechnungen von Winkeln, Schnittkanten und Normalen
+55§Dateneingabe
+56§Manuell
+57§Aus einer Datei
+58§
+59§
+60§Von der Daten&bank
+61§Berechnung von Winkeln, Schnittkanten,
+62§Flächen und Normalen.
+63§Umrechnung von Pitchwinkeln in Lineare,
+64§Streichen in Fallrichtung und umgekehrt.
+65§Fläche aus 2 Linearen
+66§Normale auf 2 Lineare
+67§Winkel
+68§In Altgrad
+69§In Neugrad
+70§    Berechnung von Winkeln, Schnittkanten,
+71§                   Flächen und Normalen.
+72§   Umrechnung von Pitchwinkeln in Lineare,
+73§   Streichen in Fallrichtungen und umgekehrt.
+74§
+75§Folgende Einstellungen wurden gewählt:
+76§Weiter
+77§Dateneingabe:
+78§Von der Festplatte
+79§Berechnung:
+80§Winkel zwischen 2 Flächen
+81§Winkel:
+82§In Altgrad
+83§Von &Diskette
+84§In Neugrad
+85§Fabric8: Berechnungen, manuelle Dateneingabe
+86§Daten speichern
+87§Speichern
+88§Speichern unter
+89§
+90§Beenden
+91§Ergebnisse speichern
+92§Drucker
+93§Drucken
+94§Drucker einrichten
+95§Messungen als Fallazimut
+96§und Fallwinkel eingeben.
+97§Eingabe mit 'Enter' fortsetzen.
+98§
+99§
+100§ 1. Fläche     2. Fläche     Schnittkante
+101§Daten
+102§Dateneingabe:
+103§1. Messung:
+104§2. Messung:
+105§Eingabe OK
+106§Eingabe beenden
+107§Fabric8: Berechnungen, Dateneingabe aus einem Ordner
+108§  1. Fläche        2. Fläche    Schnittkante
+109§1. Fläche :
+110§2. Fläche :
+111§  1. Fläche        2. Fläche       Winkel
+112§  1. Linear        2. Linear       Winkel
+113§1. Linear :
+114§2. Linear :
+115§  1. Linear        2. Linear         Fläche
+116§  1. Linear        2. Linear         Normale
+117§Daten können jetzt gespeichert und/oder gedruckt werden
+118§Daten werden gespeichert
+119§Daten-Diskette
+120§ in Laufwerk
+121§ einlegen,
+122§Diskette ist schreibgeschützt!
+123§Schreibschutz entfernen
+124§oder eine andere Diskette einlegen,
+125§Keine Diskette im Laufwerk,
+126§Diskette defekt
+127§oder Laufwerk nicht verriegelt
+128§Fehler beheben und eine Taste drücken
+129§Namen der Speicher-Datei eingeben:
+130§Die Extension
+131§ wird automatisch angehängt
+132§ Dieser Suchweg existiert nicht!
+133§ Kontrollieren Sie in Fabric.ini
+134§ den Pfad für das Daten-Directory
+135§Eingabe fehlerhaft
+136§Ausgewählte Dateien:
+137§Dateien auswählen:
+138§Anzahl:
+139§Berechnen
+140§ Keine Datei vorhanden
+141§Schnittkante von zwei Flächen
+142§1. Fläche:          2. Fläche:          Schnittkante:
+143§         __________          __________          _____________
+144§Winkel zwischen zwei Flächen
+145§1. Fläche:          2. Fläche:              Winkel:
+146§         ________          ________              ______
+147§Winkel zwischen zwei Linearen
+148§1. Linear:          2. Linear:               Winkel:
+149§         ________          ________             ______
+150§Fläche aus zwei Linearen
+151§1. Linear:          2. Linear:                Fläche:
+152§         ________         ________              ______
+153§Normale auf zwei Linearen
+154§1. Linear:           2. Linear:              Normale:
+155§         ________          ________             ________
+156§Fabric8: Rotationen
+157§Gefügetyp
+158§Lineare
+159§Flächen
+160§U-Tisch-&Achsen
+161§U-Tisch-&Pole
+162§Hilfe
+163§Rotation von Orientierungsdaten
+164§um eine beliebige Achse
+165§Gefügetyp:
+166§Auf &Diskette
+167§Manuell
+168§Von Diskette A:
+169§Lineare
+170§Flächen
+171§U-Tisch-Achsen
+172§U-Tisch-Pole
+173§Fabric8: Rotationen (manuelle Dateneingabe)
+174§Rotierte Daten speichern
+175§Rotationsachse als Fallazimut/
+176§Fallwinkel eingeben.
+177§Rotationswinkel im Uhrzeigersinn eingeben
+178§Kippwinkel nach N oder W negativ!
+179§Rotationsachse:
+180§Rotationswinkel:
+181§Anzahl der Daten:
+182§Dateneingabe beenden
+183§Daten:
+184§Rotierte Daten:
+185§Lineare
+186§Flächen
+187§U-Tisch-Achsen
+188§U-Tisch-Pole
+189§Rotation von Richtungsdaten
+190§Tag der Bearbeitung:
+191§Jan.
+192§Feb.
+193§März
+194§April
+195§Mai
+196§Juni
+197§Juli
+198§Aug.
+199§Sept.
+200§Okt.
+201§Nov.
+202§Dez.
+203§Montag
+204§Dienstag
+205§Mittwoch
+206§Donnerstag
+207§Freitag
+208§Sonnabend
+209§Sonntag
+210§  Zeit:
+211§Datei :
+212§Daten sind
+213§Rotationsachse =
+214§Rotationswinkel =
+215§ Daten werden gespeichert
+216§EINGABE FEHLERHAFT !
+217§Fabric8: Rotationen (Dateneingabe von Datenträger
+218§  Daten:           rotierte Daten:
+219§Azimut
+220§Einfallen
+221§Rotationswinkel:
+222§Anzahl:
+223§Keine Daten gefunden
+224§ Falscher Wert
+225§ Korrigieren Sie diesen Wert in der
+226§ Datei
+227§Fabric8: Plotten von Daten in ein Projektionsnetz
+228§Plot von Linearen oder Flächenpolen
+229§in verschiedenen Projektionen
+230§
+231§Fabric8: Plotten von Großkreisen
+232§             Plot von Großkreisen
+233§Von Diskette
+234§Hilfe noch nicht installiert
+235§Fabric8: Plot von Linearen oder Flächen, Eingabe manuell
+236§Fabric8: Plot von Großkreisen, Eingabe manuell
+237§Fabric8: statistische Maßzahlen, Eingabe manuell
+238§Fabric8: Darstellung von Richtungsdaten mit Isolinien, Eingabe manuell
+239§Daten als Fallazimut/Fallwinkel eingeben.
+240§Fabric8: Cluster von Richtungsdaten, Eingabe manuell
+241§Plotten
+242§Auf &Diskette
+243§Kein Wert eingegeben
+244§Fabric8: Plotten von Linearen oder Flächen, Eingabe aus einem Ordner
+245§Fabric8: Plotten von Großkreisen, Eingabe aus einem Ordner
+246§Fabric8: statistische Maßzahlen, Eingabe aus einem Ordner
+247§Fabric8: Isolinien-Plot, Eingabe aus einem Ordner
+248§Auswahl OK
+249§Berechnung der statistischen Parameter
+250§           von Gefügedaten
+251§Plot von tektonischen Daten
+252§Plot von Großkreisen
+253§      Cluster von Richtungsdaten
+254§          Plot von Isolinien
+255§Bestimmung der Richtungen der Hauptnormalspannungen
+256§Dateiname :
+257§Fabric8: Plotten von Richtungsdaten, Grafik
+258§Projektion
+259§Lambert
+260§stereografisch
+261§Darstellung
+262§Kreis offen
+263§Kreis gefüllt
+264§Quadrat offen
+265§Quadrat gefüllt
+266§Dreieck offen
+267§Dreieck gefüllt
+268§Raute offen
+269§Raute gefüllt
+270§Pole (Achsen) plotten
+271§Durchgezogene Linien
+272§Gestrichelte Linien
+273§GepunkteteLinien
+274§Strichpunktierte Linien
+275§Farbe
+276§Schwarz
+277§Blau
+278§Grün
+279§Rot
+280§Violett
+281§Grafik
+282§Kopieren
+283§Ausschneiden
+284§Speichern
+285§Speichern unter
+286§aus der Zwischenablage holen
+287§aus einer Datei holen
+288§Mit dem Drucker plotten
+289§In eine HPGL-Datei zeichnen
+290§In eine DXF-Datei zeichnen
+291§Größe
+292§Hochformat
+293§Querformat
+294§Farbe der Objekte
+295§Größe, Format, Farbe und Peripherie eingeben!
+296§Anzahl der Daten:
+297§Plotten:
+298§Plotdatei erstellen
+299§Radius [mm]:
+300§Mittelpunkt [mm]:
+301§X-Koordinate:
+302§Y-Koordinate:
+303§Koordinaten OK?
+304§Fabric8: Plotten von Großkreisen: Grafik
+305§Fabric8 Plotten von Kleinkreisen: Grafik
+306§Die Zwischenablage enthält keine Grafik!
+307§Datei nicht gefunden
+308§Radius zu groß
+309§X-Koordinate zu groß
+310§Y-Koordinate zu groß
+311§Plot der Großkreise
+312§Plot der Kleinkreise
+313§Fabric8: Kleinkreise
+314§Plot von Kleinkreisen
+315§Fabric8: Kleinkreise, Dateneingabe manuell
+316§Achse als Fallazimut / Fallwinkel
+317§eingeben
+318§Achse:      Öffnungswinkel:
+319§Achse:
+320§Öffnungswinkel:
+321§Fabric8: Statistische Maßzahlen zirkularer Verteilungen
+322§            Berechnung
+323§der statistischen Maßzahlen
+324§    zirkularer Verteilungen
+325§Daten
+326§Reine Richtungen
+327§Richtungen mit Beträgen
+328§Bereich
+329§Halbkreis (1..180)
+330§Vollkreis (1..360)
+331§Daten:
+332§Bereich:
+333§Fabric8: Plotten einer Richtungsrose
+334§               Plotten
+335§     einer Richtungsrose
+336§  zirkular verteilter Daten
+337§Reine Richtungen
+338§Richtungen u. Beträge
+339§Altgrad
+340§Neugrad
+341§Halbkreis
+342§Vollkreis
+343§Fabric8: statistische Maßzahlen zirkularer Daten, Eingabe aus einem Ordner
+344§Daten als Azimut eingeben.
+345§Daten als ganze Zahlen eingeben.
+346§Richtung:          Betrag:
+347§Richtung:
+348§Betrag:
+349§Maßzahlen
+350§auf Diskette
+351§  Statistische Masszahlen zirkularverteilter Daten
+352§Anzahl
+353§Vektorsumme
+354§Normierter Summenvektor
+355§Prozentualer Regelungsgrad
+356§Vektormittel
+357§Schiefe
+358§Kurtosis
+359§Lineare
+360§Flächen
+361§U-Tisch-Achsen
+362§U-Tisch-Pole
+363§Altgrad
+364§Neugrad
+365§Die Probe liegt im Cluster-Feld
+366§Die Probe Liegt im Gürtel-Feld
+367§Isolinien:
+368§Größe, Format und Farben eingeben
+369§Plot der Isolinien
+370§Trennung signifikant
+371§Nicht signifikant
+372§getrennte Gruppen:
+373§Obergruppen:
+374§ in Clustern
+375§Fabric8: Harnische und Striemungslineare, manuelle Eingabe
+376§Fabric8: Hoeppener-Diagramm, manuelle Eingabe
+377§ Bestimmung der Richtungen der Hauptnormalspannungen
+378§Farben der Isolinien und die Größe der Zählkalotte wählen!
+379§Sliplines können durch Überschreiben
+380§der Eingaben verändert werden
+381§Daten, die nicht in diese Sliplines passen,
+382§können durch Doppelclick aus der Grafik
+383§entfernt werden
+384§ Plot von Harnischflächen
+385§Theoretisch:
+386§Gemessen:
+387§Diagramm zu lang
+388§PLot der Eigenwerte
+389§Winkel:
+390§Plot der Projektion
+391§Dateneingabe
+392§Kreis, offen
+393§Kreis, gefüllt
+394§Quadrat, offen
+395§Quadrat, gefüllt
+396§Dreieck, offen
+397§Dreieck, gefüllt
+398§Raute, offen
+399§Raute, gefüllt
+400§Größe und Farben eingeben
+401§Farben eingeben
+402§Achsen zu groß
+403§Nullpunkt zu weit nach rechts
+404§Nullpunkt zu hoch
+405§Eingabe ist falsch
+406§WOODCOCK-Diagramm
+407§VOLLMER-Diagramm
+408§ Diagramme
+409§   Eigenwert 1      Eigenwert 2      Eigenwert 3      c-Wert
+410§Plot des WOODCOCK-Diagrammes
+411§Plot des Vollmer-Diagrammes
+412§Fehler in der Datei Fabric.ini, Zeile
+413§muß lauten
+414§Korrigieren Sie Zeile
+415§ mit einem Texteditor
+416§Drucker einschalten,
+417§Rot.:
+418§Talpha/Alpha-Methode nach Ramsay (1967)
+419§Datei:
+420§Falten
+421§Falte
+422§Scheitelabstand:
+423§Isogone     Isogonenabstand     Tà/T0
+424§FEHLER: 1. Zeichen unzulässig
+425§Richtungen
+426§Fourier-Analyse von Faltenformen
+427§'Vergenz          1.Punkt
+428§2.Punkt               3.Punkt              b1          b3
+429§            b5
+430§Fabric8
+431§ Plotter einschalten,
+432§ Papier einlegen,
+433§ dann eine Taste drücken
+434§Fertig?
+435§Plot beendet
+436§Zeichnen des Diagrammes auf dem Plotter
+437§Die Plot-Datei '
+438§' wird erstellt
+439§Diagramm-Beschriftung eingeben:
+440§ Daten
+441§Daten
+442§Plot-Symbol
+443§Geben Sie ein einziges Zeichen ein
+444§Plot des Teilgroßkreises
+445§Die Zahl der Isolinien ist zu groß
+446§Kein Ergebnis bei
+447§ Iterationen
+448§ R%-G%-Diagramm
+449§Diagramme
+450§PLot des Fourier-Diagrams
+451§PLot der Falten
+452§Wählen Sie die Anwendung, mit der Sie arbeiten wollen:
+453§Daten als Fallazimut / Fallwinkel eingeben.
+454§Fabric8: Plotten von Daten in ein Projektionsnetz
+455§Fabric8: Cluster von Richtungsdaten, Eingabe von Datenträger
+456§Fabric8: Kleinkreise, Dateneingabe manuell
+457§Fabric8: Maßzahlen zirkularer Verteilungen, Ergebnisse
+458§Dateien:
+459§Winkelraum:
+460§Anzahl
+461§Vektorsumme
+462§Normierter Summenvektor
+463§Prozentualer Regelungsgrad
+464§Vektormittel
+465§Schiefe
+466§Kurtosis
+467§Fabric8: statistische Maßzahlen zirkularer Verteilungen, Eingabe von Datenträg
+468§Maßzahlen
+469§Plotten
+470§Fabric8: Plotten von Richtungsrosen
+471§Darstellung
+472§Mit &Sektorengrenzen
+473§Mit Sektoren&mitten
+474§Gleitend
+475§Füllung
+476§Nicht gefüllt
+477§Gefüllt
+478§Farbe
+479§Schwarz
+480§Blau
+481§Grün
+482§Rot
+483§Violett
+484§Grafik
+485§Kopieren
+486§Ausschneiden
+487§Speichern
+488§Speichern unter
+489§Aus Zwischenablage holen
+490§Aus Datei holen
+491§Auf dem Hp-Plotter plotten
+492§In eine HPGL-Datei zeichnen
+493§In eine DXF-Datei zeichnen
+494§Größe
+495§Format
+496§Hochformat
+497§Querformat
+498§Farbe der Peripherie
+499§Farbe der Objekte
+500§Intervall:
+501§Inkrement:
+502§Plotten:
+503§Fabric8: statistische Maßzahlen von Richtungsdaten
+504§Dateneingabe
+505§    Berechnung und Plot
+506§     von Richtungsdaten
+507§Fabric8: Berechnung und Plot der statistischen Maßzahlen von Richtungsdaten
+508§Konfidenz
+509§90 Prozent
+510§95 Prozent
+511§99 Prozent
+512§Farbe Daten
+513§Farbe Eigenvektoren
+514§Farbe Öffnungsgrad
+515§Farbe Vertrauenskegel
+516§Darstellung Daten
+517§Kreis, offen
+518§Kreis, gefüllt
+519§Quadrat, offen
+520§Quadrat, gefüllt
+521§Dreieck, offen
+522§Dreieck, gefüllt
+523§Raute, offen
+524§Raute, gefüllt
+525§Linien
+526§Durchgezogen
+527§Gestrichelt
+528§strichpunktiert
+529§Farbe der Datenpunkte
+530§Farbe der Eigenvektoren
+531§Farbe des Öffnungsgrades
+532§Farbe des Vertrauenskegels
+533§Anzahl der Daten                =
+534§Regelungsgrad                    =
+535§Konzentrations-Parameter  =
+536§Vertrauenskegel                   =
+537§Sphärischer Öffnungsgrad  =
+538§Schwerpunktvektor              =
+539§Eigenwerte:
+540§Eigenvektoren:
+541§Zylindrizität                   =
+542§Zirkularer Öffnungsgrad =
+543§Die Probe liegt im Gürtelfeld
+544§Fabric8: Darstellung von Richtungsdaten mit Isolinien
+545§ Isolinien-Darstellung
+546§ von Verteilungen von
+547§      Richtungsdaten
+548§
+549§Fabric8: Darstellung von Richtungsdaten mit Isolinien, Plotten
+550§Abstufung
+551§Vielfache der Gleichverteilung
+552§Manuelle Abstufung
+553§1. Isolinie
+554§2. Isolinie
+555§3. Isolinie
+556§4. Isolinie
+557§5. Isolinie
+558§Durchgezogene Linie
+559§Gestrichelte Linie
+560§Punktierte Linie
+561§Strichpunktierte Linie
+562§Farbe der 1. Isolinie
+563§Farbe der 2. Isolinie
+564§Farbe der 3. Isolinie
+565§Farbe der 4. Isolinie
+566§Farbe der 5. Isolinie
+567§Isolinien:
+568§bei:
+569§Manuelle Eingabe:
+570§1. Isolinie:
+571§2. Isolinie:
+572§3. Isolinie:
+573§4. Isolinie:
+574§5. Isolinie:
+575§Zählkalotte:
+576§Fabric8: Cluster von Richtungsdaten
+577§CLODAT
+578§Signifikante Trennung
+579§von Submaxima
+580§in Verteilungen von Richtungsdaten
+581§Autoren: E. Wallbrecher und W. Unzog
+582§Fabric8: Cluster von Richtungsdaten, Plot
+583§Konfidenz und Vielfaches
+584§der Gleichverteilung:
+585§eingeben
+586§Trennung signifikant
+587§signifikant
+588§1,2,3,4,5,6,7,8,9,10
+589§Testwinkel:
+590§Daten in Clustern:
+591§Vielfaches der
+592§Gleichverteilung:
+593§Gruppe
+594§Menge
+595§R%
+596§Kon.-P.
+597§Theta
+598§s.Öffn.
+599§z.Öffn.
+600§Zyl.
+601§Zentrum
+602§Fabric8: Paläospannungs-Analyse
+603§    Bestimmung der Richtungen
+604§der Hauptnormalspannungen
+605§Paläospannungs-Analyse
+606§mit Harnischflächen und Striemungen
+607§Harnischfläche:
+608§Fallazimut / Fallwinkel
+609§Striemung: Fallazimut / ±Fallwinkel
+610§Positiv: Aufschiebungen
+611§Negativ: Abschiebungen
+612§Ausgabe: korrigierte Striemungen
+613§Harnisch
+614§Striemung
+615§Harnisch:
+616§Striemung:
+617§Fabric8: Paläospannungs-Analyse mit der Dieder-Methode, Plot
+618§Isolinien
+619§20%
+620§40%
+621§60%
+622§80%
+623§95%
+624§Farbe der 20-Prozent-Isolinie
+625§Farbe der 40-Prozent-Isolinie
+626§Farbe der 60-Prozent-Isolinie
+627§Farbe der 80-Prozent-Isolinie
+628§Farbe der 95-Prozent-Isolinie
+629§Anzahl der Dieder:
+630§Größe der Zählkalotte
+631§Isolinien:
+632§Größe der Zählkalotte wählen
+633§Fabric8: Plot von Harnischflächen und Striemungslinearen
+634§Plot von Harnischflächen
+635§und Striemungslinearen
+636§in Lambertscher oder
+637§stereografischer Projektion
+638§Fabric8: Harnische und Striemungslineare, Plot
+639§Projektion
+640§Lambert
+641§Stereografisch
+642§Farbe
+643§Harnischflächen
+644§Striemungen
+645§Punktiert
+646§Zahl der Daten:
+647§Fabric8: Hoeppener-Diagramm
+648§ Plotten eines
+649§Hoeppener-Diagramms
+650§in Lambertscher oder stereografischer
+651§Projektion
+652§Fabric8: Hoeppener-Diagramm, Plot
+653§Slip Lines
+654§Nein
+655§Ja
+656§Obere Slip-Lines
+657§Untere Slip-Lines
+658§Speichern
+659§Gereinigte Daten
+660§Eliminierte Daten
+661§Auf der 2. Diskette
+662§Farbe der Punkte
+663§Farbe der Pfeile
+664§Daten, die nicht in diese Slip-Lines passen,
+665§können durch Doppelklick aus der Grafik
+666§entfernt werden
+667§Korrektur beenden
+668§Haupt-Normalspannungen:
+669§Sigma1:
+670§Sigma3:
+671§Formfaktor1:
+672§Formfaktor2
+673§Sliplines können durch Überschreiben der Eingaben
+674§und 'Start' verändert werden.
+675§Fabric8: Bestimmung des Formfaktors eines Spannungsellipsoides, Plot
+676§Theoretische Punkte
+677§Gemessene Punkte
+678§Farbe des Diagramms
+679§Farbe der theoretischen Punkte
+680§Farbe der gemessenen Punkte
+681§Eigenwerte der Striemungen
+682§Theoretisch
+683§Gemessen:
+684§Plot-Eingabe ok?
+685§Kantenlänge [mm]:
+686§Nullpunkt [mm]:
+687§X:
+688§Y:
+689§Koordinaten
+690§Fabric8: Bestimmung des Formfaktors
+691§                 Bestimmung
+692§              des Formfaktors
+693§eines Paläo-Spannungsellipsoides
+694§mit der Eigenwert-Methode
+695§Fabric8: Projektionen der Lagenkugel
+696§             Plotten
+697§     von verschiedenen
+698§Lagenkugel-Projektionen
+699§Fabric8: Projektionen der Lagenkugel, Plot
+700§Groß- und Kleinkreise
+701§Äquator
+702§Farbe der Kreise
+703§Farbe des Äquators
+704§Projektionsnetz:
+705§orthografisches Netz
+706§Winkel:
+707§Abstand der Kreise:
+708§Winkel-Inkrement:
+709§Kippwinkel:
+710§Fabric8: R% - G% - Diagramm
+711§       Plotten eines
+712§
+713§R%-G%-Diagramms
+714§Fabric8: R%-G%-Diagramm, manuelle Dateneingabe
+715§Den prozentualen Regelungsgrad und
+716§die Großkreisregelung eingeben.
+717§Dann auf ein Plotsymbol klicken.
+718§R%
+719§G%
+720§Symbol
+721§Dateneingabe:
+722§Regelungsgrad:
+723§Zylindrizität:
+724§Symbol:
+725§Dateneingabe beenden
+726§Plotten
+727§Fabric8: R%-G%-Diagramm, Eingabe aus einem Ordner
+728§Fabric8: R%-G%-Diagramm, Plot
+729§Farbe der Koordinaten
+730§Farbe der Objekte
+731§Länge [mm]:
+732§Nullpunkt [mm]
+733§X-Koordinate [mm]:
+734§Y-Koordinate [mm]:
+735§Fabric8: Woodcock-Diagramm
+736§        Plotten eines
+737§
+738§Woodcock-Diagramms
+739§Fabric8: Woodcock-Diagramm, manuelle Daten-Eingabe
+740§Eigenwerte eingeben:
+741§Nur Nachkomma-Stellen eingeben
+742§Summe ist falsch!
+743§Fabric8: Woodcock-Diagramm, Dateneingabe aus einem Ordner
+744§Fabric8: Woodcock-Diagramm, Plot
+745§Symbol
+746§Farbe des Diagramms
+747§Farbe der Objekte
+748§Tabelle der c-Werte:
+749§Fabric8: Plot eines Vollmer-Diagramms
+750§  Vollmer-Diagramms
+751§Fabric8: Vollmer-Diagramm, Plot
+752§Fabric8: Fourier-Analyse von Faltenformen, Hauptformular
+753§zur quantitativen Beschreibung
+754§           von Faltenformen
+755§Fabric8: Fourier-Analyse von Faltenformen, manuelle Eingabe
+756§Falten-Inversion in den Koordinaten-Ursprung legen.
+757§Vergenz nach rechts positiv, nach links negativ eingeben.
+758§X- und Y-Koordinaten von drei Punkten einer Viertelfalte
+759§eingeben, der 3. Punkt muß im Faltenscheitel liegen.
+760§1. Punkt:
+761§2. Punkt:
+762§3. Punkt:
+763§1.Punkt
+764§2.Punkt
+765§3.Punkt
+766§Vergenz:
+767§Fabric8: Fourier-Analyse von Faltenformen, Eingabe aus einem Ordner
+768§Ver:
+769§1.Punkt:
+770§2.Punkt:
+771§3.Punkt:
+772§Fabric8: Fourier-Analyse von Faltenformen, Plot
+773§Kantenlänge [mm]:
+774§Nullpunkt [mm]:
+775§X:
+776§Y:
+777§Fabric8: T'alpha/Alpha-Methode
+778§     Klassifizierung von Falten
+779§      mit Hilfe der Mächtigkeit
+780§              gefalteter Lagen
+781§T'alpha/Alpha-Methode (RAMSAY, 1967)
+782§Fabric8: T'alpha/Alpha-Methode, Dateneingabe manuell
+783§Scheitelabstand (T0) zwischen zwei benachbarten Schicht-
+784§grenzen bestimmen. Länge der Isogonen (Talpha) zwischen
+785§den Schichtgrenzen eingeben.
+786§.
+787§Nur ganze Zahlen verwenden.
+788§Anzahl der Schichten
+789§T0:    Isog.:  Talpha:  Talpha/T0:
+790§Isogonen:
+791§Fabric8: T'alpha/Alpha-Methode, Dateneingabe aus einem Ordner
+792§Fabric8: T'alpha/Alpha-Methode, Plot
+793§Linien
+794§Durchgezogen
+795§Gestrichelt
+796§Strichpunktiert
+797§Punktiert
+798§Anzahl der Falten:
+799§Tabelle:
+800§T0:    Isogone:
+801§Kantenlänge [cm]:
+802§Autoren: E. Wallbrecher  W. Unzog
+803§Schmidtsches Netz
+804§WulffschesNetz
+805§orthografisches Netz
+806§Kavraiskii-Netz
+807§Länge der Ordinate
+808§rotierte Daten speichern
+809§Eingabe:
+810§der statistischen Parameter
+811§Von Diskette
+812§            Fourier-Analyse
+813§Nullpunktes [mm]:
+814§Länge der Koordinaten [mm]:
+815§Cluster-Feld
+816§Guertel-Feld
+817§OK?
+818§Punkte
+819§Guertel
+820§Zufall
+821§Schnittkante zweier Flächen
+822§Winkel zwischen 2 Linearen
+823§Fläche aus 2 Linearen
+824§Normale auf 2 Lineare
+825§Ausgabe in Altgrad.
+826§von der Festplatte
+827§Winkel zwischen 2 Flächen
+828§positiv im Uhrzeigersinn
+829§Fallwinkel
+830§Farbe der Peripherie
+831§Farbe der Harnischflächen
+832§Farbe der Striemungen
+833§Bestimmung des Formfaktors, Eingabe von Diskette
+834§Plot der Harnischflächen
+835§Punkte
+836§Gürtel
+837§Zufall
+838§Fabric8, Maßzahlen zirkularverteilter Daten, manuelle Eingabe
+839§Plotten einer Richtungsrose
+840§Fabric8: Plotten einer Richtungsrose, manuelle Dateneingabe
+841§Fabric8: Plotten einer Richtungsrose, Dateneingabe aus einem Ordner
+842§Regelungsgrad [%]
+843§Zylindrizität
+844§Fabric8: Vollmer-Diagramm, Eingabe manuell
+845§Fabric8: Vollmer-Diagramm, Eingabe aus einem Ordner
+846§Symbol für Datenpunkte
+847§Linientyp
+848§Sprache
+849§Orthografisch
+850§Typ der Plotdatei:
+851§kein Plot
+852§Plotgröße:
+853§Hoch
+854§Quer
+855§Konfidenz:
+856§Farbe des Hintergrundes
+857§Grau
+858§Hellblau
+859§Weiß
+860§Farbe des Diagramms
+861§Gelb
+862§Farbe der Koordinaten
+863§Programm zur Installation von Fabric8
+864§Fabric.ini ändern:
+865§Pfad für die Daten-Datei:
+866§Pfad für die Grafik-Datei:
+867§Plotter-Schnittstelle:
+868§Passwort:
+869§Ja
+870§Nein
+871§Sprache:
+872§in Fabric.ini eintragen
+873§Die kostenlose Testzeit für Gefüge7 ist abgelaufen.
+874§Wenn Sie das Programm erwerben, bekommen Sie eine
+875§unbegrenzte Lizenz.
+876§Die Änderungen wurden in 'Fabric.ini' eingetragen
+877§kann nicht erstellt werden.
+878§wurde angelegt.
+879§Weiss
+880§Druck-Parameter:
+881§Drucken
+882§Abbrechen
+883§Radius [in % der Papierbreite]:
+884§Bildmittelpunkt:
+885§X-Koordinate [in % der Papierbreite]:
+886§Y-Koordinate [in % der Papierhöhe]:
+887§Bildunterschrift
+888§Schriftgröße
+889§Linksbündig
+890§Zentriert
+891§Rechtsbündig
+892§Rahmenfarbe
+893§Anzahl der Daten           =
+894§Prozentualer Regelungsgrad =
+895§Konzentrations-Parameter   =
+896§Vertrauenskegel            =
+897§Sphärischer Öffnungsgrad   =
+898§Schwerpunkt                =
+899§Eigenwerte:    Eigenvektoren:
+900§Zylindrizität           =
+901§Zirkularer Öffnungsgrad =
+902§Länge [in % der Papierbreite]:
+903§Projektion
+904§Rekonstruktion oder Simulation von Daten
+905§       Rekonstruktion von Meßdaten
+906§         (Fallazimut und Fallwinkel)
+907§      aus einer Lagenkugel-Projektion
+908§oder Simulation von Verteilungs-Mustern
+909§Erzeugen Sie ein Bitmap des auszuwertenden Diagrammes
+910§(nur den Teil innerhalb der Peripherie)
+911§und bringen Sie diesen in die Zwischenablage
+912§Rekonstruktion beenden
+913§Anzahl der Daten
+914§Datenliste
+915§Gefuegetyp
+916§Projektion
+917§Projektion
+918§Stereografisch
+919§Orthografisch
+920§Gefuegetyp
+921§Lineare
+922§Flächen
+923§Farbe
+924§Schwarz
+925§Rot
+926§Blau
+927§Grün
+928§Violett
+929§Gelb
+930§Speichern
+931§Auf der Festplatte
+932§Auf Diskette A:
+933§Auf Diskette
+934§Drucker
+935§Einrichten
+936§Drucken
+937§Hilfe
+938§Rekonstruktion
+939§Simulation
+940§oder Erstellen eines simulierten Datensatzes
+941§Simulation beenden
+942§              Scherkasten:
+943§Simulation ebener Verformung
+944§Farbe des Rahmens
+945§Farbe der Vorzeichnung
+946§Farbe nach Scherung
+947§Vorzeichnung:
+948§Linie
+949§Ellipse
+950§Rechteck
+951§Zwischenablage
+952§Löschen
+953§Scherwinkel:
+954§Grad
+955§Scherung:
+956§Scherung
+957§Affin
+958§Nicht affin
+959§Faktor:
+960§Plättung
+961§auf
+962§Prozent:
+963§Windows-Version
+964§Xp oder älter
+965§Leer
+966§Talbot-Methode zur 3-dimensionalen Strainanalyse
+967§ 3-Dimensionale Strainanalyse
+968§ mit der Talbot-Methode
+969§Talbot-Methode, manuelle Dateneingabe
+970§Dehnung: positives Azimut
+971§Kompression: negatives Azimut
+972§Strainanalyse mit der Talbot-Methode
+973§Fabric8: Talbot-Methode, Dateneingabe aus einem Ordner
+974§Daten
+975§Kompression
+976§Dehnung
+977§DatenMenge größer als
+978§reservierte Datenmenge.
+979§Ändern Sie die max. Datenmenge
+980§auf dem vorigen Formular
+981§max. Datenmenge:
+982§Orientierung des Strain-Ellipsoides
+983§Kompressionsfeld:
+984§Prolat
+985§Oblat
+986§Strain-Ellipsoid:
+987§Lange Achse:
+988§Mittlere Achse:
+989§Kurze Achse:
+990§Kegelwinkel
+991§Punkt im Flinn-Diagramm
+992§Farbe der Achsen
+993§Farbe der Ellipse
+994§Konturierung
+995§Mellis-Methode
+996§Skalarprodukt-Methode
+997§Glättungsgrad
+998§Dichte-Abstufung
+999§In Stufen
+1000§Fließend
+1001§Glättung
+1002§Neuer Pfad:
+1003§Pfad:
+1004§Daten-Pfad suchen
+1005§Daten werden gespeichert in:
+1006§einverstanden?
+1007§Aus einer Excel-Tabelle
+1008§Einlesen von Daten aus einer Excel-Datei
+1009§Keine Excel-Datei vorhanden
+1010§Ordner suchen
+1011§Ordner:
+1012§Obere Zelle
+1013§Letzte Zeile
+1014§Excel-Dateien:
+1015§Excel-Zeilen: von
+1016§bis
+1017§Wählen Sie eine Tabelle aus.
+1018§Tabelle:
+1019§Vor dem Start von Fabric8 muß Excel geschlossen sein.
+1020§Stellen Sie sicher, daß Excel.exe auch aus dem Task-Manager entfernt ist.
+1021§('Strg-Alt-Entf' drücken, auf 'Prozesse' klicken und die Eintragung
+1022§"Excel.exe" löschen).
+1023§Die Daten eines Gefügetyps (z.B. Flächen oder Lineare) können in einer oder
+1024§in zwei Spalten stehen. Leere Zellen oder Zellen, die Text enthalten, sind
+1025§zulässig und werden überlesen. Stehen Azimut und Fallwinkel in derselben Spalte,
+1026§so müssen sie durch ein Zeichen (z.B."/") getrennt sein.
+1027§Fehler DatenFormat der Excel-Datei!
+1028§Neue Datei
+1029§Spalten der Excel-Datei auswählen.
+1030§Excel-Datei aus der Liste wählen.
+1031§oder neuen Ordner wählen.
+1032§Gefügetyp:
+1033§Daten in:
+1034§einer Spalte
+1035§zwei Spalten
+1036§Eingabe mit zwei Spalten
+1037§Linke obere Zelle
+1038§Rechte Spalte
+1039§Untere Zeile
+1040§Stellen Sie sicher, daß EXCEL.EXE nicht
+1041§im Task-Manager enthalten ist.
+1042§Löschen Sie es gegebenenfalls.
+1043§Der Task-Manager wird durch gleichzeitiges
+1044§Drücken der Tasten STRG-ALT-ENTF geöffnet.
+1045§Grau, 20% Schwarz
+1046§Grau, 40% Schwarz
+1047§Grau, 60% Schwarz
+1048§Grau, 80% Schwarz
+1049§Farbe
+1050§Graustufen
+1051§Vielfache der Gleichverteilung
+1052§Klicken Sie die Farben
+1053§für die höchste und die
+1054§niedrigste Isolinie an.
+1055§Handbuch
+1056§Farbe der Vertrauenskegel der Obergruppen
+1057§Farbe der Öffnungsgrade der Obergruppen
+1058§Farbe der Datenpunkte
+1059§Hellgrün
+1060§Fry-Methode
+1061§Isolinien: Prozent
+1062§Isolinien: Vielfache
+1063§Strainanalyse mit der Fry-Methode
+1064§Aus einem Bild
+1065§Aus einer Koordinaten-Datei
+1066§Eingabe beenden
+1067§Fry-Methode, Bitmap laden
+1068§Bild importieren
+1069§Einfügen
+1070§Punkte speichern
+1071§Bild speichern
+1072§Als *.BMP speichern
+1073§Als *.JPG speichern
+1074§Keine Graphik in der Zwischenablage
+1075§Fry-Methode, Auswertung
+1076§Zoomfaktor:
+1077§Anzahl der Punkte
+1078§Klicken Sie die Endpunkte des
+1079§ langen Ellipsen-Durchmessers an.
+1080§Grafik drucken
+1081§Bitmap als *.bmp oder *.jpg importieren
+1082§der Gleichverteilung
+1083§Peripherie
+1084§Fläche
+1085§Nächste Nachbarn
+1086§Mittelpunkte
+1087§Halbkugel
+1088§Untere
+1089§Ubere
+1090§Konvergenz
+1091§Divergenz
+1092§Sigma1 anklicken
+1093§Sigma3 anklicken
+1094§Zaehl-Kalotte
+1095§Achtung: Excel-Datei minimieren. Nicht wegschalten!
+1096§Fabric8: Fourier-Analyse, Daten aus einem Bild
+1097§Umbiegung
+1098§Scheitel
+1099§Klicken Sie auf eine Faltenumbiegung.
+1100§Klicken Sie auf die andere Umbiegung.
+1101§Klicken Sie auf einen Punkt der Achsenfläche.
+1102§Klicken Sie auf einen zweiten Punkt der Achsenfläche.
+1103§1.Punkt
+1104§2.Punkt
+1105§Bild korrigieren
+1106§Drehen
+1107§Vergenz rückgängig
+1108§Koordinaten
+1109§der Viertelfalte:
+1110§T'/Alpha-Methode, Daten aus einem Bild
+1111§Neuer Mittelpunkt
+1112§1. Scheitelpunkt
+1113§2. Scheitelpunkt
+1114§Klicken Sie auf den neuen Bildmittelpunkt
+1115§Klicken Sie auf einen Scheitelpunkt
+1116§Klicken Sie auf den anderen Scheitelpunkt
+1117§Fallwinkel:
+1118§Isogone
+1119§Neue Falte
+1120§Klicken Sie auf einen Endpunkt der Isogone
+1121§Klicken Sie auf den anderen Endpunkt der Isogone.
+1122§Falte
+1123§Scheitelabstand(T0)
+1124§Diesen Hinweis weiter zeigen
+1125§U-Tisch
+1126§Klicken Sie auf die Daten,
+1127§die Sie löschen wollen.
+1128§Geben Sie die Richtungen von Sigma1
+1129§und Sigma3 ein,
+1130§und klicken Sie auf 'OK'.
+1131§Dann geben Sie die geschätzte untere
+1132§und obere Grenze des Formfaktors ein.
+1133§Koordinaten des
+1134§Punkt anzeigen
+1135§Berechnung der MRSS
+1136§Formfaktor:
+1137§Klicken Sie auf einen Punkt in der
+1138§Projektion, um Fallrichtung und
+1139§Fallwinkel anzuzeigen.
+1140§Bild drehen
+1141§90° nach rechts
+1142§90° nach links
+1143§um 180°
+1144§Talbot-Methode, Plot
+1145§Projektionsmethode nach Panozzo
+1146§Strainanalyse mit der Projektionsmethode
+1147§              (nach Panozzo, 1984)
+1148§Fabric8: Panozzo-Methode, Dateneingabe aus einer Polygon-Datei
+1149§Polygone eingeben
+1150§Projektionsmethode, Plot
+1151§Polygone speichern
+1152§Projektionsmethode, Datei einlesen
+1153§Daten aus einer Datei laden
+1154§Zahl der Polygone
+1155§Farbe der Polygone
+1156§Elliptizität (R):
+1157§Formanalyse
+1158§Importieren Sie ein Bild aus der Zwischenablage oder aus einer Datei.
+1159§Klicken Sie die Ecken eines Polygons mit der linken Maustaste an.
+1160§Vermeiden Sie stark konkave Formen!
+1161§Schließen Sie das Polygon mit der rechten Maustaste.
+1162§letztes Polygon löschen
+1163§Schwerpunkte speichern
+1164§Aus Polygon-Datei
+1165§Isogonen zeichnen
+1166§Bild bearbeiten
+1167§Wendelinie horizontal
+1168§Isogone
+1169§nächster Kippwinkel
+1170§Mittelpunkt
+1171§neuer Mittelpunkt
+1172§Inkrement (°):
+1173§Führen Sie folgende Schritte durch:
+1174§1) Wählen Sie die Schrittweite zwischen den Fallwinkeln der Tangenten.
+1175§2) Legen Sie die Tangente an die erste Schichtgrenze und  drücken Sie die linke Maustaste.
+1176§3) Halten Sie die Maustaste gedrückt und legen Sie die Tangente an die nächste Schichtgrenze.
+1177§4) Lassen Sie die Maustaste los und wiederholen Sie die Schritte 3) und 4).
+1178§5) Wenn alle Nullgrad-Isogonen gezeichnet sind, klicken Sie auf die Tast "nächster Kippwinkel"
+1179§und wiederholen Sie die Schritte 3 bis 5.
+1180§Farbe der Isogonen
+1181§Strichstärke
+1182§Strich Punkt Punkt
+1183§Literatur
+1184§Strichstärke
+1185§keine signifikanten Cluster gefunden
+1186§Strichsrärke (Pixel)
+1187§Strichstärke wählen:
+1188§Skalierung
+1189§Im Uhrzeigersinn
+1190§Gegen Uhrzeigersinn
+1191§Die Ergebnisse können je nach
+1192§Pixelabstand bis zu 6° variieren!
+1193§Daten
+1194§Punkt
+1195§Fabric8: Zählkalotten zeichnen
+1196§Zählpunkte/Durchmesser
+1197§Zählraster
+1198§Raster ändern
+1199§Netze
+1200§Projektionen
+1201§Zählkreise
+1202§orthographisch
+1203§Farbe
+1204§Zählkalotte
+1205§Zählkalotte ändern
+1206§Kalottengröße [%]:
+1207§Rtf-Datei
+1208§Vergenz    1.Punkt   2.Punkt   3.Punkt      b1     b3     b5
+1209§Daten: Streichen/Fallen/N od. S
+1210§Kompaß
+1211§Brunton-Kompaß
+1212§Clar-Kompaß
+1213§Punktgrösse
+1214§klein
+1215§groß
+1216§Linear
+1217§Fläche
+1218§Test auf nicht zufällige Verteilungen
+1219§Test auf nicht zufällige Verteilungen
+1220§ nach Woodcock und Naylor (1983)
+1221§Zahl
+1222§der Daten
+1223§signifikant
+1224§zufällig
+1225§Dieses Programm starten.
+1226§Bestätigung
+1227§Dies Format kann nicht gelesen werden,
+1228§Wandeln Sie die Datei in ein *.bmp oder *.jpg-Format um.
+1229§Isogonen
+1230§Isogonen im Uhrzeigersinn
+1231§Isogonen gegen Uhrzeigersinn
+1232§Klicken Sie auf den Anfang der Isogone
+1233§Klicken Sie auf den nächsten Punkt der Isogone
+1234§Wählen Sie den Isogonenabstand (Inkrement)
+1235§rückgängig
+1236§Klicken Sie auf den Scheitelpunkt.
+1237§Klicken Sie auf Y1.
+1238§Klicken Sie auf Y2.
+1239§Bild korrigieren?
+1240§keine Korrektur
+1241§Vergenz eliminieren?
+1242§Messungen als Streichen,
+1243§Fallwinkel und N od. S eingeben.
+1244§Beenden mit der rechten Maustaste.
+1245§Hauptnormalspannungen
+1246§Fabric8: Richtungsrose, Eingabe von einem Luftbild (Satellitenbild)
+1247§Bild rotieren
+1248§Legen Sie die Nordrichtung mit zwei Punkten fest. 1.Punkt:
+1249§Klicken Sie auf den 2.Punkt
+1250§Klicken Sie auf einen Endpunkt der Lineation
+1251§Klicken Sie auf den anderen Endpunkt
+1252§Farbe der Lineationen;
+1253§Lineationen:
+1254§Azimut  Länge
+1255§Klicken Sie auf die Vektorspitze einer Lineation;
+1256§Klicken Sie auf das Ende der Lineation
+1257§Falsche Daten können durch Anklicken aus der Liste gelöscht werden.
+1258§Eintragen von Meßwerten in eine Karte
+1259§Eintragen von Meßwerten
+1260§           in eine Karte
+1261§aus einer Karte
+1262§geographisch
+1263§Meßwerte in eine Karte eintragen (manuelle Eingabe)
+1264§Geogr. Breite
+1265§Geogr. Länge
+1266§Grad
+1267§Min
+1268§Sektor
+1269§Nord-Ost
+1270§Nord-West
+1271§Süd-Ost
+1272§Süd-West
+1273§Kartenbegrenzung ändern
+1274§Linke obere Ecke
+1275§Rechte untere Ecke
+1276§Breite
+1277§Länge
+1278§Falsche Breiten- oder Längengrade!
+1279§Länge der Symbole
+1280§Kantenlänge [in % der Papierbreite]
+1281§Farbe der Karte
+1282§Meßwerte in eine Karte eintragen Eingabe aus einem Ordner
+1283§Meßwerte in eine Karte eintragen (mit Koordinaten)
+1284§Meßwerte in eine Karte eintragen (mit Punkten in der Karte)
+1285§Markierung der Lokationen
+1286§ Gehen sie zum Menu 'Markierung der Lokationen'
+1287§
+1288§Daten aus einer EXCEL-Datei in eine Karte eintragen
+1289§Positionsdaten-Format
+1290§Sek
+1291§undefiniert
+1292§Geben Sie die Spalten für Breite und Länge ein.
+1293§Spalte der Azimutwerte
+1294§Spalte der Fallwerte
+1295§Excel-Zeilen
+1296§bis
+1297§Obere Zeile
+1298§Untere Zeile
+1299§Ränder verschieben (in Min)
+1300§Rechtswert:
+1301§Hochwert:
+1302§Kartenbegrenzung
+1303§Falsche Rechtswerte!
+1304§Falsche Hochwerte
+1305§Plot der Karte
+1306§Spalte des Hochwertes
+1307§Spalte des Rechtswertes
+1308§R
+1309§H
+1310§Dateien haben verschiedene Koordinaten-Formate
+1311§und
+1312§Gauss-Krüger
+1313§UTM
+1314§nach außen
+1315§nach innen
+1316§Rechts
+1317§Links
+1318§Oben
+1319§Unten
+1320§Ränder verschieben (in m)
+1321§Auf der Vorderseite
+1322§Auf der Rückseite
+1323§Klicken Sie auf die Datenpunkte
+1324§Ostwert
+1325§Nordwert
+1326§Falsche Ostwerte
+1327§Falsche Nordwerte
+1328§Kartenbegrenzung ändern
+1329§Kartengrenzen festlegen
+1330§Farbe der Daten
+1331§Oberer Rand
+1332§Unterer Rand
+1333§Linker Rand
+1334§Rechter Rand
+1335§Karte
+1336§Symbole
+1337§tektonische Symbole
+1338§Nummerierung
+1339§Trennzeichen
+1340§Falsche Daten in Zeile
+1341§Andere Methoden
+1342§Statistik
+1343§Plot der Daten
+1344§Plot der Flächenpole
+1345§Plot der Großkreise
+1346§Plot der Versatzdaten
+1347§Bestimmung des Formfaktors
+1348§Plot eines Hoeppener-Diagramms
+1349§Dieder-Methode
+1350§Signifikanztest
+1351§Flächenpole plotten
+1352§Vektorgrafik
+1353§Pixelgrafik (in Stufen)
+1354§Pixelgrafik (fließend)
+1355§Polygone
+1356§Fry-Methode
+1357§Projektionsmethode
+1358§Rf/Phi-Methode (Lisle 1985)
+1359§    zur Verformungsanalyse
+1360§ elliptischer Vorzeichnungen
+1361§Rf/Phi-Methode, Dateneingabe
+1362§Aus einer Rf/Phi-Datei
+1363§Rf/Phi, Auswertung
+1364§Rf/Phi-Methode
+1365§Harmonisches Mittel von Rf =
+1366§Vektormittel von Phi       =
+1367§Symmetrie-Index            =
+1368§Strain-Ellipse             =
+1369§Freiheitsgrade             =
+1370§Die Verteilung ist wahrscheinlich symmetrisch
+1371§Die Verteilung ist wahrscheinlich asymmetrisch
+1372§Rf/Phi-Grafik
+1373§Chi²-Grafik
+1374§Rf/Phi-Grafik drucken
+1375§Chi²-Grafik drucken
+1376§Ergebnisse speichern
+1377§Chi²-Grafik
+1378§Farbe des Graphen
+1379§Drucker
+1380§Chi²-Grafik drucken
+1381§Ergebnisse drucken
+1382§Rf (Harmon. Mittel):
+1383§(Vektor Mittel):
+1384§Symmetrie-Index:
+1385§Anzahl der Daten    =
+1386§Freiheitsgrade
+1387§Numerierung
+1388§Projektion und Gefuegetyp eingeben
+1389§Klicken Sie auf die Endpunkte des E-W-Durchmessers
+1390§Klicken Sie auf "ausschneiden"
+1391§Projektion eingeben
+1392§Formfaktor wählen und Azimut und Fallwinkel von Sigma1 und Sigma3 eingeben.
+1393§Letzte Ellipse löschen
+1394§Die Ergebnisse können je nach
+1395§Pixelabstand bis zu 6° variieren!
+1396§Anzeige löschen
+1397§Harnischfläche: Streichen, Fallwinkel, Richtung (N oder S);
+1398§Striemung     : Streichen, ± Fallwinkel, Richtung (N oder S) 
+1399§Pitchwinkel:
+1400§Striemung:      ± Pitchwinkel im UhrzeigerSinn
+1401§Striemung:      ± Pitchwinkel gegen Uhrzeigersinn
+1402§Datenmenge
+1403§einzelne Daten
+1404§mehrere Daten
+1405§Pitchwinkel aus Fläche und Linear
+1406§     Fläche             Linear        Pitchwinkel
+1407§Linear aus Fläche und Pitchwinkel
+1408§     Fläche           Pitchwinkel        Linear
+1409§  Fläche           Linear       Pitchwinkel
+1410§  Fläche         Pitchwinkel      Linear
+1411§     Fläche            Lineation           Pitchwinkel
+1412§ Fläche             Lineation             Pitchwinkel
+1413§Anordnung der Grafik auf der Druckseite
+1414§Alle Längen in % der Papierbreite
+1415§Linker Rand
+1416§Oberer Rand
+1417§Lange Bildkante
+1418§transparent
+1419§Ellipse ändern
+1420§neu zeichnen
+1421§Lange Achse
+1422§Ellipse drehen
+1423§1° im Uhrzeigersinn drehen
+1424§1° gegen den Uhrzeiger drehen
+1425§Kurze Achse
+1426§kurzen Ellipse-Durchmessers an.
+1427§Berechnete Ellipse zeichnen
+1428§Größe der Ellipse ändern
+1429§'-Diagramm
+1430§Fry-Plot
+1431§D'/alpha'-Diagramm
+1432§Fry-Plot drucken
+1433§D'/alpha'-Diagramm
+1434§Methode
+1435§Konventionell
+1436§Normiert
+1437§Konventioneller Fry-Plot
+1438§Normierter Fry-Plot
+1439§Bildgröße ändern
+1440§Bildbreite (Pixel):
+1441§BildHöhe (Pixel):
+1442§Fabric8:Rekonstruktion von Daten
+1443§Fabric8: Ermittlung der Meßdaten
+1444§Fourier-Koeffizienten
+1445§Fabric8: Talbot-Methode, manuelle Dateneingabe
+1446§ kurzen Ellipsen-Durchmessers an
+1447§berechnet
+1448§Tabelle (Lisle, 1985)
+1449§Formfaktor
+1450§Mohr-Diagramm
+1451§Als *.BMP
+1452§Als *.JPG
+1453§Hintergrund
+1454§Farbe des nicht nicht realisierten Bereichs
+1455§Konstruierte Ellipse
+1456§Berechnete Ellipse
+1457§Dateinamen einfügen
+1458§Dreiecks-Diagramm speichern
+1459§Dreiecks-Diagramm speichern unter
+1460§Mohr-Diagramm speichern
+1461§Mohr-Diagramm speichern unter
+1462§Spalte der Fallrichtung
+1463§Farbe der Hilfpunkte
+1464§Bild zu groß
+1465§Klicken Sie auf die Mittelpunkte.
+1466§Klicken Sie auf die Mittelpunkte und auf die kurzen Durchmesser der Ellipsen.
+1467§Azimut/Fallen in Streichen/Fallen/Richtung
+1468§Fallazimut:
+1469§Fallwinkel:
+1470§Azimut/Fallen        Streichen/Fallen/Richtung
+1471§Streichen
+1472§Fallen
+1473§N oder S
+1474§Azimut/Fallen aus Streichen/Fallen/Richtung
+1475§Fläche: Streichen/Fallen/NS aus Azimut/Fallen
+1476§Linear: Streichen/Fallen/NS aus Azimut/Fallen
+1477§Fläche: Azimut/Fallen aus Streichen/Fallen/Richtung
+1478§Linear: Azimut/Fallen aus Streichen/Fallen/Richtung
+1479§Streichen/Fallen/Richtung        Azimut/Fallen
+1480§Flächen aus Azimut/Fallen in Streichen/Fallen Richtung
+1481§Azimut/Fallen              Streichen/Fallen Richtung
+1482§Lineare aus Azimut/Fallen in Streichen/Fallen Richtung
+1483§  Flächen: Streichen/Fallen NS in Azimut/Fallen
+1484§Streichen/Fallen NS    Azimut/Fallen
+1485§  Lineare: Streichen/Fallen NS in Azimut/Fallen
+1486§Bild aus einer Datei holen
+1487§Bild aus der Zwischenablage holen
+1488§Fabric8: Plot von Kleinkreisen: Daten aus einem Ordner
+1489§Plot von Kleinkreisen: Datenliste
+1490§Mohrscher Kreis für Spannung oder finite Deformation
+1491§  Mohrscher Kreis für Spannung
+1492§        oder finite Deformation
+1493§Mohrscher Kreis
+1494§Spannung
+1495§Deformation
+1496§Für Spannung
+1497§Für finite Deformation
+1498§Größe der Punkte
+1499§Farbe des Kreises
+1500§Farbe der Füllung
+1501§Mohrscher Kreis für finite Deformation
+1502§Achsen
+1503§Öffnen Sie das Menu "Dateneingabe"
+1504§Scherung:
+1505§Fabric8: Paläospannungs-Analyse, manuelle Dateneingabe
+1506§Fabric8: Pläospannungs-Analyse, Eingabe von einem Datenträger
+1507§Fabric8: Hoeppener-Diagramm, Dateneingabe aus einem Ordner
+1508§Fabric8: Harnischflächen und Striemungen, Dateneingabe aus einem Ordner
+1509§Fabric8: Vollmer-Diagramm, manuelle Dateneingabe
+1510§Fabric8: Vollmer-Diagramm, Dateneingabe aus einem Ordner
+1511§Fabric8: Formfaktor des Spannungsellipsoides, manuelle Dateneingabe
+1512§Fabric8: Formfaktor des Spannungsellipsoides, Dateneingabe aus einem Ordner
+1513§Fabric8: T'alpha/Alpha-Methode, Dateneingabe aus einem Bild
+1514§Fabric8: Panozzo-Methode, Dateneingabe
+1515§Fabric8: Test auf nicht zufällige Verteilung
+1516§Fabric8: Test auf nicht zufällige Verteilung, manuelle Dateneingabe
+1517§Fabric8: Test auf nicht zufällige Verteilung, Dateneingabe aus einem Ordner
+1518§Spalte für die Richtungen
+1519§Spalte für die Beträge
+1520§Ergebnis
+1521§Paläospannungs-Analyse, Eingabe aus einer Excel-Tabelle
+1522§Harnischflächen:
+1523§Striemungen:
+1524§ In Stufen mit Isolinien
+1525§Sigma1 muß größer als Sigma2 sein!
+1526§Polylinien erzeugen
+1527§Isolinien füllen?.
+1528§Polygone
+1529§Polylinie kann nicht geschlossen werden.
+1530§Polylinien werden erstellt.
+1531§Bitte warten.
+1532§Schließen Sie den TECTRONIC 4000 an eine serielle Schnittstelle des Computers an.
+1533§Elongation:
+1534§Flinn- und Hsü-Diagramm (Nadai-Diagramm)
+1535§Flinn- und Hsü-Diagramm
+1536§   der Achsenverhältnisse
+1537§Skalierung
+1538§Linear
+1539§Logarithmisch
+1540§Flinn-Hsü-Diagramm: manuelle Eingabe
+1541§Geben Sie die lange, mittlere und
+1542§kurze Achse eines Ellipsoides ein.
+1543§Beenden Sie jede Eingabe mit 'return'.
+1544§Lange A.
+1545§Mittlere A.
+1546§Kurze A.
+1547§Lange A. Mittlere A. Kurze A.
+1548§Flinn-Hsü-Diagramm, Eingabe aus einer Datei
+1549§Datentyp
+1550§Elongation
+1551§Flinn-Diagramm
+1552§Hsü-Diagramm
+1553§Farben
+1554§Diagramm
+1555§Rahmen
+1556§Unbekanntes Bildformat. Folgende Formate können verarbeitet werden:
+1557§Diagrammname:
+1558§Extension fehlt
+1559§Diagramm suchen
+1560§Diagramme eintragen
+1561§Diagramm erstellen
+1562§Methode
+1563§Dieder
+1564§Bestimmung des Formfaktors mit der Iterations-Methode
+1565§mit der Dieder-Methode
+1566§Eigenwerte
+1567§Iteration
+1568§Azimut
+1569§Fallen
+1570§Eigenwert-Methode
+1571§Diagramm zeigen
+1572§Daten plotten
+1573§Originaldaten
+1574§Rotierte Daten
+1575§Mit der Dieder Methode
+1576§Als Hoeppener-Diagramm
+1577§Als Versatz-Daten
+1578§Iterations-Diagramm speichern
+1579§Iterations-Diagramm speichern unter
+1580§Breite [mm]
+1581§Drucker kalibrieren
+1582§Gewünschte Breite [mm]
+1583§Breite auf dem Druckpapier [mm]
+1584§Farbe der Iterations-Kurve
+1585§Iterations-Methode
+1586§Farbe für Sigma1 und Sigma3
+1587§Lage von Sigma1 und Sigma3 schätzen
+1588§Farbe der Punkte
+1589§Farbe der Kleinkreise
+1590§Farbe der Kleinkreisfüllung
+1591§Kreise nicht füllen
+1592§Geografisch (dd°mm.mmm')
+1593§Geografisch (dd°mm'ss.s'');
+1594§Gauss-Krüger
+1595§UTM
+1596§Folgende Option wurde gewählt:
+1597§Netze
+1598§Zählraster
+1599§ Isogonen zeichnen
+1600§      elliptischer Körper
+1601§Als *.gif-Datei
+1602§Als *.tif-Datei
+1603§Als *.wmf-Datei
+1604§Als *.emf-Datei
+1605§Plättung auf
+1606§Großkreis zeichnen
+1607§Ausschnitt
+1608§Ganzes Bild
+1609§Ausschneiden
+1610§Klicken Sie auf die linke obere Ecke des Ausschnitts.
+1611§Klicken Sie auf die rechte untere Ecke des Ausschnitts.
+1612§BMP (Windows Bitmap)
+1613§GIF (Grapics Interchange Format)
+1614§TIF (Tagged Image File Format)
+1615§Jpg (Jpeg File Interchange Format)
+1616§Wmf (Windows Metafile)
+1617§Emf (Enhanced Windows Metafile)
+1618§PNG (Portable Network Graphics)
+1619§PLT (Hewlett Packard Graphic Language)
+1620§DXF (Drawing Interchange Format)
+1621§Schrift
+1622§eine Plt-Datei kann nicht erstellt werden.
+1623§Höhe
+1624§Alle Daten speichern
+1625§ Richtungsdaten
+1626§ Versatzdaten
+1627§ Falten-Analyse
+1628§ Eigenwert-Methoden
+1629§ Zweidimensionale Strain-Analyse
+1630§ Karten
+1631§Symmetrie-Ebene zwischen zwei Flächen
+1632§  1. Fläche        2. Fläche   Symmetrie
+1633§  Azimut/Fal       Str/Fal Richtung
+1634§  Str/Fal Richtung   Azimut/Fallen
+1635§1. Fläche:          2. Fläche:        Symmetrie-Ebene:
+1636§Streichen/Fallen, Richtung aus Fallazimut/Fallwinkel (Flächen)
+1637§Streichen/Fallen Richtung Azimut/Fallwinkel
+1638§Direkte Inversion
+1639§Klicken Sie mit der
+1640§linken Maustaste
+1641§auf Sigma2, Halten
+1642§Sie die Taste gedrückt,
+1643§und verschieben Sie
+1644§Sigma2 bis die Kreise
+1645§an die Punkte angepasst
+1646§sind.
+1647§R-Werte für die gemessenen Flächen
+1648§Direkte Methode
+1649§Mohrsche Kreise
+1650§Histogramm
+1651§Vektoren
+1652§S1-S3-Kreis
+1653§S1-S2-Kreis
+1654§s3-s2-Kreis
+1655§Flächen mit R <= 1
+1656§Wollen Sie
+1657§wirklich löschen?
+1658§gelöscht
+1659§Datei löschen
+1660§Löschen
+1661§Mittelwert =
+1662§Aktueller Punkt
+1663§Trennung von Submaxima
+1664§Klicken Sie den geschätzten
+1665§Projektionspunkt für s1 an.
+1666§Bestätigen Sie mit der Taste s1.
+1667§Wiederholen für s3.
+1668§GebenSie auf der Tafel 'Plotten'
+1669§einen Radius ein (in mm, R<Xmitte, R<Ymitte).
+1670§Drücken Sie die Taste 'Plotdatei erstellen'.
+1671§Ein Testdruck wird erzeugt.
+1672§Geben Sie nun in die Felder (unten) den gewählten
+1673§und den gedruckten Durchmesser ein.
+1674§Gewählter Durchmesser
+1675§Gedruckter Durchmesser
+1676§Geben Sie auf der Tafel 'Plot'
+1677§die Länge einer Koordinate (in mm) ein
+1678§Geben Sie nun in die Felder (unten)
+1679§die eingegebene und die gedruckte Länge ein.
+1680§Gewählte Länge
+1681§Gedruckte Länge
+1682§Abbrechen
+1683§Wiederherstellen
+1684§Y-Koordinate zu klein
+1685§Anderes Diagramm überlagern
+1686§Aus der Zwischenablage
+1687§Aus einer Datei
+16888§Rückgängig
+1689§Sie haben noch ein Diagramm in der Zwischenablage. Löschen?
+1690§Gelöscht
+1691§Zwischenablage
+1692§Position
+1693§Position des Startformulars
+1694§Geben Sie die Lage der linken oberen Ecke ein
+1695§(in Pixeln)
+1696§von links
+1697§von oben
+1698§Bild (Karte) überlagern
+1699§Text einfügen
+1700§Text schreiben
+1701§mit 'return' bestätigen
+1702§Klicken Sie auf den Punkt, an dem die linke obere Ecke des Textes erscheinen soll.
+1703§Fry-Plot
+1704§D/Alpha-Diagramm
+1705§Berechnungen
+1706§Cluster entfernen
+1707§Entfernen Sie Häufungen von Daten
+1708§durch Anklicken der Punkte
+1709§Fertig
+1710§Orientierung der Achsen
+1711§Innerhalb der n.f.l.s Ellipse:
+1712§Dehnung
+1713§Verkürzung
+1714§Prolat
+1715§Oblat
+1716§Hauptebenen
+1717§Zeichnen
+1718§Daten speichern?
+1719§Zeigen Sie in der Liste 'Dateien auswählen' auf die Datei, die Sie löschen wollen
+1720§und drücken Sie die linke Maustaste.
+1721§Lange Achse
+1722§Es kann kein Flinn-Diagramm gezeichnet werden.
+1723§Präsentation
+1724§Kongruent
+1725§Überlappend
+1726§Anordnung der Formulare
+1727§Dreidimensionale Strainanalyse
+1728§Klicken Sie auf einen Endpunkt des langen Ellipsen-Durchmessers.
+1729§Klicken Sie auf einen Endpunkt des kurzen Ellipsen-Durchmessers.
+1730§Langer und kurzer Radius
+1731§Wiederholen
+1732§Dateneingabe: Streichen - Fallen - Fallrichtung
+1733§(N oder S).
+1734§Wellman-Methode für deformierte rechtwinklige Vorzeichnungen
+1735§Wellman-Methode
+1736§Strain-Analyse mit ehemals rechtwinkligen
+1737§Vorzeichnungen
+1738§Wellman (1962)
+1739§Wellman-Methode, Hauptformular
+1740§Wellman-Methode, Auswertung
+1741§Klicken Sie auf die Endpunkte der ersten Vorzeichnung im ersten Objekt.
+1742§Klicken Sie auf die Endpunkte der anderen Vorzeichnung in dem Objekt.
+1743§Klicken Sie auf den Schnittpunkt der zwei Linien.
+!744§Klicken Sie auf die Endpunkte der ersten Vorzeichnung im nächsten Objekt.
+1745§Liste der Punkte:
+1746§Wellman-Methode, Daten aus einer Datei holen.
+!747§Punkte speichern
+1748§Wellman-Methode zur 2D-Strainanalyse
+1749§Liste der Punkte
+1750§Koordinaten (x  y);
+1751§Ellipse anpassen
+1752§Ellipse an die Punkte anpassen.
+1753§Bild drucken
+1754§Letztes Objekt löschen
+1755§Nicht drehen
+1756§Bild drehen?
+1757§Klicken Sie auf einen Punkt der Referenzlinie
+1758§Klicken Sie auf einen anderen Punkt der Referenzlinie.
+1759§Verschieben
+1760§Anpassung OK.
+1761§Winkel / Drehung
+1762§Gegen den Uhrzeiger drehen
+1763§Im Uhrzeigersinn drehen
+1764§Ende

@@ -1,0 +1,154 @@
+Configuration File§
+Grafic§
+Background Colour§
+Frame Colour§
+Periphery Colour§             
+Diagram Colour§
+Colour of Data Points§
+Colour of Great Circles§
+Data Symbol§
+Line Style§
+Colour of Rose Diagram§
+Small circle filling§
+Paths§
+c:\tektonik\daten§
+c:\tektonik\grafik§
+Hemisphere§
+Password§
+Language§   
+Statistics§   
+Confidence [%]§
+Colour of Eigenvectors§    
+Colour of Aperture§    
+C. of Cone of Confidence§
+Projection§
+Colour of Nets§      
+Colour of Equator§
+Background of Diagrams§     
+Colour of Coordinates§
+1st Contour Line§     
+2nd Contour Line§      
+3rd Contour Line§      
+4th Contour Line§      
+5th Contour Line§      
+Colour of Upper Slip Lines§     
+Colour of Lower Slip Lines§      
+Colour of Arrows§      
+Formfactor theoretical§       
+1st Contour Line§      
+2nd Contour Line§      
+3rd Contour Line§     
+4th Contour Line§     
+5th Contour Line§     
+Distance between Contours§
+1st Contour Line x 10§
+2nd Contour Line x 10§
+3rd Contour Line x 10§
+4th Contour Line x 10§
+5th Contour Line x 10§
+Counting Calotte x 10§
+Multiple of Random (CLODAT)§
+Pooled Group Aperture§  
+Pooled Group C. of Confid.§  
+Paper Plot§  
+Paper Size§  
+Format§ 
+Colour of Periphery§
+Radius [mm]§  
+X-Coordinate of Centre [mm]§  
+Y-Coordinate of Centre [mm]§ 
+Rose Diagram (Style)§     
+Rose Diagram (Interval)§ 
+Rose Diagram (Increment)§   
+Paleo-Stress Azimut Sigma1§  
+Paleo-Stress Dip Sigma1§   
+Paleo-Stress Azimut Sigma3§ 
+Paleo-Stress Dip Sigma3§   
+Length of Coordinates [mm]§
+X-Coordin. of Origine [mm]§
+Y-Coordin. of Origine [mm]§ 
+Distance of Circles Deg.§  
+Distance of Points Deg.§
+Tilt Angle Deg.§  
+Colour of Background§  
+Radius of bitmap [%]§  
+X-Coord. bitmap centre [%]§    
+Y-Coord. bitmap centre [%]§  
+Colour of shearbox objects§  
+Colour of sheared objects§   
+Colour of compression§   
+Colour of extension§ 
+Symbol of compression§  
+Symbol of extension§  
+Colour of Polygons§   
+Maximum number of data§    
+Calibration factor for plot§
+Screen dump calibration§
+Smoothing factor§
+Type of Diagram§
+Enlargement (Fry-method)§
+Colour of ellipse (Fry)§
+Colour of points (Fry)§
+Colour of area (Fry)§
+Colour of sigma§
+Colour of clicked point§
+Colour of Fourier points§
+Show copyright§
+Colour of polygons§
+Colour of isogons§
+Pen width (in pixel)§
+1. contour line pen width§
+2. contour line pen width§
+3. contour line pen width§
+4. contour line pen width§
+5. contour line pen width§
+Counting grid distance§
+Colour of foto-lineations§
+Length of symbols (map)§
+Percent (Rf/Phi)§
+Colour of harmonic mean§
+Colour of vector mean§
+Colour of chi-square back§
+Colour of chi-coordinates§
+Colour of chi-graph§
+Brushstyle of ellipse (Fry)§
+Save Image Width (Fry-Plot)§
+Save Image Width (d-Theta)§
+Save Image Width (Marker)§
+Save Image Width (Stereo)§
+Save Image Width (Fourier)§
+Save Image Width (Mohr)§
+Save Image Width (TAlpha)§
+Save Image Width (Shear)§
+Save Image Width (Panozzo)§
+Save Image Width (Isogonen)§
+Save Image Width (Chi-sq.)§
+Colour of ellipse (Calcul.)§
+Colour of area (Calculated)§
+Brushstyle of ellipse (Cal)§
+Save Image Width (Flinn)§
+Save Image Width (Hsu)§
+Colour of iteration curve§
+Font name§
+Font size§
+Font colour§
+Font style§
+Stress vectors§
+Background Mohr§
+Frame Mohr§
+Coordinates Mohr§
+Filling Mohr s1§
+Filling Mohr s2§
+Filling Mohr s3§
+Background histogram§
+Frame histogram§
+Coordinates histogram§
+Filling histogram§
+Save image width (Mohr)§
+Save image width (Histo)§
+Top of diagram§
+Left of diagram§
+Overlapping§
+Symbol of radii§
+Save Image Width (Wellman)§
+

@@ -1,0 +1,772 @@
+1§Back to Windows|The program will be terminated
+2§To the applications|A list of all
+3§ Programs will be shown.
+4§Name of License owner|
+5§A personal license is given when the Fabric8 is purchased. In a test version 'Demo' is written here.
+6§Explanations in the manual.|
+7§The manual is located in the folder 'Manual'.
+8§Select an application|Double klick on an application,
+9§ or select with the 'up' and 'down' arrows and 'RETURN'.
+10§Back to the beginning
+11§Quit|Back to the beginning
+12§Sheath-fold|Foto: SW Shear zone, G. Meatiq, Eastern Desert, Egypt
+13§Data input, Calculation, Angle|
+14§Selected settings are displayed below.
+15§Selected settings|When all necessary settings are clicked, the button "Continue" becomes active.                       
+16§To next form|Continue to data input and calculation.
+17§ Maximum number of data|Maximum number for input data. This number can be changed here.
+18§back to the last window|back to the window 'Selectin of Applications
+19§Quit|Back to the application list
+20§Number|Number of typed data
+21§Azimuth|Dip azimuth of the first measure, finish input with RETURN.
+22§Dip angle|Dip angle of the first measure, finish input with RETURN.
+23§Azimuth|Dip-Azimuth of the second measure, finish input with RETURN.
+24§Dip angle|Angle of dip of the second measure, finish input with RETURN.
+25§All correct?|klick here, when input is correct.
+26§Finish|Data may be saved and/or printed now.
+27§Start the application|Press the Start button to begin Data input.
+28§back to the last window|Return to the beginning of 'CALCULATIONS'.
+29§Data list|List of all data input and results of calculations
+30§Cancel|immediate return to the list of applications
+31§Input and results|Display of data input and result of calculations
+32§Display of selected files|Display of the names of selected files
+33§Selection|Klick on the files, you want to work with
+34§Data-Directory|The folder that contains the dara, will be shown.
+35§Show the extension|the extension for the selected type of data will be shown
+36§Number of data|Sum of data in all selected files
+37§Activation of the graphic|Projection of the data of chosen files
+38§Calculate|Calculation starts. Results may be saved
+39§Azimuth|Dip-azimuth of the rotation-axis, finish input with RETURN.
+40§Angle of dip|Type the angle of dip of the rotation axis, finish input with RETURN.
+41§Rotation angle|type the rotation angle, clockwise rotation is positive, finish input with RETURN.
+42§Confirm|Confirm the data of rotation.
+43§Azimuth|Type azimuths of the data, finish input with RETURN.
+44§Angle of dip|Type the angles of dip of the data, finish input with RETURN.
+45§Confirm|Confirm the input. You may also press RETURN.
+46§back to the last window|back to the beginning of ROTATIONS
+47§List of data|List of typed data and rotated data
+48§next window|The window for data input will appear
+49§Manual data input|Input of data (azimuth and angle of dip)
+50§Activation of the window|After pressing the START-button, data input begins.
+51§Forward to the graphic window|The screen for the projections will be shown.
+52§back to the last window|Back to the beginning of 'PLOT OF DATA'
+53§Data list|The typed data are listed here.
+54§Data list|The data in all selected files will be listed here.
+55§Finish selection|Finish the selection of files
+56§Plot area|Press START to show the plot
+57§.
+58§Plot-file|Specifications of the plot-file,
+59§ these have to be chosen from the menu 'graphics'
+60§Graphic-menu ok?|Specifications, chosen in the menu 'graphic' become valid
+61§Radius of the projection|Radius of the projection in the plot-file
+62§Centre of the projection|Centre of the projection in the plot-file
+63§horizontal|horizontal distance of the centre from the left left margin
+64§vertical|vertical distance from the lower margin
+65§Acception|These specifications become valid
+66§Show selection|Input in in 1..360 or 1..400 degree convention
+67§Next window|Input of axis and apical angle of the small circle
+68§Data|Data of the small circle
+69§Azimuth|Azimuth of the axis of the small circle, finish input with RETURN.
+70§Dip-angle|Angle of dip of the axis of the small circle, finish input with RETURN.
+71§Apical-angle|Apical angle of the small circle, finish input with RETURN.
+72§Confirm input.|Confirm the input of data for the drawing of a small circle
+73§Use data|Small circles for typed data will be calculated.
+74§Data input, Data type, type of angles, range
+75§to the next window|coninue to data input
+76§manual data input|type measured data
+77§Magnitude (length)|Length of the measured vector, finish input with RETURN.
+78§End of data input|Data may be saved now
+79§Start calculation|The statistical measures will be displayed
+80§back to the last window|back to the beginning of 'SMALL CIRCLES'
+81§back to the last window|back to the beginning of 'MEASURES'
+82§List of files|Data from these files were used for the calculation
+83§Full or half circle|Data are axes (1..180) or vectors (1..360)
+84§see help function|This measure is explained in the help function
+85§back to the last window|back to the data input
+86§Maximal value|Size of the strongest class
+87§Plot area|Press START to show the plot
+88§.
+89§angle interval|Type the size of asector (class) as angle
+90§angular distance|Stepsize for floating intervals (divisor of the interval)
+91§Input|Size of the sectors and of the steps
+92§Confirm|The input becomes valid.
+93§back to the last window|back to the beginning of 'ROSE DIAGRAMS'
+94§Data input, fabric type, angle|
+95§Plot area|Press START to show the plot
+96§.
+97§back to the last window|back to the Data input
+98§to the next window|to the projections of the sphere
+99§Plot area|Press START to show the plot.
+100§Projection method|Type of net
+101§Draw the net|Distances between the circles and angle of tilt of the N-S-axis
+102§Type distance between the circles as angular distance (10 Grad)
+103§Knods|Type distance between the knods as angular distances (10 Grad)
+104§Tilting of N-S-axis|Forward tilting of the N-S-axis is positive
+105§accept|These values are valid for the plot.
+106§back to the last window|Back to the beginning of 'PROJECTIONS'
+107§Type of data input|The type of data input must be chosen now.
+108§Type data|Type degree of preferred orientation and cylindricity, chose Symbols
+109§Degree of preferred orientation|Type degree of preferred orientation in percent, finish input with RETURN.
+110§Cylindricity|Type cylindricity in percent, finish input with RETURN.
+111§Klick on Symbol|Symbol for plot of the data points, finish selection with RETURN.
+112§Go to graphic|R%-G&-diagramm will be plotted.
+113§back to the beginning|Back to the beginning of 'R%-G%'
+114§plot area|Press START to show the plot.
+115§Coordinates|Type lengths of the Coordinate axes.
+116§Origin of coordinates|Distance of the origin from left and lower margin
+117§horizontal|horizontal distance of the origin from the left margin
+118§vertikal|vertikal Distance of the origin from the lower margin
+119§back to the last window|back to data input
+120§Azimuth|Type the azimuth of dip of the fault plane, finish input with RETURN.
+121§Angle of dip|Type the angle of dip of the fault plane, finish input with RETURN.
+122§Azimuth|Type the azimuth of the striation, finish input with RETURN.
+123§Angle of dip|Type the angle of dip of the striation (normal fault is negative), finish input with RETURN.
+124§back to the last window|Back to the beginning of 'PALEOSTRESS'
+125§plot area|Press START to shoe the plot.
+126§Counting calotte|Type size of the counting calotte (%). Suggestion: 10%.
+127§Contour lines of compression|Chosen colours of contour lines are shown.
+128§Maximum and Minimum|maximal and minimal number of compressional dihedra
+129§Maximum|Maximal number of compressional dihedra
+130§Minimum|Minimal number of dihedra (ideal: 0%)
+131§Type of data input|The type of data input must be chosen now.
+132§Quarter wave|input of the angle of vergency and of 3 points on the quarter wave
+133§Angle of vergency|Angle of vergency = divergence from a vertical line (left is positive), finish input with RETURN.
+134§1.point, X-coordinate|1. point close to the inversion, type X-value, finish input with RETURN.
+135§1.point, Y-coordinate|1. point close to the inversion, type Y-value, finish input with RETURN.
+136§middle point, X-coordinate|2. point from the inversion, type X-value, finish input with RETURN.
+137§middle point, Y-coordinate|2. point from the inversion, type Y-value, finish input with RETURN.
+138§3rd point, X-coordinate|the 3rd point should be the hinge of the fold, finish input with RETURN.
+139§3rd point, Y-coordinate|the 3rd point should be the hinge of the fold, finish input with RETURN.
+140§back to the last window|back to the beginning of 'FOURIER'
+141§plot area|Chose colour and press 'Start' to start plot.
+142§Table|the first three odd sinus-coefficients of the fold
+143§Width|Width of the graphic
+144§Width|type the width of the graphic
+145§Origin|distance of the origin from the left and lower margin
+146§Input|Input of eigenvalues, digits behind the decimal point only!
+147§Lambda1|Type the smallest eigenvalue. Digits behind the decimal point only. Finish input with RETURN.
+148§Lambda2|Type the intermediate eigenvalue. Digits behind the decimal point only
+149§Lambda3|Type the largest eigenvalue. Digits behind the decimal point only. Finish input with RETURN.
+150§wrong value| The three eigenvalues must add up to 1.
+151§back to the last window|Back to the beginning of 'WOODCOCK'
+152§plot area|Chose colour and symbol before you can start the plot
+153§Table|c-value = ln(lambda3/lambda1). C is a measure of preferred orientation
+154§Coordinates|type length of the coordinate axes
+155§Selection|Type of data input and angle notation (degree or gon) must be selecte
+156§plot area|Chose type of projection and colour, answer 'erase data' with
+157§ 'yes' or 'no' and type principal stresses and shape factor to start plot.
+158§Stress-Ellipsoid|The orientation of the stress-ellipsoid must be known.
+159§Azimuth|Type the azimuth of dip of the largest principal stress.
+160§Angle of dip|type the angle of dip of the largest principal stress.
+161§Azimuth|Type the azimuth of dip of the smallest principal stress.
+162§Angle of dip|Type the angle of dip of the smallest principal stress.
+163§lower limit for the shape factor|Chose the smallest estimated shape factor.
+164§upper limit for the shape factor|Chose the largest estimated shape factor.
+165§stop erasing data|Finish the option 'erase data'.
+166§plot area|Chose colour and directions of principal stresses to start the plot
+167§Table of the striations|Table of the eigenvalues of the striations
+168§Table|Table of the striations of calculated theoretical distributions
+169§Eigenvalues|Eigenvalues of measured striations
+170§Isogons|Lengths of isogons
+171§Hinge distance|Between the hinge points of the top and bottom plane of the layer. Finish with RETURN.
+172§10°-isogon|Type the length of the 10°-isogon. Finish with RETURN.
+173§20°-isogon|Type the length of the 20°-isogon. Finish with RETURN.
+174§30°-isogon|Type the length of the 30°-isogon. Finish with RETURN.
+175§40°-isogon|Type the length of the 40°-isogon. Finish with RETURN.
+176§50°-isogon|Type the length of the 50°-isogon. Finish with RETURN.
+177§60°-isogon|Type the length of the 60°-isogon. Finish with RETURN.
+178§70°-isogon|Type the length of the 70°-isogon. Finish with RETURN.
+179§80°-isogon|Type the length of the 80°-isogon. Finish with RETURN.
+180§90°-isogon|Type the length of the 90°-isogon. Finish with RETURN.
+181§Table|Table of isogons and normatized isogon lengths
+182§Ordinate|Type the length of the ordinate.
+183§back to the last window|Back to the beginning of 'TALPHA'
+184§plot area|Press START to shoe the plot
+185§.
+186§Separation|Significant separation or overlap of clusters
+187§Test angle|The test angle is calculated from the contour level.
+188§Number of data|Isolated data which do not belong to clusters are not considered
+189§Contour line|Type level of contouring for calculation of the clusters
+190§Measures|Table of statistical measures of the clusters (s. manual)
+191§plot area|Press START to show the plot
+192§.
+193§Contour lines|Type and colours of contour lines
+194§Maximum|Calculated maximum density and position of maximum
+195§Contour lines|Cose steps of contour lines;                                     
+196§1st contour line|type 1st contour line (in percent)
+197§2nd contour line|type 2nd contour line (in percent)
+198§3rd contour line|type 3rd contour line (in percent)
+199§4th contour line|type 4th contour line (in percent)
+200§5th contour line|type 5th contour line (in percent)
+201§Counting calotte|Type the size of the counting calotte (in percent).
+202§Acception|the chosen steps of contour lines become valid
+203§Print|Data and result are printed
+204§save data|Choose the directory, and save the data in a file
+205§Data on diskette 1|Data will be saved on disc-drive 1
+206§Data on diskette 2|Data will be saved on disc-drive 2
+207§save results|Save result in a file
+208§Results on diskette 1|Results will be saved on disc-drive 1
+209§Results on diskette 2|Results will be saved on disc-drive 2
+210§Help|Call help function
+211§on hard disk|Cleaned file on hard disk
+212§on diskette 1|Cleaned file on diskette 1
+213§on diskette 2|Cleaned file on diskette 2
+214§print|Print Cleaned file
+215§on hard disk|Erased data on hard disk
+216§on diskette 1|Erased data on diskette 1
+217§on diskette 2|Erased data on diskette 2
+218§print|Print erased data
+219§Go to the graphic|The Bitmap is shown in the next window.
+220§Back to the list of programs|Terminate the program 'Reconstruction'
+221§Write a list of data|Data are reconstructed from plotted diagrams
+222§Click the checkbox 'OK'|The drawing should be on the clipboard.
+223§Click to a lineation|Azimuth and dip angle are calculated
+224§back to the previous page|back to the main page, select a new bitmap
+225§Open the graphic|Get the bitmap from the clipboard
+226§Finish|Terminate the calculation of data
+227§Number of data|Number of calculated data
+228§List of data|List of the calculated data
+229§Kind of data|Are the points of the bitmap poles to planes or linears?
+230§Which net?|Which method of projection was used for the bitmap?
+231§Hard disk|Save the calculated data on hard disk
+232§Drive A:|Calculated data are saved on drive A:
+233§2nd drive|Calculated data are saved on the 2nd drive
+234§Printer|Print the list of the calculated data
+235§Help|Call the help function
+236§of data|Azimuth and dip of data points in a bitmap are calculated
+237§of data|Azimuth & dip of a point set by mouse click are calculated
+238§plain strain|Realization of Shear Experiments
+239§Shear Box|Continue to next formular
+240§Install Printer|Set Print-parameters
+241§print|print shear box
+242§pattern to be deformed|choose one or more patterns
+243§draw line|keep left mousekey pressed, draw line, release left mousekey
+244§draw ellipse|keep left mousekey pressed, form ellipse, release left mousekey
+245§draw rectangle|keep left mousekey pressed, form rectangle, release left mouseke
+246§insert|Load picture from clipboard.
+247§A bitmap of only one colour must be on the Clipboard
+248§erase all patterns| The bitmap of drawings will be erased
+249§Shear, resp. flattening|The chosen values are displayed
+250§Commence|Start the shear or flattening experiment
+251§Shear box|The shear experiment is done on this screen
+252§Shear parameter|Chose type of shear experiment
+253§Shear experiment|A shear experiment will be carried out
+254§homogenous deformation|Circles change to ellipses, lines remain lines
+255§non homogenous deformation|Amount ao shear increases towards the upper margin
+256§chose shear angle|Scroll uand click the angle
+257§chose factor|Chose factor for non homogenous deformation
+258§Flattening parameter|Chose flattening parameter
+259§chose flattening|A flattening experiment will be carried out
+260§measure of flattening|Chose percentage to which the pattern will be flattened
+261§back to the beginning|Start shear box again
+262§copy|Copy to clipboard
+263§cut out|cut to clipboard
+264§save|Save the bitmap to a file
+265§save to| Cose file and save the bitmap in it
+266§Talbot Method|Strain analysis by elongated or shortened veins
+267§to next form|Start strain analysis
+268§max. Input|maximal number 
+269§Azimuth and dip of a point|Click on a point in the diagram, to calculate its azimuth and dip.
+270§Language selection|Choose the language for all dialogs. Language selection must be done on this form.
+271§Dialogues in German|All dialogues are done in German.
+272§Dialogues in English|Alle dialogues are done in English.
+273§Call the Help system|The help follows windows standards. It includes mathematical explanations.
+274§manual|The actual chapter of the manual is opened as a windows file. The complete manual is found in the directory 'Manual'.
+275§Find data|The actual path is shown. Choose the drive and the complete path of the file, you want to work with. 
+276§Selected projection|Projections can be changed in the menu 'Projection'.
+277§Typ of file for saving of the graphic|Select the file type in the menu 'Diagramm'.
+278§Directory that contains the excel file|Choose drive and path and confirm with 'OK'.
+279§Sheet of the excel file|the existing sheets are indicated, choose one of them. 
+280§Rows for azimuth and dip|Indicate whether the data are written in one row (with separator), or in two rows.
+281§Confirmation|confirm a one row or two row notation.
+282§Two row sheet|Select the cells for two row notation.
+283§One row sheet|Select the cells for one row notation.
+284§First cell of the azimuth-row|Write row(letter) and line (number) and confirm with 'Return'.
+285§Row of the dip-values|Write the letter of the row of dip-values and confirm with 'Return'.
+286§Last line of the selected data set|write the number of the last line of the data set, you want to use, and confirm with 'Return'.  
+287§Confirmation|Make sure that all letters and number are correct, then click on 'OK'.
+288§Separator for azimuth and dip|For one row notation you have to indicate the separator.
+289§Create a new file|With this button you can start a new data selection.
+290§Termination of data selection|Finish data input and go to the graphic form.
+291§List of excel files|All excel files in the selected directory are listed. Double click on the file you want to use.
+292§Selected data|all data of the selected cells are written down. Cells that do not contain data are overread. 
+293§Choice of the fabric type|Click on the fabric type of the choosen data. 
+294§Upper cell|for one row notation: write the first cell (letter and number).
+295§Lower cell|for one row notation: Write last cell (Letter and number).
+296§Open form|List of all data of this fabric type in the selected directory
+297§Contours with floating borders|Contouring is done with the colours of the selected spectrum.
+298§Principal stresses|Azimuths and dips of the clicked points are indicated.
+299§largest principal stress|Press this button when you clicked on sigma1.
+300§medium principal stress|Press this button when you clicked on sigma2.
+301§smallest principal stress|Press this button when you clicked on sigma3.
+302§Indicate principal stresses|Click on one point in the diagram and afterwards on one of the sigma-buttons.
+303§Type of data input, angle|
+304§The 'continue'-button becomes active after selection of type of data input and angle.
+305§Cleaned data set|Save the remaining data.
+306§Cleaned data set|Print the remaining data.
+307§Erased data|Save the erased data.
+308§Erased data|Print the erased data.
+309§Print graphic|Print the graphic on the screen.
+310§Plot area|Triangle-plot of the eigenvalues
+311§List of eigenvalues|Eigenvalues of theoretical and measured striations
+312§Start of the graphic|Show diagram.
+313§Plot area|The Woodcock-diagram is constructed in the same way as a Flinn-diagram.
+314§c = lambda3/lamba1|The c-value is a measure for preferred orientation.
+315§Plot area|Triangle-diagram of types of preferred orientations
+316§Plot area|b1-b3-diagram after Ramsay & Huber
+317§Activation of the graphic|Plot of a b1-b3-diagram
+318§Plot area|normatised lengths of isogons are plotted versus the isogon-angles.
+319§Start of the graphic|normatised lengths of isogons are plotted versus the isogon-angles.
+320§Strain-ellipsoid|The orientation of the axes is calculated from the shpe of data distribution.
+321§Eliminate clusters|Produce an even distribution without clusters.
+322§Strain-ellipsoid|Shape of the strain-ellipsoid
+323§Strain-ellipsoid|geometrical parameter
+324§next form|Continue with the image input.
+325§German|In all following programs the dialogues are in German.   
+326§English|In all following programs the dialogues are in English.
+327§manual|Data input is manual.
+328§File|Data input from a file.
+329§Intersection line|Calculation of the direction of an intersection line between two planes
+330§Angle between two planes|Calculation of the angle between two planes
+331§Angle between linears|Calculation of the angle between two linears
+332§Plane from linears|Claculation of a plane from two linears
+333§Normal|Calculation of the normal on two linears
+334§0..360°|Angles are given in a 360°-scale.
+335§0..400gon|Angles are given in a 400gon-scale.
+336§Linears|Data are linears.
+337§Planes|Data are planes.
+338§pure directions|Data have no defined lengths.
+339§Direction & length|Data have defined lengths.
+340§Axes|Data are bipolar.
+341§Vectors|Data are unipolar.
+342§Import|Import a picture from a file.
+343§Coordinates|load a file which contains the coordinates of centres of strain markers.       
+344§Excel-file|Read data from an excel-file.
+345§Bitmap|Import a picture.
+346§Inflection point of the fold|Click on the inflection point, then press this button.
+347§Fold hinge|Click on the fold hinge, then press this button.
+348§Begin|Activation of this form
+349§Second point of the quarter fold|Click on the second point of the quarter fold, then press this button.
+350§First point of the quarter fold|Click on the first point of the quarter fold, then on this button.
+351§1. Inflection|First click on an inflection point, then press this button
+352§2. Inflection|First click on the other inflection point, then press this button
+353§eliminate vergency|Click on a point in the axial plane, then press this button
+354§eliminate vergency|Click on another point in the axial plane, then press this button
+355§Centre of the image after rotation|Click on the point which shall be the centre point after rotation, then press this button.
+356§Hinge of the fold|Click on one hinge point of the fold, then press this button.
+357§Hinge of the fold|Click on the other hinge point of the fold, then press this button.
+358§Draw isogons|Place the tangent on the fold.
+359§End point of the isogon|Place the tangent on one side of the fold, click on the point of contact, then press this button.
+360§End point of the isogon|Place the tangent on the other side of the fold, click on the point of contact, then press this button.
+361§End of the graph|Press this button when no more tangents are possible.
+362§Start a new measure|Measure the next fold.
+363§upper hemisphere| data are projected into the upper hemisphere.
+364§lower hemisphere|Data are projected into the lower hemisphere.
+365§Colour|Choose a colour for the data points.
+366§not filled|The rose diagram is plotted with lines.
+367§filled|The rose diagram is plotted with filled sectors.
+368§from file|Load graphic from a file
+369§U-stage axes|Data are U-stage axes
+370§U-stage poles|Data are U-stage poles to planes
+371§open circles|Data are plotted with open circles
+372§filled circles|Data are plotted with filled circles
+373§open triangles|Data are plotted with open triangles
+374§filled triangles|Data are plotted with filled triangles
+375§open squares|Data are plotted with open squares
+376§filled squares|Data are plotted with filled squares
+377§open diamonds|Data are plotted with open diamonds
+378§filled diamonds|Data are plotted with filled diamonds
+379§counting calotte (vector graphics)|Construction of contour lines with the counting-calotte method (in vector graphics).
+380§Mellis Method|Construction of contour lined with the Mellis method
+381§Scalar product method, steps| Construction of stepwise contours with the scalar product method.
+382§Scalar product method, floating|Construction of floating contours with the scalar product method
+383§Colour of a point|Choose the colour of a point, you want to click on
+384§Click on a point|By clicking on a point of the diagram you receive azimuth and dip angle of this point
+385§Colour of slickensides|Coose the colour of great circles.
+386§Colour of striations|Choose the colour of the arrows.
+387§Lambert|Diagram is plotted with Lambert projection.
+388§stereographic|Diagram is plotted with stereographic Projection
+389§orthographic|Diagram is plotted with orthographic projection.
+390§Kavraiskii|Diagram is plotted with Kavraiskii projection
+391§solid lines|Great circles are drawn with solid lines.
+392§dashed lines|Great circles are drawn with dashed lines.
+393§dashdotted lines|Great circles are drawn with dashdotted lines
+394§dotted|Great circles are drawn with dotted lines.
+395§block rose|Diagram is drawn as a block rose.
+396§star rose|Diagram is drawn as a star rose.
+397§floating|Diagram is drawn with floating sectors.
+398§Confidence 90%|The centre of gravity lies with 90% confidence in the cone of confidence.
+399§Confidence 95%|The centre of gravity lies with 95% confidence in the cone of confidence.
+400§Confidence 99%|The centre of gravity lies with 99% confidence in the cone of confidence.
+401§colour of eigenvectors|Choose the colour of eigenvectors and centre of gravity.
+402§colour of aperture|Choose the colour for the small circle of aperture.
+403§colour of cone of confidence|Choose the colour for the small circle of the cone of confidence.
+404§print list|Print data list and list of statistical parameters..
+405§multiples of even distribution|Automatic contouring in steps of multiples of even distribution
+406§manual|Contour intervals are chosen manually.
+407§gray|Contouring in steps of gray
+408§colours|Contouring intervalls in colours
+409§colour of data points|Choose the colour for the data points.
+410§colour of aperture of pooled groups|Choose the colour for the small circle of aperture for pooled groups.
+411§colour of cone of confidence of pooled groups|Choose the colour for the small circle of the cone of confidence for pooled groups.
+412§colour of principal stresses|Coose the colour for the principal stress axes. 
+413$principal stresses|Click on the estimated directions of principal stresses.
+414§slip lines|Construct trajectories for slip directions.
+415§colour of upper slip lines|Choose the colour for the slip lines of max. estimated shape factor.
+416§colour of lower slip lines|Choose the colour for the slip lines of min. estimated shape factor.
+417§colour of arrows|Choose the colour for the arrows measured slip directions.
+418§colour of points|Choose the colour for the poles to slickenside planes.
+419§colour of theoretical points|Choose the colour for the calculated points for R = 0.1..1.0.
+420§colour of the measured point|Choose the colour for the point calculated from measured data.
+421§colour of circles|Choose the colour for great and small circles.
+422§colour of equator|Choose the colour for the equator.
+423§print|Print produced data.
+424§rotate|Rotation of the picture until the inflection points are on a horizontal line.
+425§eliminate vergency|A vergency is eliminated by back shearing.
+426§*.BMP-file|Save graphic as *.bmp-file.
+427§*.JPG-file|Save graphic as *.jpg-file.
+428§solid|Drawn line is solid.
+429§dashed|Drawn line is dashed.
+430§dashdotted|Drawn line is dashdotted.
+431§dotted|Drawn line is dotted.
+432§90° right|Rotate graphic by 90° to the right.
+433§90° left|Rotate graphic by 90° to the left.
+434§180°|Rotate graphic by 180°.
+435§Colour of the constructed ellipse|Choose colour of the periphery of the constructed strain ellipse.
+436§colour of ellipse|Colour of the area of the strain ellipse
+437§plotter|Plot the vector graphic with the printer.
+438§*.PLT|Write the vectorgraphic to a *.PLT-file.
+439§*.DXF|Write the vectorgraphic to a *DXF-file.
+440§colour of periphery|Choose the colour for the periphary of the diagram.
+441§colour of diagram|Choose the colour to fill the diagram.
+442§colour of frame|Choose the colour for the frame of the graphic.
+443§colour of background|Choose the colour for the background of the diagram.
+444§colour of coordinates|Choose the colour for the coordinates of the diagram.
+445§colour of compression data|Choose the colour for the presentation of compressional data.
+446§colour of tension|Choose the colour for the presentation of tensional data.
+447§colour of axes|Choose the colour for the axes of the ellipsoid.
+448§colour of ellipse| Choose the colour for the ellipse.
+449§Flinn-diagram|Choose the colour for the point in the Flinn-diagram.
+450§Max. Resolved Shear Stresses|Calculations of theoretical direction of striations
+451§save graphic|save graphic as *.bmp file.
+452§save graphic|save graphic as *.jpg file.
+453§polygon data|load file which contains the polygon coordinates
+454§Start data input|Import picture and click on the polygon points.
+455§last polygon?|Finish digitizing
+456§New form|Open form with the results.
+457§last form|Back to start of the projection method.
+458§Fill colour|Colour of polygons
+459§New centre point|Define a point as new centre point of rotation.
+460§Horizontal|Rotate the median surface to a horizontal position.
+461§Colour|Colour of the isogons
+462§References|Shows the references, cited in Fabric8.
+463§Pen width|Choose the pen width in pixels.
+464§Scaling|Write angles on the periphery
+465§Projections of a globe|Draws nets in various projections
+466§Counting grid|Draws a grid with counting calottes in various projections
+467§Colour of counting calotte|The colour of counting calottes can be changed
+468§Counting grid|Change the distance of grid points
+469§Counting calotte|Change the size of the counting calotte
+470§Rtf file|Save in a word.rtf file
+471§Clar compass|Data measured as dip direction and dip angle
+472§Brunton compass|Data measured as strike direction, dip angle, and dip direction (N or S)
+473§Click on normal to a plane|Azimuth and dip of the plane are calculated
+474§numbering|Number of the group
+475§number of data|Number of data in the group
+476§preferred orientation|Degree of preferred orientation
+477§concentration|Concentrations parameter
+478§Confidence|Apical angle of the cone of confidence
+479§spherical aperture|Spherical aperture (deviation)
+480§circular aperture|Circular aperture
+481§Cylindricity|Degree of great circle distribution
+482§Centre of gravity|Orientation of the resultant length vector
+483§clockwise|Draw isogons clockwise.
+484§anticlockwise|Draw isogons anticlockwise.
+485§no adjustment|No rotation or translation needed.
+486§Colour|Colour of foto-lineations
+487§Save|Save azimuths and lengths of the lineations
+488§rotate|Rotate image to bring the north direction in an upright position
+489§no correction|North direction is already upright.
+490§from a map|Points are already marked in a map.
+491§Longitude and latitude (dd°mm.mmm')|Geographic Coordinates
+492§Gauss-Krüger Coordinates|Grid in Gauss-Krüger Coordinates
+493§NW-Sector|Northern latitude, western longitude
+494§NE-Sector|Northern latitude, eastern longitude
+495§SW-Sector|Southern latitude, western longitude
+496§SE-Sector|Southern latitude, eastern longitude
+497§Colour of the map|Background colour of the map
+498§Length|Length of the symbols
+499§Colour|Colour of the symbols
+500§Backside|Locations are marked on the backside of the map.
+501§Front side|Locations are marked on the front side of the map.
+502§Colour of points|Colour of the data points
+503§Longitude and latitude (dd°mm'ss.s'')|Geographic coordinates;
+504§UTM|UTM-coordinates
+505§Install Printer|Set the printer properties
+506§Data points|Jump to the plot of data.
+507§Contour lines|Jump to the plot of contour lines.
+508§Submaxima|Jump to the signifikant separation of submaxima.
+509§Statistics|Jump to statistics of orientation data.
+510§Rose diagran|Jump to the plot of rose diagrams.
+511§Great circles|Jump to the plot of great circles.
+512§Displacement data|Jump to the plot of the displacement data.
+513§Shape factor, eigenvalue method|Jump to the calculation of the shape factor with the eigenvalue method.
+514§Hoeppener diagram|Jump to the plot of a Hoeppener diagram.
+515§Dihedra|Jump to the plot of a dihedra diagram.
+516§Vollmer diagram|Jump to the plot of a Vollmer diagram.
+517§Woodcock diagram|Jump to the plot of a Woodcock diagram.
+518§Non random|Jump to the test of non-random distribution.
+519§Poles to planes|Jump to the plot of the poles to planes.
+520§Pixel graphics in steps|Contouring according to the Mellis-method
+521§Pixel graphics floating|Contouring according to the Mellis-method
+522§Click on a point as lineation|Azimuth and dip of the lineation are shown.
+523§Colour of points|Choose the colour of the points which shall be shown.
+524§Plot poles|Plot poles to great circles.
+525§Erase poles|Erase poles to great circles.
+526§Dot point point|Draw lines with dot-point-point signature.
+527§No scale|Erase scale from the diagram.
+528§Clockwise|Add clockwise scaling to the diagram.
+529§Counterclockwise|Add counterclockwise scling to the diagram. 
+530§Slip lines|Plot slip lines.
+531§Large points|Draw diagram with large points.
+532§Small points|Draw diagram with small points.
+533§Save centres|Save centres of polygons.
+534§Structural Symbols|Plot structural Symbols in the map.
+535§Outcrops|Plot outcrop-sites in the map.
+536§Move margins|Change the area of the map by moving of the margins.
+537§Cut out map|Define map by drawing a rectangle with the mouse.
+538§Change margins of the map|Change margins by setting coordinates.
+539§No slip lines|Erase slip lines
+540§Colour of the graph|Choose the colour of the chi square graph.
+541§print Rf/Phi|The Rf/Phi Graphic is printed.
+542§print Chi²|The Chi²/Rs Graphic is printed.
+543§print results|A list of Data and of the calculated parameters is printed.
+544§Cut out diagramm| Cut out the diagramm and enlarge it.
+545§Undo show point
+546§no pitch|Striations are measured as azimuth and dip.
+547§clockwise Pitch|Striation is measured by a clockwise angle between a horizontal line and the striation.
+548§counterclockwise Pitch|Striation is measured by a counter clockwise angle between a horizontal line and the striation.
+549§single data|Change rotation axis and angle for each input.
+550§set of data|same rotation axis and angle for the entire input.
+551§Pitch angle from a lineation|Calculation of the pitch angle of a lineation on a plane
+552§Lineation from a pitch angle|Calculation of azimuth and dip of a lineation on a plane from the pitch angle
+553§Data from a RF/Phi file|Long and short axes of ellipses and the angles of the long axes against the horizontal are saved in a file.
+554§conventional Fry method|Distances between points are not normalized.
+555§normalized Fry method| Distances between points are normalized.
+556§Size of points|Choose number of pixels for the points.
+557§Transparency of the constructed ellipse|Plot area of the constructed ellipse without colour.
+558§Colour of the area of the constructed ellipse|Choose colour for the area of the constructed ellipse.
+559§Erase ellipse|Erase ellipse for a new plot.
+560§Long axis|Change the length of the long axis of the ellipse by dragging.
+561§Short axis|Change the length of the short axis of the ellipse by dragging.
+562§Rotate ellipse|Rotate the ellipse in clockwise or counter clockwise direction.
+563§Size of ellipse|Change the size of the ellipse by dragging.
+564§Save Fry plot as *.bmp|Save the Fry plot in a BMP file.
+565§Save Fry plot as *.jpg|Save the Fry plot in a JPG file.
+566§Save d/phi diagram as *.bmp|Save the d'/phi' diagram in a BMP file.
+567§Save d/phi diagram as *.jpg|Save the d'/phi' diagram in a JPG file.
+568§Print Fry plot|Print the Fry plot drucken.
+569§Print d/phi diagram|Print the d'/phi' diagram.
+570§Projection method|Jump to the projection method (after Panozzo) with these data.
+571§Size of the image of the Fry diagram|change the number of pixels for saving the Fry diagram.
+572§Size of the image of the d-theta diagram|change the number of pixels for saving the d-theta diagram.
+573§Size of the image of the R-diagram|Change the number of pixels for saving the R diagram.
+574§Size of the image of the Mohr diagram|Change the number of pixels for saving the Mohr diagram.
+575§Copy R-diagram|Copy R-diagram to the clipboard.
+576§Copy Mohr diagram|Copy Mohr diagram to the clipboard.
+577§Cut out the R-diagram|Cut out the R diagram and copy to the clipboard.
+578§Cut out the Mohr diagram|Cut out the Mohr diagram and copy to the clipboard.
+579§Save R-diagram|Save the R-diagram as *.BMP file..
+580§Save Mohr diagram|Save the Mohr diagram as *.BMP file.
+581§Print R-diagram|Print the R-diagram.
+582§Print Mohr diagram|Print the Mohr diagram.
+583§Size of the image of the diagram|Change number of pixels for saving the diagram as *.BMP file.
+584§Background transparent|Background fully transparent
+585§Background coloured|Choose background colour.
+586§Save as *.BMP|Save graphic as Bitmap file.
+587§Save as *.GIF|Save Graphic in Graphic Interchange Format.
+588§Save as *.TIF|Save graphic in Tagged Image File Format.
+589§Save as *.JPG|Save graphic in JPEG format.
+590§Save as *.WMF|Save graphic as Windows Metafile.
+591§Save as *.EMF|Save graphic as enhanced metafile.
+592§Numbering|Write numbers to the symbols.
+593§No numbering|Erase numbers to the symbols.
+594§Erase constructed ellipse|Erase the constructed ellipse.
+595§Colour of the periphery of the calculated ellipse|Choose the colour of the periphery of the calculated ellipse.
+596§Transparency of calculated ellipse|Make the area of the calculated ellipse transparent.
+597§Filling colour for the calculated ellipse|Fill the calculated ellipse with a chosen colour.
+598§Erase calculated ellipse|Erase the calculated ellipse.
+599§Caption of the Fry plot|Add the filename to the Fry plot.
+600§Fry plot as *.gif|Save the Fry plot in a GIF file.
+601§Fry plot as *.tif|Save the Fry plot in a TIF file.
+602§Fry plot as *.wmf|Save the Fry plot in a WMF file.
+603§Fry plot as *.emf|Save the Fry plot in an EMF file.
+604§Caption of the d/alpha plots|Add the file name to the d/alpha plot..
+605§D/alpha plot as *.gif|Save the d/alpha diagram in a GIF file.
+606§D/alpha plot as *.tif|Save the d/alpha diagram in a TIF file.
+607§D/alpha plot as *.wmf|Save the d/alpha diagram in a WMF file.
+608§D/alpha plot as *.emf|Save the d/alpha diagram in an EMF file.
+609§Triangle as BMP|Save triangle diagram as *.bmp file.
+610§Triangle as GIF|Save triangle diagram as *.gif file.
+611§Triangle as TIF|Save triangle diagram as *.tif file.
+612§Triangle as JPG|Save triangle diagram as *.jpg file.
+613§Triangle as WMF|Save triangle diagram as *.wmf file.
+614§Triangle as EMF|Save triangle diagram as *.emf file.
+615§Mohr diagram as BMP|Save Mohr diagram as *.bmp file.
+616§Mohr diagram as GIF|Save Mohr diagram diagram as *.gif file.
+617§Mohr diagram as TIF|Save Mohr diagram diagram as *.tif file.
+618§Mohr diagram as JPG|Save Mohr diagram diagram as *.jpg file.
+619§Mohr diagram as WMF|Save Mohr diagram diagram as *.wmf file.
+620§Mohr diagram as EMF|Save Mohr diagram diagram as *.emf file.
+621§Get BMP|Get image from a BMP file.
+622§Get GIF|Get image from a GIF file.
+623§Get TIF|Get image from a TIF file.
+624§Get JPG|Get image from a JPG file.
+625§Get WMF|Get image from a WMF file.
+626§Get EMF|Get image from a EMF file.
+627§Size of the image file|Change number of pixels.
+628§Plane: azimuth to strike|Plane: change Azimuth/dip to strike/dip/direction.
+629§Plane: strike to azimuth|Plane: change strike/dip/direction to azimuth/dip.
+630§Linear: azimuth to strike|Linear: change Azimuth/dip to strike/dip/direction.
+631§Linear: strike to azimuth|Linear: change strike/dip/direction to azimuth/dip.
+632§Stress|Calculate Mohr's circle for stress.
+633§Strain|Calculate Mohr's  circle for finite strain.
+634§Axes|Calculate Mohr's circle from the axes of the deformation ellipsoid.
+635§Elongation|Calculate Mohr's circle from elongations .
+636§Size of points|Set the size of the points in pixel.
+637§Colour of circle|Set the colour of Mohr's circle.
+638§Fill colour|Set the colour of the inside of Mohr's circle.
+639§Scalar product method, steps with contour lines|Construction of stepwise contours with the scalar product method, drwing of polylines..
+640§Axes|Input of the three principal axes of an ellipsoid
+641§Elongation|Input of the Elongations parallel to the three principal axes of an ellipsoid
+642§Linear|Scaling of the Flinn diagram is linear.
+643§Logarithmic|Scaling of the Flinn diagram is logarithmic.
+644§Stereograms|Plot of stereograms into the map.
+645§Dihedra|Palaeostress analysis with the dihedra method.
+646§Iteration|Determination of the shape factor with the iteration method.
+647§Eigenvalues|Determination of the shape factor with the eigenvalue method.
+648§Original data as Dihedra diagram|Plot original data with the dihedra method.
+649§Original data as Hoeppener diagram|Plot original data in a Hoeppener diagram.
+650§Original data as displacement data|Plot original data as great circles and lineations.
+651§Rotated data as Dihedra diagram|Plot rotated data with the dihedra method.
+652§Rotated data as Hoeppener diagram|Plot rotated data in a Hoeppener diagram.
+653§Rotated data as displacement data|Plot rotated data as great circles and lineations.
+654§Eigenvalue diagram|Jump to determination of the shape factor with the eigenvalue method.
+655§Calibration of printer|Set width/height ratio of the diagram on the printer.
+656§Iteration diagram as BMP|Save the iteration diagram as *.BMP file.
+657§Iteration diagram as GIF|Save the iteration diagram as *.GIF filr.
+658§Iteration diagram as TIF|Save the iteration diagram as *.TIF file.
+659§Iteration diagram as JPG|Save the iteration diagram as *.JPG file.
+660§Iteration diagram as WMF|Save the iteration diagram als *.WMF file.
+661§Iteration diagram as EMF|Save the iteration diagram as *.EMF file.
+662§Iteration diagram as PLT|Save the iteration diagram as *.PLT file.
+663§Iteration diagram as DXF|Save the iteration diagram as *.DXF file.
+664§Shape factor with the iteration method|Jump to the estimation of the shape faktor with the iteration method.
+665§Direction of Sigma1|Click on the estimated point for Sigma1, then press this button
+666§Direction of Sigma3|Click on the estimated point for Sigma3, then press this button
+667§Colour of small circles|Choose a colour for the periphery of the small circles.
+668§colour of filling|Choose a colour to fill the small circles.
+669§Undo filling|Undo the filling of the small circles with a colour.
+670§Reconstruction|The original data set is reconstructed from an already existing stereoplot.
+671§Simulation|Artificial data sets (i.e. great circles, small circles, or other patterns) can be produced.
+672§MRSS|Artificial slickenside plane are produced and the striations on them are calculated as max. resolved shear stresses.
+673§Click on a point as lineation|Azimuth and dip angle of the lineation are shown-
+674§Click on a point as normal to a plane|Azimuth and dip angle of the plane are shown.
+675§Draw a great circle|A clicked point is the normal to a plane. This plane is plotted as great circle.
+676§Rotate|Rotate the entire net around an angle.
+677§Projection of a sphere|Jump to the projection of a sphere.
+678§Cut out|Cut out an area of the picture and enlarge it.
+679§Whole picture|Use the whole picture.
+680§Save triangle plot|Save triangle plot of eigenvalues.
+681§Save Mohr diagram|Save the diagram of the three Mohr circles.
+682§Save iteration|save the iteration diagramme.
+683§Save picture|Choose graphic format.
+684§Save Fry plot|save graphic in a file.
+685§Save theta plot|Save graphic in a file.
+686§Font|Change font name, size, colour or style.
+687§Colour of principal stresses|Choose the colour for the principal stresses.
+688§Principal stresses|Click on the points where the principal stresses are suposed to be.
+689§Numbering|Number diagrams.
+690§Erase Numbers|Redraw diagram without numbering.
+691§Symmetry plane|Symmetry plane between two planes.
+692§Direct method|Calculations of the shape factor from pitch angles of striae.
+693§Colour of points|Choose the colour of the points (normal and shear stress).
+694§Colour of background|Choose the colour for the background of the Mohr diagram.
+695§Colour of frame|Choose the colour of the frame of the Mohr diagram.
+696§Colour of coordinates|Choose the colour of the coordinates of the Mohr diagram.
+697§Colour of s1-s3 circle|Choose the filling colour of the sigma1-sigma3 circle.
+698§Colour of the s2-s1 circle|Choose the filling colour of the sigma2-sigma1 circle.
+699§Colour of the s3-s2 circle|Choose the filling colour of the sigma3-sigma2 circle.
+700§Colour of background|Choose the colour of the background of the histogram.
+701§Colour of the frame|Choose the colour of the frame of the histogram.
+702§Colour of coordinates|Choose the colour of the coordinates of the histogram.
+703§Filling colour of histogram|Choose the filling colour of the histogram.
+704§Copy Mohr diagram|Copy the Mohr diagram to the clipboard.
+705§Copy histogram|Copy the histogram to the clipboard.
+706§Save Mohr diagram|Save the Mohr diagram in a graphic file.
+707§Save histogram|Save the histogram in a graphic file.
+708§Install printer|Change the printer installations.
+709§Print Mohr diagram|Print the Mohr diagram.
+710§Print histogram|Print the histogram.
+711§Font|Choose another font.
+712§Save data|Save azimuth and angle of dip of slickenside planes and striations.
+713§Erase|Delete the clicked file from the directory.
+714§Show point as lineation|Click on a point of the diagram to show its measures as lineation.
+715§Show point as plane|Click on a point of the diagram to show its measures as plane.
+716§Draw a great circle|Draws a great circle to the clicked point.
+717§Calibrate|Adjust the size of a printed plot
+718§Undo|Erase superimposed diagram
+719§Stretch upwards|Click here to stretch the diagram towards the top.
+720§Shorten from the top|Click here to shorten the diagram from the top.
+721§Stretch to the left|Click here to stretch the diagram towards the left.
+722§Shorten from the left|Click here to shorten the diagram from the left.
+723§Stretch to the right|Click here to stretch diagram towards the right.
+724§Shorten from the right|Click here to shorten the diagram from the right.
+725§Stretch downwards|Click here to stretch the diagram towards the bottom.
+726§Shorten from the bottom|Click here to shorten the diagram from the bottom.
+727§Zoom|Adjust the superimposed diagram to size and position of the underlying diagram.
+728§Place grahic form|Set left upper corner of the graphic form.
+729§Insert text|Write a text and place it in the diagram.
+730§Undo text|Erase an inserted text from the diagram.
+731§Insert text in Mohr diagram|Write a text and place it in the diagram.
+732§Insert text in Histogram diagram|Write a text and place it in the diagram.
+733§Undo text in Mohr diagram|Erase an inserted text from the diagram.
+734§Undo text in Histogram diagram|Erase an inserted text from the diagram.
+735§Insert text in Fry diagram|Write a text and place it in the diagram.
+736§Insert text in D/Alpha diagram|Write a text and place it in the diagram.
+737§Undo text in Fry diagram|Erase an inserted text from the diagram.
+738§Undo text in D/Alpha diagram|Erase an inserted text from the diagram.
+739§Insert text in Rf/Phi diagram|Write a text and place it in the diagram.
+740§Insert text in Chi² diagram|Write a text and place it in the diagram.
+741§Undo text in Rf/Phi diagram|Erase an inserted text from the diagram.
+742§Undo text in Chi² diagram|Erase an inserted text from the diagram.
+743§Insert text in Flinn diagram|Write a text and place it in the diagram.
+744§Insert text in Hsü diagram|Write a text and place it in the diagram.
+745§Undo text in Flinn diagram|Erase an inserted text from the diagram.
+746§Undo text in Hsü diagram|Erase an inserted text from the diagram.
+747§Undo|Reconstruct original dataset.
+748§No finite longitudinal strain
+749§Colour of radii|Colour of the end points of long and short radius of the n.f.l.s. ellipse
+750§Save points|Save the coordinates of the points.
+751§Colour of points|Change the colour of the points.
+752§Colour of ellipse|Change the colour of the ellipse.
+753§Long axis|Change the long axis of the ellipse by upward or downward dragging.
+754§Short axis|Change the short axis of the ellipse by dragging to the left or right.
+755§Rotate|Rotate the ellipse around its centre.
+756§Print|Print the drawing.
+757§Load from a file|Load the coordinates of points from a file.
+758§Rotate|Rotate the reference line into a horizontal position.
+759§Reference line|Change the colour of the reference line.
+760End
+
+
+
+
+
+
+
+
+
+
+
+

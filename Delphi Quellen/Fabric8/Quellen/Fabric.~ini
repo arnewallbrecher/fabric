@@ -1,0 +1,154 @@
+Configuration File:
+Grafic
+  Background Colour        :,$00BFC2BE
+  Frame Colour             :,clRed
+  Periphery Colour         :,clBlack
+  Diagram Colour           :,clWhite
+  Colour of Data Points    :,clRed
+  Colour of Great Circles  :,clRed
+  Data Symbol              :,FilledCircle
+  Line Style               :,Solid
+  Colour of Rose Diagram   :,clRed
+Small circle filling       :,clWhite
+Paths:
+C:\Users\Eckart\Eigene Dokumente\Fabric8-Daten\
+c:\Geologische Software\Grafik
+Hemisphere                 :,LOWER
+Password                   :,N
+Language                   :,English
+Statistics
+  Confidence [%]           :,99
+  Colour of Eigenvectors   :,clRed
+  Colour of Aperture       :,clRed
+  C. of Cone of Confidence :,clLime
+  Projection               :,orthographic
+Colour of Nets             :,clBlue
+Colour of Equator          :,clRed
+Background of Diagrams     :,$00FFFF80
+Colour of Coordinates      :,clBlue
+1st Contour Line           :,$00FF8000
+2nd Contour Line           :,clYellow
+3rd Contour Line           :,clBlue
+4th Contour Line           :,clRed
+5th Contour Line           :,clFuchsia
+Colour of Upper Slip Lines :,clRed
+Colour of Lower Slip Lines :,clBlue
+Colour of Arrows           :,clRed
+Formfactor theoretical     :,clRed
+1st Contour Line           :,SOLID
+2nd Contour Line           :,SOLID
+3rd Contour Line           :,SOLID
+4th Contour Line           :,SOLID
+5th Contour Line           :,Solid
+Distance between Contours  :,MULTIPLES
+1st Contour Line x 10      :,10
+2nd Contour Line x 10      :,20
+3rd Contour Line x 10      :,40
+4th Contour Line x 10      :,60
+5th Contour Line x 10      :,120
+Counting Calotte x 10      :,10
+Multiple of Random (CLODAT):,  2.0
+Pooled Group Aperture      :,clBlue
+Pooled Group C. of Confid. :,clBlack
+Paper Plot                 :,Plotter
+Paper Size                 :,DinA4
+Format                     :,Portrait
+Colour of Periphery        :,clBlack
+Radius [mm]                :,50
+X-Coordinate of Centre [mm]:,60
+Y-Coordinate of Centre [mm]:,60
+Rose Diagram (Style)       :,Block
+Rose Diagram (Interval)    :,20
+Rose Diagram (Increment)   :,4
+Paleo-Stress Azimut Sigma1 :,219
+Paleo-Stress Dip Sigma1    :,0
+Paleo-Stress Azimut Sigma3 :,180
+Paleo-Stress Dip Sigma3    :,85
+Length of Coordinates [mm] :,100
+X-Coordin. of Origine [mm] :,20
+Y-Coordin. of Origine [mm] :,10
+Distance of Circles Deg.   :,2
+Distance of Points Deg.    :,2
+Tilt Angle Deg.            :,0
+Colour of Background       :,clSilver
+Radius of bitmap [%]       :,20
+X-Coord. bitmap centre [%] :,30
+Y-Coord. bitmap centre [%] :,30
+Colour of shearbox objects :,clRED
+Colour of sheared objects  :,clBLUE
+Colour of compression      :,clBlue
+Colour of extension        :,clRed
+Symbol of compression      :,FilledDiamond
+Symbol of extension        :,FilledCircle
+Colour of Polygons         :,clLime
+Maximum number of data     :,1000
+Calibration factor for plot:,2.38
+Screen dump calibration    :,1
+Smoothing factor           :,4
+Type of Diagram            :,floating
+Enlargement (Fry-method)   :,1
+Colour of ellipse (Fry)    :,clRed
+Colour of points (Fry)     :,clRed
+Colour of area (Fry)       :,clAqua
+Colour of sigma            :,clRed
+Colour of clicked point    :,clRed
+Colour of Fourier points   :,clRed
+Show copyright             :,NO
+  Colour of polygons       :,clAqua
+Colour of isogons          :,clRed
+Pen width (in pixel)      :,1
+1. contour line pen width  :,1
+2. contour line pen width  :,1
+3. contour line pen width  :,1
+4. contour line pen width  :,1
+5. contour line pen width  :,1
+Counting grid distance     :,12
+Colour of foto-lineations  :,clWhite
+Length of symbols (map)    :,20
+Percent (Rf/Phi)           :,10
+Colour of harmonic mean    :,clRed
+Colour of vector mean      :,clBlue
+Colour of chi-square back  :,$00FFFF80
+Colour of chi-coordinates  :,clBlue
+Colour of chi-graph        :,clRed
+Brushstyle of ellipse (Fry):,transparent
+Save Image Width (Fry-Plot):,1200
+Save Image Width (d-Theta) :,1222
+Save Image Width (Marker)  :,1400
+Save Image Width (Stereo)  :,500
+Save Image Width (Fourier) :,1222
+Save Image Width (Mohr)    :,850
+Save Image Width (TAlpha)  :,700
+Save Image Width (Shear)   :,2200
+Save Image Width (Panozzo) :,1000
+Save Image Width (Isogonen):,1000
+Save Image Width (Chi-sq.) :,1000
+Colour of ellipse (Calcul.):,clBlue
+Colour of area (Calculated):,clYellow
+Brushstyle of ellipse (Cal):,transparent
+Save Image Width (Flinn)   :,600
+Save Image Width (Hsu)     :,600
+Colour of iteration curve  :,clRed
+Font name                  :,MS Sans Serif
+Font size                  :,8
+Font colour                :,clWindowText
+Font style                 :,0
+Stress vectors             :,clRed
+Background Mohr            :,clSilver
+Frame Mohr                 :,clRed
+Coordinates Mohr           :,clBlack
+Filling Mohr s1            :,$00FFFF80
+Filling Mohr s2            :,clLime
+Filling Mohr s3            :,clYellow
+Background histogram       :,clSilver
+Frame histogram            :,clBlue
+Coordinates histogram      :,clBlue
+Filling histogram          :,clRed
+Save image width (Mohr)    :,600
+Save image width (Histo)   :,600
+Top of diagram             :,100
+Left of diagram            :,100
+Overlapping                :,50
+Symbol of radii            :,FilledTriangle
+Save Image Width (Wellman) :,600
+

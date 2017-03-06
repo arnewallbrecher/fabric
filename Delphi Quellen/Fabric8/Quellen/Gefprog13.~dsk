@@ -1,0 +1,138 @@
+[Closed Files]
+File_0=SourceModule,'C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit45.pas',0,1,325,29,342,0,0
+File_1=SourceModule,'C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit43.pas',0,1,127,27,139,1,1
+File_2=SourceModule,'C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit42.pas',0,1,76,20,88,1,1
+File_3=SourceModule,'C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit44.pas',0,1,123,27,135,1,0
+File_4=SourceModule,'C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit11.pas',0,1,514,51,518,1,0
+File_5=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit12.pas',0,1,2682,48,2696,1,0
+File_6=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit45.pas',0,1,1615,5,1624,1,0
+File_7=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit41.pas',0,1,337,50,358,1,0
+File_8=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit44.pas',0,1,216,32,230,1,0
+File_9=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit11.pas',0,1,324,23,339,1,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+
+[C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Gefprog13.dpr]
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi5\Bin\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=-6
+Top=0
+Width=1032
+Height=122
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1016
+ClientHeight=84
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=422
+ClientHeight=269
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=517
+ClientHeight=315
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=225
+Top=110
+Width=211
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=193
+ClientHeight=458
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[ModuleWindow]
+Create=1
+Visible=0
+State=0
+Left=230
+Top=166
+Width=638
+Height=355
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=622
+ClientHeight=321
+TBDockHeight=355
+LRDockWidth=638
+Dockable=1
+Column0Width=125
+Column1Width=100
+Column2Width=155
+EntryPointPane=225
+CompUnitPane=104
+
+[DockHosts]
+DockHostCount=0
+

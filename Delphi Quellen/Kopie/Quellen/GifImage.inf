@@ -1,0 +1,26 @@
+[DSP upload]
+Filename=GifImage.zip
+Replacements=GifImage.zip
+Version=2.51
+FileURL=http://www.dataweb.nl/~r.p.sterkenburg/gifimage.zip
+Description=TGifImage component with test program and accompanying  units which can read and write GIF files (including animated  Gifs) and convert from and to TBitmap (.BMP).
+Delphi 1.0=Y
+Delphi 2.0=Y
+Delphi 3.0=Y
+C++Builder 1.0=N
+File Status=Freeware
+Full Source=Included
+Category=Components Collection
+Note=
+Additional info=
+[DSP Support]
+DSP Support=Y
+[Versions available]
+Delphi 1.0=GifImage.zip
+Delphi 2.0=GifImage.zip
+Delphi 3.0=GifImgage.zip
+C++Builder 1.0=
+[Uploader]
+Author name=Reinier Sterkenburg
+Author E-mail=r.p.sterkenburg@dataweb.nl
+Author URL=http://www.dataweb.nl/~r.p.sterkenburg/index.html

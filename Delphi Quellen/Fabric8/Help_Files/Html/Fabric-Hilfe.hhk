@@ -1,0 +1,871 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Abschiebung">
+		<param name="Name" value="Abschiebung">
+		<param name="Local" value="html\Deutsch\11Abschiebung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Achse">
+		<param name="Name" value="Achse">
+		<param name="Local" value="html\Deutsch\6Achse.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="affine Deformation">
+		<param name="Name" value="affin">
+		<param name="Local" value="html\Deutsch\20Affin.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Altgrad">
+		<param name="Name" value="Altgrad">
+		<param name="Local" value="html\Deutsch\3Altgrad.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Aufschiebung">
+		<param name="Name" value="Aufschiebung">
+		<param name="Local" value="html\Deutsch\11Aufschiebung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="aus der Zwischenablage holen">
+		<param name="Name" value="Zwischenablage">
+		<param name="Local" value="html\Deutsch\3AusZwischenablage.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="aus einer Datei holen">
+		<param name="Name" value="ausDatei">
+		<param name="Local" value="html\Deutsch\5Berechnungen-di.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Belegungsdichte">
+		<param name="Name" value="Belegungsdichte">
+		<param name="Local" value="html\Deutsch\9Belegungsdichte.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="benutzerdefinierte Abstufung">
+		<param name="Name" value="benutzerdefiniert">
+		<param name="Local" value="html\Deutsch\11Benutzer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Berechnungen">
+		<param name="Name" value="Berechnung">
+		<param name="Local" value="html\Deutsch\3Berechnungen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bottsche Formel">
+		<param name="Name" value="Bottsche Formel">
+		<param name="Local" value="html\Deutsch\17BottFormel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cluster">
+		<param name="Name" value="Cluster">
+		<param name="Local" value="html\Deutsch\15Cluster.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="c-Wert">
+		<param name="Name" value="cWert">
+		<param name="Local" value="html\Deutsch\15CWert.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Darstellung">
+		<param name="Name" value="Darstellung">
+		<param name="Local" value="html\Deutsch\3Darstellung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Darstellung einer Richtungsrose">
+		<param name="Name" value="Darstellung(Rose)">
+		<param name="Local" value="html\Deutsch\7Darstellung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Dateneingabe">
+		<param name="Name" value="Eingabe">
+		<param name="Local" value="html\Deutsch\3Dateneingabe.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="dd&deg;mm.mmmm'">
+		<param name="Name" value="ddmm">
+		<param name="Local" value="html\Deutsch\26Ddmmmm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="dd&deg;mm'ss.s''">
+		<param name="Name" value="ddms">
+		<param name="Local" value="html\Deutsch\26Ddmmss.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Deutsch.txt">
+		<param name="Name" value="Deutsch">
+		<param name="Local" value="html\Deutsch\1Deutsch.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Dieder-Methode">
+		<param name="Name" value="Dieder">
+		<param name="Local" value="html\Deutsch\11Dieder.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="drehen (Falte)">
+		<param name="Name" value="drehen">
+		<param name="Local" value="html\Deutsch\12drehen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="drucke Liste">
+		<param name="Name" value="Liste">
+		<param name="Local" value="html\Deutsch\8DruckeListe.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Drucker">
+		<param name="Name" value="Drucker">
+		<param name="Local" value="html\Deutsch\3DruckerPlot.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="dxf-Datei">
+		<param name="Name" value="dxf">
+		<param name="Local" value="html\Deutsch\3DxfDatei.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Eigenwerte und Eigenvektoren">
+		<param name="Name" value="Eigenwert">
+		<param name="Local" value="html\Deutsch\8Eigenwerte.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Elliptizit&auml;t">
+		<param name="Name" value="Elliptizität">
+		<param name="Local" value="html\Deutsch\22Elliptizitaet.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Elongation">
+		<param name="Name" value="Mohr-Elongation">
+		<param name="Local" value="html\Deutsch\28Elongation.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="English.txt">
+		<param name="Name" value="Englisch">
+		<param name="Local" value="html\Deutsch\1English.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Excel-Datei">
+		<param name="Name" value="excel">
+		<param name="Local" value="html\Deutsch\64excel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Extension">
+		<param name="Name" value="Extension">
+		<param name="Local" value="html\Deutsch\3Extension.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fabric.ini">
+		<param name="Name" value="FabIni">
+		<param name="Local" value="html\Deutsch\1Fabricini.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fallazimut">
+		<param name="Name" value="Azimut">
+		<param name="Local" value="html\Deutsch\1Fallazimut.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fallwinkel">
+		<param name="Name" value="Fallen">
+		<param name="Local" value="html\Deutsch\1Fallwinkel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Faltenprofil">
+		<param name="Name" value="Faltenprofil">
+		<param name="Local" value="html\Deutsch\24Faltenprofil.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Farbe">
+		<param name="Name" value="Farbe">
+		<param name="Local" value="html\Deutsch\3Farbe.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Farbe (Richtungsrose)">
+		<param name="Name" value="Farbe (Richtungsrose)">
+		<param name="Local" value="html\Deutsch\7Farbe.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Farbe der Peripherie">
+		<param name="Name" value="Peripherie">
+		<param name="Local" value="html\Deutsch\3FarbePeripherie.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Farbe des Diagramms">
+		<param name="Name" value="FarbeDiagramm">
+		<param name="Local" value="html\Deutsch\3FarbeDiagramm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Farbe des Hintergrunds">
+		<param name="Name" value="Hintergrund">
+		<param name="Local" value="html\Deutsch\3FarbeHinter.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fisher Verteilung">
+		<param name="Name" value="FisherVerteilung">
+		<param name="Local" value="html\Deutsch\8Fisher-Verteilung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="flie&szlig;ende Abgrenzung">
+		<param name="Name" value="fließend">
+		<param name="Local" value="html\Deutsch\11SkalarGleitend.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="flie&szlig;ende Pixelgrafik">
+		<param name="Name" value="PixelFließend">
+		<param name="Local" value="html\Deutsch\11PixelGleitend.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Flie&szlig;richtung">
+		<param name="Name" value="Fliess">
+		<param name="Local" value="html\Deutsch\6Fliessrichtung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Flinn-Diagramm">
+		<param name="Name" value="Flinn-Diagramm">
+		<param name="Local" value="html\Deutsch\29Flinn.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fluktuation">
+		<param name="Local" value="html\Deutsch\99Fluktuation.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Formanalyse">
+		<param name="Name" value="Formanalyse">
+		<param name="Local" value="html\Deutsch\23Formanalyse.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Formfaktor">
+		<param name="Name" value="Formfaktor">
+		<param name="Local" value="html\Deutsch\11Formfaktor.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fotolineation">
+		<param name="Name" value="FotoLin">
+		<param name="Local" value="html\Deutsch\6Fotolineation.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fourier-Analyse">
+		<param name="Name" value="Fourier">
+		<param name="Local" value="html\Deutsch\48Fourier.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fry-Methode">
+		<param name="Name" value="Fry">
+		<param name="Local" value="html\Deutsch\65Fry.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Strain-Ellipse">
+		<param name="Local" value="html\Deutsch\104Strain-Ellipse.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="F&uuml;llung">
+		<param name="Name" value="Füllung">
+		<param name="Local" value="html\Deutsch\7Fuellung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Gauss-Kr&uuml;ger-Koordinaten">
+		<param name="Name" value="Gauss-Krueger">
+		<param name="Local" value="html\Deutsch\26GaussKrueger.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Gefuegetyp">
+		<param name="Name" value="Gefuegetyp">
+		<param name="Local" value="html\Deutsch\2Gefuegetyp.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="geographische Koordinaten">
+		<param name="Name" value="GeoKoordinaten">
+		<param name="Local" value="html\Deutsch\26GeogrKoordinaten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Gl&auml;ttungsgrad">
+		<param name="Name" value="Glättung">
+		<param name="Local" value="html\Deutsch\11Glaettung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="gleitende Klassengrenzen">
+		<param name="Name" value="gleitendeGrenzen">
+		<param name="Local" value="html\Deutsch\7Gleitend.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Grafik">
+		<param name="Name" value="Grafik">
+		<param name="Local" value="html\Deutsch\3Grafik.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Harnischfl&auml;che">
+		<param name="Name" value="Harnisch">
+		<param name="Local" value="html\Deutsch\1Harnischflaeche.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Helpengl.text">
+		<param name="Name" value="Helpengl">
+		<param name="Local" value="html\Deutsch\1Helpenglish.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hilfdeut.txt">
+		<param name="Name" value="Hilfdeut">
+		<param name="Local" value="html\Deutsch\1Hilfdeutsch.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hochwert">
+		<param name="Name" value="Hochwert">
+		<param name="Local" value="html\Deutsch\26Hochwert.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hoeppener-Diagramm">
+		<param name="Name" value="HoeppenerDiagramm">
+		<param name="Local" value="html\Deutsch\14HoeppenerDiagramm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hoeppener-Diagramm &uuml;berarbeiten">
+		<param name="Name" value="überarbeiten">
+		<param name="Local" value="html\Deutsch\14Ueberarbeiten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hs&uuml;-Diagramm">
+		<param name="Name" value="Hsü-Diagramm">
+		<param name="Local" value="html\Deutsch\29Hsue.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="in eine DXF-Datei zeichnen">
+		<param name="Name" value="dxf">
+		<param name="Local" value="html\Deutsch\3DxfDatei.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="in eine HPGL-Datei zeichnen">
+		<param name="Name" value="HPGLDatei">
+		<param name="Local" value="html\Deutsch\3Hpgl.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Inkrement">
+		<param name="Name" value="Inkrement">
+		<param name="Local" value="html\Deutsch\7Inkrement.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Intervall">
+		<param name="Name" value="Intervall">
+		<param name="Local" value="html\Deutsch\7Intervall.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Irrtumsschwelle">
+		<param name="Name" value="Irrtum">
+		<param name="Local" value="html\Deutsch\8Irrtumsschwelle.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Isogone">
+		<param name="Name" value="Isogone">
+		<param name="Local" value="html\Deutsch\18Isogonen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Isolinie">
+		<param name="Name" value="Isolinie">
+		<param name="Local" value="html\Deutsch\9Isolinien.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Kavraiskii-Projektion">
+		<param name="Name" value="Kavraiskii">
+		<param name="Local" value="html\Deutsch\3Kavraiskii.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Klassengrenzen">
+		<param name="Name" value="Klassengrenzen">
+		<param name="Local" value="html\Deutsch\7Klassengrenzen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Klassenmitten">
+		<param name="Name" value="Klassenmitten">
+		<param name="Local" value="html\Deutsch\7Klassenmitten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Konfidenz">
+		<param name="Name" value="Konfidenz">
+		<param name="Local" value="html\Deutsch\8Konfidenz.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Konturierung der Belegungsdichte">
+		<param name="Name" value="Konturierung">
+		<param name="Local" value="html\Deutsch\11Konturierung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="konventionelle Fry-Methode">
+		<param name="Name" value="konFryMethode">
+		<param name="Local" value="html\Deutsch\22FryKonventionell.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Konzentrations-Parameter">
+		<param name="Name" value="Konzentration">
+		<param name="Local" value="html\Deutsch\8Konzentrationsparameter.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="kopieren">
+		<param name="Name" value="kopieren">
+		<param name="Local" value="html\Deutsch\3Kopieren.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Kurtosis">
+		<param name="Name" value="Kurtosis">
+		<param name="Local" value="html\Deutsch\6Kurtosis.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Lambertsche Projektion">
+		<param name="Name" value="Lambert">
+		<param name="Local" value="html\Deutsch\3Lambert.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Linientyp">
+		<param name="Name" value="Linentyp">
+		<param name="Local" value="html\Deutsch\3Linientyp.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Literaturliste">
+		<param name="Name" value="Literatur">
+		<param name="Local" value="html\Deutsch\2Literatur.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Lizenz.bin">
+		<param name="Name" value="Lizenz">
+		<param name="Local" value="html\Deutsch\1Lizenz.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Lode-Parameter">
+		<param name="Name" value="Lode-Parameter">
+		<param name="Local" value="html\Deutsch\29LodeParameter.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="logarithmische Abstufung">
+		<param name="Name" value="logarithmisch">
+		<param name="Local" value="html\Deutsch\11Logarithmisch.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="manuelle Dateneingabe">
+		<param name="Name" value="Manuell">
+		<param name="Local" value="html\Deutsch\4Berechnungen-man.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="maximale Datenmenge">
+		<param name="Name" value="MaxDaten">
+		<param name="Local" value="html\Deutsch\3Maxdaten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Mellis-Methode">
+		<param name="Name" value="Mellis">
+		<param name="Local" value="html\Deutsch\11Mellis.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Mohrscher Kreis f&uuml;r finite Deformation">
+		<param name="Name" value="Mohr Kreis Deformation">
+		<param name="Local" value="html\Deutsch\28MohrDef.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Mohrscher Kreis f&uuml;r Spannungen">
+		<param name="Name" value="Mohr Kreis Spannung">
+		<param name="Local" value="html\Deutsch\28MohrSpannung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MRSS">
+		<param name="Name" value="MRSS">
+		<param name="Local" value="html\Deutsch\11MRSS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="n&auml;chste Nachbarn">
+		<param name="Name" value="Nachbarn">
+		<param name="Local" value="html\Deutsch\22Nachbar.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Nadai-Diagramm">
+		<param name="Name" value="Nadai-Diagramm">
+		<param name="Local" value="html\Deutsch\29NadaiDiagramm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Neugrad">
+		<param name="Name" value="Neugrad">
+		<param name="Local" value="html\Deutsch\3Neugrad.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="nicht affine Deformation">
+		<param name="Name" value="nichtaffin">
+		<param name="Local" value="html\Deutsch\20Nichtaffin.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Nordwert">
+		<param name="Name" value="Nordwert">
+		<param name="Local" value="html\Deutsch\26Nordwert.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Normalspannung">
+		<param name="Name" value="Normalspannung">
+		<param name="Local" value="html\Deutsch\28Normalspannung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="normierte Fry-Methode">
+		<param name="Name" value="normFryMethode">
+		<param name="Local" value="html\Deutsch\22FryNormiert.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="normierter Summenvektor">
+		<param name="Name" value="normSumme">
+		<param name="Local" value="html\Deutsch\6NormVektorsumme.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Obergruppe">
+		<param name="Name" value="Obergruppe">
+		<param name="Local" value="html\Deutsch\29Obergruppe.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Orientierungstensor">
+		<param name="Name" value="Orientierungstensor">
+		<param name="Local" value="html\Deutsch\8OrientTensor.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="orthographische Projektion">
+		<param name="Name" value="Orthographisch">
+		<param name="Local" value="html\Deutsch\3Orthografisch.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ostwert">
+		<param name="Name" value="Ostwert">
+		<param name="Local" value="html\Deutsch\26Ostwert.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pitch-Winkel">
+		<param name="Name" value="Pitch-Winkel">
+		<param name="Local" value="html\Deutsch\17Pitch.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pixelgrafik in Stufen">
+		<param name="Name" value="PixelStufen">
+		<param name="Local" value="html\Deutsch\11PixelStufen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="plt-Datei">
+		<param name="Name" value="plt">
+		<param name="Local" value="html\Deutsch\3PltDatei.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Polarit&auml;t">
+		<param name="Name" value="polar">
+		<param name="Local" value="html\Deutsch\6Polaritaet.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pole plotten">
+		<param name="Name" value="PolePlotten">
+		<param name="Local" value="html\Deutsch\3PolePlotten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Polygon-Datei">
+		<param name="Name" value="PolygonDatei">
+		<param name="Local" value="html\Deutsch\22Polygon.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Positionsdaten">
+		<param name="Name" value="Positionsdaten">
+		<param name="Local" value="html\Deutsch\26Positionsdaten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Programm">
+		<param name="Name" value="Programme">
+		<param name="Local" value="html\Deutsch\1Programme.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Projektion">
+		<param name="Name" value="Projektion">
+		<param name="Local" value="html\Deutsch\3Projektionen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Projektions-Methode">
+		<param name="Name" value="Projektions-Methode">
+		<param name="Local" value="html\Deutsch\23PanozzoProjektion.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="prozentualer Regelungsgrad">
+		<param name="Name" value="prozentualR">
+		<param name="Local" value="html\Deutsch\6ProzentRegel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="quadratische Elongation">
+		<param name="Name" value="quadratische Elongation">
+		<param name="Local" value="html\Deutsch\22QuadrElongation.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Rahmenfarbe">
+		<param name="Name" value="Rahmen">
+		<param name="Local" value="html\Deutsch\3FarbeRahmen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Rechtswert">
+		<param name="Name" value="Rechtswert">
+		<param name="Local" value="html\Deutsch\26Rechtswert.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="reine Richtungen">
+		<param name="Name" value="ReineR">
+		<param name="Local" value="html\Deutsch\6ReineRichtung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Rekonstruktion von Daten">
+		<param name="Name" value="Rekonstruktion">
+		<param name="Local" value="html\Deutsch\19Rekonstruktion.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Rf/Phi-Methode">
+		<param name="Name" value="Rf-Phi">
+		<param name="Local" value="html\Deutsch\86RfPhi.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Richtung mit Betrag">
+		<param name="Name" value="Betrag">
+		<param name="Local" value="html\Deutsch\6RichtungBetrag.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Scherspannung">
+		<param name="Name" value="Scherspannung">
+		<param name="Local" value="html\Deutsch\11Scherspannung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Scherung (einfache)">
+		<param name="Name" value="Scherung (einfache)">
+		<param name="Local" value="html\Deutsch\11Einfache_Scherung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Schiefe">
+		<param name="Name" value="Schiefe">
+		<param name="Local" value="html\Deutsch\6Schiefe.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Schwerpunktvektor">
+		<param name="Name" value="Schwerpunkt">
+		<param name="Local" value="html\Deutsch\8Schwerpunkt.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sektorgrenzen">
+		<param name="Name" value="Sektorgrenzen">
+		<param name="Local" value="html\Deutsch\7Sektorengrenzen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sektormitten">
+		<param name="Name" value="Sektormitten">
+		<param name="Local" value="html\Deutsch\7Sektorenmitten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="signifikante Trennung">
+		<param name="Name" value="Trennung">
+		<param name="Local" value="html\Deutsch\29SigTrennung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Simulation von Daten">
+		<param name="Name" value="Simulation">
+		<param name="Local" value="html\Deutsch\19Simulation.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Skalarprodukt-Methode">
+		<param name="Name" value="Skalar">
+		<param name="Local" value="html\Deutsch\11Skalarprodukt.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="speichern">
+		<param name="Name" value="speichern">
+		<param name="Local" value="html\Deutsch\3Speichern.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Speichern unter">
+		<param name="Name" value="speichernUnter">
+		<param name="Local" value="html\Deutsch\3SpeichernUnter.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="sph&auml;rische Normalverteilung">
+		<param name="Name" value="sphärVerteilung">
+		<param name="Local" value="html\Deutsch\8SphaerNormal.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="sph&auml;rischer &Ouml;ffnungsgrad">
+		<param name="Name" value="sphärischÖffnung">
+		<param name="Local" value="html\Deutsch\8SphaerOeffnung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sprachen">
+		<param name="Name" value="Sprachen">
+		<param name="Local" value="html\Deutsch\1Sprachen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="stereografische Projektion">
+		<param name="Name" value="stereographisch">
+		<param name="Local" value="html\Deutsch\3Stereografisch.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Strain-Ellipsoid">
+		<param name="Local" value="html\Deutsch\103Strain-Ellipsoid.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Streckung">
+		<param name="Name" value="Streckung">
+		<param name="Local" value="html\Deutsch\11Streckung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Streichlinie">
+		<param name="Name" value="Streichen">
+		<param name="Local" value="html\Deutsch\6Streichlinie.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Striemungs-Lineation">
+		<param name="Name" value="Striemung">
+		<param name="Local" value="html\Deutsch\1Striemung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Strukturgeologische Daten">
+		<param name="Name" value="Strukturgeologische Daten">
+		<param name="Local" value="html\Deutsch\1Strukturgeologische_Daten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="stufenf&ouml;rmige Abgrenzung">
+		<param name="Name" value="Stufen">
+		<param name="Local" value="html\Deutsch\11SkalarStufen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="summierte Strain-Ellipse">
+		<param name="Name" value="summierteStrainEllipse">
+		<param name="Local" value="html\Deutsch\23SumStrain.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Symbol">
+		<param name="Name" value="Symbol">
+		<param name="Local" value="html\Deutsch\3Symbol.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Talbot Methode">
+		<param name="Name" value="Talbot">
+		<param name="Local" value="html\Deutsch\63Talbot-plot.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Talpha'/Alpha-Methode">
+		<param name="Name" value="Talpha">
+		<param name="Local" value="html\Deutsch\52Talpha.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="TestConfig.txt">
+		<param name="Name" value="Testconfig.txt">
+		<param name="Local" value="html\Deutsch\1Testconf.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Testwinkel">
+		<param name="Name" value="Testwinkel">
+		<param name="Local" value="html\Deutsch\29Testwinkel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Trennzeichen">
+		<param name="Name" value="Trennzeichen">
+		<param name="Local" value="html\Deutsch\3Trennzeichen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="UTM-Koordinaten">
+		<param name="Name" value="UTM">
+		<param name="Local" value="html\Deutsch\26Utm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="UTM-Zone">
+		<param name="Name" value="UTMZone">
+		<param name="Local" value="html\Deutsch\26UtmZonen.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vektorgraphik">
+		<param name="Name" value="Vektorgraphik">
+		<param name="Local" value="html\Deutsch\11Vektorgrafik.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vektormittel">
+		<param name="Name" value="Vektormittel">
+		<param name="Local" value="html\Deutsch\6Vektormittel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vektorsumme">
+		<param name="Name" value="Vektorsumme">
+		<param name="Local" value="html\Deutsch\6Vektorsumme.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vergenz r&uuml;ckg&auml;ngig">
+		<param name="Name" value="Vergenzrueck">
+		<param name="Local" value="html\Deutsch\12VergenzRueck.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vertrauensintervall">
+		<param name="Name" value="VertrauenI">
+		<param name="Local" value="html\Deutsch\8Vertrauensintervall.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vertrauenskegel">
+		<param name="Name" value="Vertrauen">
+		<param name="Local" value="html\Deutsch\8Vertrauenskegel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vielfache der Gleichverteilung">
+		<param name="Name" value="Vielfache">
+		<param name="Local" value="html\Deutsch\11Vielfache.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Viertelfalte">
+		<param name="Name" value="Viertelfalte">
+		<param name="Local" value="html\Deutsch\12Viertelfalte.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vollmer-Diagramm">
+		<param name="Name" value="Vollmer">
+		<param name="Local" value="html\Deutsch\46Vollmer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="von-Mises-Verteilung">
+		<param name="Name" value="Mises">
+		<param name="Local" value="html\Deutsch\6VonMises.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Wendelinie">
+		<param name="Name" value="Wendelinie">
+		<param name="Local" value="html\Deutsch\24Wendelinie.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Wendepunkt">
+		<param name="Name" value="Wendepunkt">
+		<param name="Local" value="html\Deutsch\24Wendepunkt.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Winkelraum">
+		<param name="Name" value="Winkelraum">
+		<param name="Local" value="html\Deutsch\6Winkelraum.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="W&ouml;lbung">
+		<param name="Name" value="Kurtosis">
+		<param name="Local" value="html\Deutsch\6Kurtosis.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Woodcock-Diagramm">
+		<param name="Name" value="Woodcock">
+		<param name="Local" value="html\Deutsch\42Woodcock.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Z&auml;hlkalotte">
+		<param name="Name" value="Kalotte">
+		<param name="Local" value="html\Deutsch\11Zaehlkalotte.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Z&auml;hlnetz">
+		<param name="Name" value="Zaehlnetz">
+		<param name="Local" value="html\Deutsch\75Kalotten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="zirkulare Richtungsdaten">
+		<param name="Name" value="zirkRichtung">
+		<param name="Local" value="html\Deutsch\6ZirkulareDaten.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="zirkularer &Ouml;ffnungsgrad">
+		<param name="Name" value="zirkularÖ">
+		<param name="Local" value="html\Deutsch\8ZirkOeffnung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Zylindrizit&auml;t">
+		<param name="Name" value="Zylindrizität">
+		<param name="Local" value="html\Deutsch\8Zylindrizitaet.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>

@@ -1,0 +1,256 @@
+[Closed Files]
+File_0=SourceModule,'C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit11.pas',0,1,514,51,518,1,0
+File_1=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit11.pas',0,1,517,1,519,0,0
+File_2=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit40.pas',0,1,257,47,265,1,0
+File_3=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\HpPlot.pas',0,1,1685,41,1698,0,0
+File_4=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\DEUTSCH.txt',0,1,873,14,882,0,0
+File_5=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Units\Unit41.pas',0,1,410,28,1195,1,0
+
+[Modules]
+Module0=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit38.pas
+Module1=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit39.pas
+Module2=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit40.pas
+Module3=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit41.pas
+Module4=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Gefprog10.dpr
+Count=5
+EditWindowCount=1
+
+[C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit38.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit39.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit40.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit41.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Gefprog10.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi5\Bin\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=5
+CurrentView=3
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=282
+Top=148
+Width=1142
+Height=658
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1126
+ClientHeight=620
+LeftPanelSize=140
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=52
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=000004000000000000000000000000000000000000000000000100000000000000000B0000004D65737361676556696577FFFFFFFF
+
+[View0]
+Module=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Gefprog10.dpr
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit41.pas
+CursorX=29
+CursorY=306
+TopLine=292
+LeftCol=1
+
+[View2]
+Module=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit39.pas
+CursorX=27
+CursorY=138
+TopLine=124
+LeftCol=1
+
+[View3]
+Module=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit38.pas
+CursorX=20
+CursorY=89
+TopLine=73
+LeftCol=1
+
+[View4]
+Module=C:\Users\Eckart\Eigene Dokumente\Delphi Quellen\Fabric8\Quellen\Unit40.pas
+CursorX=27
+CursorY=141
+TopLine=136
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=2
+Top=2
+Width=1032
+Height=122
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1016
+ClientHeight=84
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=422
+ClientHeight=269
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=517
+ClientHeight=315
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=69
+Top=191
+Width=203
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=185
+ClientHeight=458
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=Caption
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[ModuleWindow]
+Create=1
+Visible=0
+State=0
+Left=230
+Top=166
+Width=638
+Height=355
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=622
+ClientHeight=321
+TBDockHeight=355
+LRDockWidth=638
+Dockable=1
+Column0Width=125
+Column1Width=100
+Column2Width=155
+EntryPointPane=225
+CompUnitPane=104
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=12
+Width=140
+Height=535
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=535
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=12
+Top=0
+Width=1114
+Height=52
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1114
+ClientHeight=52
+TBDockHeight=52
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+

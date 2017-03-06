@@ -1,0 +1,117 @@
+[Closed Files]
+File_0=SourceModule,'C:\Program Files\EHS\ehswhatsthis.pas',0,1,1,1,1,0,0
+File_1=SourceModule,'C:\Program Files\EHS\ehstcard.pas',0,1,1,1,1,0,0
+File_2=SourceModule,'C:\Program Files\EHS\ehshshtb.pas',0,1,1,33,14,0,0
+File_3=SourceModule,'C:\Program Files\EHS\ehshhapi.pas',0,1,1,1,1,0,0
+File_4=SourceModule,'C:\Program Files\EHS\ehsbase.pas',0,1,1,1,1,0,0
+File_5=SourceModule,'C:\Program Files\EHS\ehs_reg.pas',0,1,1,1,1,0,0
+File_6=SourceModule,'C:\Users\User\Documents\Delphi Quellen\Fabric7\Quellen\Version.pas',0,1,1,1,1,0,0
+File_7=SourceModule,'C:\Program Files\EHS\ehshelprouter.pas',0,1,1,1,1,0,0
+File_8=SourceModule,'C:\Program Files\EHS\Demos\GeneralDemo\Delphi\ehs_demoUnit1.dfm',0,1,1,53,5,0,0
+File_9=SourceModule,'C:\Users\User\Documents\Delphi Quellen\Fabric7\Quellen\ColorTbl.pas',0,1,36,1,1,0,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+
+[C:\Users\User\Documents\Delphi Quellen\Fabric7\Install\Install7.dpr]
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi5\Bin\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=2
+Top=2
+Width=1157
+Height=120
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1141
+ClientHeight=84
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=422
+ClientHeight=269
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=517
+ClientHeight=317
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=2
+Top=107
+Width=190
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=172
+ClientHeight=458
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[DockHosts]
+DockHostCount=0
+

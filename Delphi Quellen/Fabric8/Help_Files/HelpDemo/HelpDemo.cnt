@@ -1,0 +1,7 @@
+:BASE HelpDemo.hlp
+:TITLE All about help files in Borland Delphi - Demo application help file
+1 Demo help overview
+2 Demo main window=Mainwindow@HelpDemo.hlp
+2 Context sensitive help tab=Contexthelp@HelpDemo.hlp
+2 Help actions tab=Helpactionstab@HelpDemo.hlp
+2 Help on keywords tab=Helponkeywordstab@HelpDemo.hlp

@@ -1,0 +1,500 @@
+{\rtf1\ansi\deff0\deftab360{\fonttbl
+{\f0\fswiss MS Sans Serif;}
+{\f1\fdecor\fcharset2 Symbol;}
+{\f2\fswiss\fcharset1 Arial;}
+{\f3\fswiss\fprq2 System;}
+{\f4\fswiss\fcharset1 MS Sans Serif;}
+}
+{\colortbl
+\red0\green0\blue0;
+\red0\green0\blue255;
+}
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Mainwindow}
+{\up $}{\footnote {\up $}Demo main window}
+{\up +}{\footnote {\up +}DUMMY:1}{\up K}{\footnote {\up K}File;New;Open;Save;Close;Edit;Undo;Cut;Copy;Paste;Help;Table of contents;Search keyword index;Full text search;What's this?;Help on help;About}
+}
+\deflang1031\pard\keepn\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\plain\f2\fs28\cf1\b Demo main window
+\par \plain\f0\fs20\cf0
+\deflang1031\pard\plain\f2\fs20 This demo application illustrates several aspects of context sensitive help in a Delphi program. However, the application is a fully functional richtext editor (the text editor is hidden on the \plain\f2\fs20\i Help on keywords\plain\f2\fs20  tab to illustrate context sensitive help on keywords).
+\par 
+\par \plain\f2\fs20\b The FILE menu \plain\f2\fs20 
+\par 
+\par \pard\li2160\fi-2160\tx2160\plain\f2\fs20 {\ul New}{\v BtnNew}\tab Clears the text of the editor.
+\par {\ul Open}{\v BtnOpen}\tab Opens an RTF file and displays it.
+\par {\ul Save}{\v BtnSave}\tab Saves the content of the editor in RTF format.
+\par Close\tab Closes the application.
+\par 
+\par \plain\f2\fs20\b The EDIT menu\plain\f2\fs20 
+\par 
+\par {\ul Cut}{\v BtnCut}\tab Cuts the selected text and copies it to the clipboard.
+\par {\ul Copy}{\v BtnCopy}\tab Copies selected text to the clipboard.
+\par {\ul Paste}{\v BtnPaste}\tab Pastes text from the clipboard.
+\par {\ul Undo}{\v BtnHelpTOC}\tab Does nothing. This item is a dummy.
+\par 
+\par \plain\f2\fs20\b The HELP menu\plain\f2\fs20 
+\par 
+\par {\ul Table of contents}{\v BtnHelpTOC}\tab Displays the content of this help file.
+\par Search keyword index\tab Displays the keyword index of this help file.
+\par Full text search\tab Displays the full text search dialog box.
+\par Help on help\tab Displays help on how to use Winhelp.
+\par {\ul What's this?}{\v BtnContextHelp}\tab Starts a temporary context sensitive help mode.
+\par About\tab Displays the about box of this help file.
+\par \pard\plain\f2\fs20 
+\par 
+\par \plain\f2\fs20\b See also\plain\f2\fs20 
+\par {\uldb Context sensitive help tab}{\v Contexthelp>Main}
+\par {\uldb Help actions tab}{\v Helpactionstab>Main}
+\par {\uldb Help on keywords tab}{\v Helponkeywordstab>Main}
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Contexthelp}
+{\up $}{\footnote {\up $}Context sensitive help tab}
+{\up +}{\footnote {\up +}DUMMY:1}{\up K}{\footnote {\up K}Context sensitive help;Edit1;ComboBox1;Memo1;Listbox1;Image1;Panel1;GroupBox1;StaticText1;CheckBox1;RadioButton1;RadioButton2;Button1;SpeedButton1;Button2;Shape1}
+}
+\deflang1031\pard\keepn\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\plain\f2\fs28\cf1\b Context sensitive help tab
+\par \plain\f0\fs20\cf0
+\deflang1031\pard\plain\f2\fs20 This tab illustrates the temporary context sensitive help mode.
+\par 
+\par \plain\f2\fs20\b To start the context sensitive help mode\plain\f2\fs20 
+\par 
+\par \pard\li240\fi-240\tx240\plain\f2\fs20 1\tab Choose \plain\f2\fs20\b Help\plain\f2\fs20 , \plain\f2\fs20\b What's this?\plain\f2\fs20 
+\par \tab The cursor becomes a questionmark arrow.
+\par 
+\par 2\tab Click on any control to display it's help topic
+\par 
+\par 
+\par \plain\f2\fs20\b Controls on this page:\plain\f2\fs20 
+\par 
+\par {\ul Edit1}{\v Edit1}
+\par {\ul ComboBox1}{\v Combobox1}
+\par {\ul Memo1}{\v Memo1}
+\par {\ul Listbox1}{\v Listbox1}
+\par {\ul Image1}{\v Image1}
+\par {\ul Panel1}{\v Panel1}
+\par {\ul GroupBox1}{\v GroupBox1}
+\par {\ul StaticText1}{\v StaticText1}
+\par {\ul CheckBox1}{\v GroupBox1}
+\par {\ul RadioButton1}{\v RadioButton}
+\par {\ul RadioButton2}{\v RadioButton}
+\par {\ul Button1}{\v Button2}
+\par {\ul SpeedButton1}{\v Speedbutton1}
+\par {\ul Button2}{\v Button2}
+\par {\ul Shape1}{\v Shape1}
+\par 
+\par 
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Helpactionstab}
+{\up $}{\footnote {\up $}Help actions tab}
+{\up +}{\footnote {\up +}DUMMY:1}{\up K}{\footnote {\up K}Display the content tab;Display the find tab;Display the Full-text-search tab;Display help on help;Display a popup topic manually;Close help window if open;Move help window;Show About window}
+}
+\deflang1031\pard\keepn\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\plain\f2\fs28\cf1\b Help actions tab
+\par \plain\f0\fs20\cf0
+\deflang1031\pard\plain\f2\fs20 This tab introduces several help actions. Click on any of the links below to get a detailed description for the item.
+\par 
+\par \plain\f2\fs20\b Help commands group\plain\f2\fs20 
+\par 
+\par {\ul Display the content tab}{\v Btndisptoc}
+\par {\ul Display the find tab}{\v BtnDispFind}
+\par {\ul Display the Full-text-search tab}{\v BtnDispFTS}
+\par {\ul Display help on help}{\v BtnHelponHelp}
+\par {\ul Display a popup topic manually}{\v BtnDisplayPopup}
+\par {\ul Close help window if open}{\v BtnCloseHelp}
+\par 
+\par 
+\par \plain\f2\fs20\b Help macro examples group\plain\f2\fs20 
+\par 
+\par {\ul Move help window}{\v BtnMoveHelp}
+\par {\ul Show About window}{\v BtnAbout}
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Helponkeywordstab}
+{\up $}{\footnote {\up $}Help on keywords tab}
+{\up +}{\footnote {\up +}DUMMY:1}{\up K}{\footnote {\up K}Keywords;Richedit1;Code editor}
+}
+\deflang1031\pard\keepn\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\plain\f2\fs28\cf1\b Help on keywords tab
+\par \plain\f0\fs20\cf0
+\deflang1031\pard\plain\f2\fs20 This tab shows a programming example how to display context sensitive help on keywords. It works quite the same way as the code editor of Delphi.
+\par 
+\par The Richedit control on this page is used to hold a list of keywords. All these keywords are contained in this help file and you can display a help topic on it by positioning the cursor on the keyword and pressing F1.
+\par 
+\par If Winhelp finds an exact match of the selected keyword, it displays the appropriate help topic. Exact matches are, for example, the keywords \plain\f2\fs20\i New, Open, Save\plain\f2\fs20  and \plain\f2\fs20\i Close\plain\f2\fs20 .
+\par 
+\par If no exact match is found, Winhelp displays the keyword index instead. Non exact matches are, for example, the words \plain\f2\fs20\i Help, Index\plain\f2\fs20  or \plain\f2\fs20\i Search\plain\f2\fs20 .
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Nohelp}
+}
+\deflang1031\pard\plain\f2\fs20\b No help available...\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 We are endlessly sorry but there is no help available for this item. Please try another one.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Toolbar}
+}
+\deflang1031\pard\plain\f2\fs20\b Toolbar\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Please do not click the buttons on this toolbar - they are just dummies to illustrate context sensitive help.
+\par 
+\par Just the two help buttons have a function.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnNew}
+}
+\deflang1031\pard\plain\f2\fs20\b New\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Creates a new document.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnOpen}
+}
+\deflang1031\pard\plain\f2\fs20\b Open\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Opens an existing document.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnSave}
+}
+\deflang1031\pard\plain\f2\fs20\b Save\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Saves the current document.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnCut}
+}
+\deflang1031\pard\plain\f2\fs20\b Cut\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Cuts the selected text and copies it to the clipboard.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnCopy}
+}
+\deflang1031\pard\plain\f2\fs20\b Copy\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Copies the selected text to the clipboard.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnPaste}
+}
+\deflang1031\pard\plain\f2\fs20\b Paste\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Pastes the clipboard content into the current document at the carret position.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnUndo}
+}
+\deflang1031\pard\plain\f2\fs20\b Undo\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Reverses the last action you have made.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnContextHelp}
+}
+\deflang1031\pard\plain\f2\fs20\b Context help mode\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Toggles permanent context sensitive help mode. Press this button to turn context sensitive help on, then click on any control. To turn the help mode off, press this button again or press [ESC].
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnHelpTOC}
+}
+\deflang1031\pard\plain\f2\fs20\b Help\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Displays an overview of help topics.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Edit1}
+}
+\deflang1031\pard\plain\f2\fs20\b Edit1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for the control Edit1 goes here...
+\par 
+\par You can either click on the control or on the accompanying label to display this help topic.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Memo1}
+}
+\deflang1031\pard\plain\f2\fs20\b Memo1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for the control Memo1 goes here...
+\par 
+\par You can either click on the control or on the accompanying label to display this help topic.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Image1}
+}
+\deflang1031\pard\plain\f2\fs20\b Image1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 This is Andie MacDowell.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Combobox1}
+}
+\deflang1031\pard\plain\f2\fs20\b Combobox1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for Combobox1 goes here...
+\par 
+\par You can either click on the control or on the accompanying label to display this help topic.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Listbox1}
+}
+\deflang1031\pard\plain\f2\fs20\b Listbox1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for Listbox1 goes here...
+\par 
+\par You can either click on the control or on the accompanying label to display this help topic.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}StaticText1}
+}
+\deflang1031\pard\plain\f2\fs20\b StaticText1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 TStaticText, in opposite to TLabel, is a descendant of TWinControl. That's why this control has a help context number while TLabels do not.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Shape1}
+}
+\deflang1031\pard\plain\f2\fs20\b Shape1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 The Tag property of Shape1 is used as the help context number.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Button1}
+}
+\deflang1031\pard\plain\f2\fs20\b Button1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for Button1 goes here...
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Speedbutton1}
+}
+\deflang1031\pard\plain\f2\fs20\b SpeedButton1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for SpeedButton1 goes here...
+\par 
+\par Like the buttons on the toolbar, this demo application uses the Tag property of the speedbutton as the help context number.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Button2}
+}
+\deflang1031\pard\plain\f2\fs20\b Button2\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Button2 has it's own popup menu. That's why the right-click "What's this?" help must not work in this case. You could add an etxra "What's this?" item to the popup menu for Button2 to enable this feature though.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}GroupBox1}
+}
+\deflang1031\pard\plain\f2\fs20\b GroupBox1 + CheckBox1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for GroupBox1. This topic is also inherited by CheckBox1, because CheckBox1 has no help context number assigned.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}RadioButton}
+}
+\deflang1031\pard\plain\f2\fs20\b RadionButton 1 + 2\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Choose RadioButton1 to select the first option, choose RadioButton2 to select the second option.
+\par 
+\par \plain\f2\fs20\b Note\plain\f2\fs20 
+\par All controls on this tab are dummies, just to illustrate context sensitive help.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Panel1}
+}
+\deflang1031\pard\plain\f2\fs20\b Panel1\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Context sensitive help for Panel1.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}GbCommands}
+}
+\deflang1031\pard\plain\f2\fs20\b Help commands\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 This group contains buttons that illustrate several help commands.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}Btndisptoc}
+}
+\deflang1031\pard\plain\f2\fs20\b Display the Content tab\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Click here to display the table of contents of this demo help file.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnDispFind}
+}
+\deflang1031\pard\plain\f2\fs20\b Display the Find tab\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Click here to display the Find tab to search for keywords.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnDispFTS}
+}
+\deflang1031\pard\plain\f2\fs20\b Display the Full-text-search tab\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Click here to execute a full-text search on this demo help file.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnCloseHelp}
+}
+\deflang1031\pard\plain\f2\fs20\b Close help window if open\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 This command closes the active help window, if it is open. If not help window is currently displayed, the command has no function.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnHelponHelp}
+}
+\deflang1031\pard\plain\f2\fs20\b Help on help\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Displays help on how to use help.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnDisplayPopup}
+}
+\deflang1031\pard\plain\f2\fs20\b Display a popup topic\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Displays a popup topic manually at the position of this button.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}GbMacros}
+}
+\deflang1031\pard\plain\f2\fs20\b Help macro examples\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 This group contains buttons that illustrate the use of help macros.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnMoveHelp}
+}
+\deflang1031\pard\plain\f2\fs20\b Move help window\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 This macro example shows how to move a help window that is open. When you click this button, the help window is resized to cover the upper-left quarter of the screen.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnAbout}
+}
+\deflang1031\pard\plain\f2\fs20\b Display About box\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Displays the About box of the applications help file. The About box contains the Winhelp version number, the title of the help file and the copyright statement.
+\par\pard
+
+{\page}
+
+{\pard\plain\f0\fs20
+{\up #}{\footnote {\up #}BtnResetRichedit}
+}
+\deflang1031\pard\plain\f2\fs20\b Reset richedit content\plain\lang1033\f2\fs16\b 
+\par \plain\lang1033\f2\fs8  \plain\lang1033\f2\fs24 
+\par \plain\f2\fs20 Resets the content of the richedit to its initial value. The initial value is a list of keywords contained in this help file. To get help on any keyword, place the cursor in the keyword, then press \plain\f2\fs20\b F1\plain\f2\fs20 .
+\par\pard
+}

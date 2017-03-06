@@ -1,0 +1,105 @@
+Configuration File:
+Grafic
+  Background Colour        :,$00FF8080
+  Frame Colour             :,clBlack
+  Periphery Colour         :,clWhite
+  Diagram Colour           :,$00FFFF80
+  Colour of Data Points    :,clRed
+  Colour of Great Circles  :,clRed
+  Data Symbol              :,FilledCircle
+  Line Style               :,Solid
+  Colour of Rose Diagram   :,clRed
+2nd Diskette               :,e:
+Paths:
+C:\Dokumente und Einstellungen\Eckart Wallbrecher\Eigene Dateien\Fabric7-Daten\
+d:\Eigene Dateien auf D\Gefuege7-Grafik
+Hemisphere                 :,LOWER
+Password                   :,N
+Language                   :,English
+Statistics
+  Confidence [%]           :,99
+  Colour of Eigenvectors   :,clRed
+  Colour of Aperture       :,clRed
+  C. of Cone of Confidence :,clGreen
+  Projection               :,Lambert
+Colour of Nets             :,clBlue
+Colour of Equator          :,clRed
+Background of Diagrams     :,clWhite
+Colour of Coordinates      :,clBlue
+1st Contour Line           :,clYellow
+2nd Contour Line           :,clLime
+3rd Contour Line           :,clBlue
+4th Contour Line           :,clRed
+5th Contour Line           :,clBlack
+Colour of Upper Slip Lines :,clRed
+Colour of Lower Slip Lines :,clBlue
+Colour of Arrows           :,clRed
+Formfactor theoretical     :,clBlue
+1st Contour Line           :,SOLID
+2nd Contour Line           :,SOLID
+3rd Contour Line           :,SOLID
+4th Contour Line           :,SOLID
+5th Contour Line           :,SOLID
+Distance between Contours  :,MULTIPLES
+1st Contour Line x 10      :,10
+2nd Contour Line x 10      :,20
+3rd Contour Line x 10      :,40
+4th Contour Line x 10      :,60
+5th Contour Line x 10      :,120
+Counting Calotte x 10      :,10
+Multiple of Random (CLODAT):,  6.0
+Pooled Group Aperture      :,clBlue
+Pooled Group C. of Confid. :,clBlack
+Paper Plot                 :,HPGL
+Paper Size                 :,DinA4
+Format                     :,Portrait
+Colour of Periphery        :,clWhite
+Radius [mm]                :,80
+X-Coordinate of Centre [mm]:,100
+Y-Coordinate of Centre [mm]:,80
+Rose Diagram (Style)       :,floating
+Rose Diagram (Interval)    :,20
+Rose Diagram (Increment)   :,4
+Paleo-Stress Azimut Sigma1 :,120
+Paleo-Stress Dip Sigma1    :,30
+Paleo-Stress Azimut Sigma3 :,225
+Paleo-Stress Dip Sigma3    :,25
+Length of Coordinates [mm] :,200
+X-Coordin. of Origine [mm] :,20
+Y-Coordin. of Origine [mm] :,100
+Distance of Circles Deg.   :,2
+Distance of Points Deg.    :,2
+Tilt Angle Deg.            :,90
+Colour of Background       :,clWhite
+Radius of bitmap [%]       :,20
+X-Coord. bitmap centre [%] :,30
+Y-Coord. bitmap centre [%] :,30
+Colour of shearbox objects :,clRED
+Colour of sheared objects  :,clBLUE
+Colour of compression      :,clRED
+Colour of extension        :,clBLACK
+Symbol of compression      :,FilledCircle
+Symbol of extension        :,FilledCircle
+Colour of Polygons         :,clRed
+Maximum number of data     :,2000
+Calibration factor for plot:,1.4184
+Screen dump calibration    :,1
+Smoothing factor           :,4
+Type of Diagram            :,floating
+Enlargement (Fry-method)   :,1
+Colour of ellipse (Fry)    :,clBlue
+Colour of points (Fry)     :,clRed
+Colour of area (Fry)       :,clAqua
+Colour of sigma            :,$00400040
+Colour of clicked point    :,clBlue
+Colour of Fourier points   :,clRed
+Show copyright             :,NO
+Colour of polygons         :,$00FF8080
+Colour of isogons          :,clRed
+Pen width (in pixel)       :,1
+1. contour line pen width  :,1
+2. contour line pen width  :,2
+3. contour line pen width  :,1
+4. contour line pen width  :,2
+5. contour line pen width  :,1
+

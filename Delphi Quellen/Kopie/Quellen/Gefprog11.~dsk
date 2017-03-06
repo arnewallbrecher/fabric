@@ -1,0 +1,119 @@
+[Closed Files]
+File_0=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Gefprog11.dpr',0,1,1,1,1,0,0
+File_1=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit29.pas',0,1,2571,1,2579,0,0
+File_2=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Kopie\Quellen\Unit26.pas',0,1,106,1,118,0,0
+File_3=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Kopie\Quellen\Unit2.pas',0,1,148,1,1,0,0
+File_4=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Kopie\Quellen\Haupt.pas',0,1,58,1,1,0,0
+File_5=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\TESTCONF.txt',0,1,91,1,100,0,0
+File_6=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Fabric.ini',0,1,88,25,99,0,0
+File_7=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit94.pas',0,1,1110,1,1119,1,1
+File_8=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit28.pas',0,17,404,64,419,1,0
+File_9=SourceModule,'D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Quellen\Unit27.pas',0,17,947,66,962,1,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+
+[C:\Programme\Borland\Delphi5\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Kopie\Quellen\Gefprog11.dpr]
+FormState=0
+FormOnTop=0
+SymbolFile=D:\Eigene Dateien auf D\Delphi Quellen\Fabric8\Kopie\Quellen\Gefprog11.dsm
+ModSinceCompile=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=4
+Top=2
+Width=1034
+Height=105
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1026
+ClientHeight=78
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=525
+ClientHeight=326
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=2
+Top=107
+Width=190
+Height=494
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=180
+ClientHeight=468
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=Legacy
+ShowStatusBar=1
+
+[DockHosts]
+DockHostCount=0
+

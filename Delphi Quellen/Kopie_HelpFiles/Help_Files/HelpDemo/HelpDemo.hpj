@@ -1,0 +1,55 @@
+[OPTIONS]
+HCW=0
+COMPRESS=12 Hall Zeck
+CONTENTS=Mainwindow
+TITLE=All about help files in Borland Delphi - Demo application help file
+COPYRIGHT=All about help files in Borland Delphi - Demo application help file  © 2000 Alexander Halser. All rights reserved.
+DEFFONT=MS Sans Serif,8,0
+CHARSET=1
+LCID=0x0409
+FTS=1
+CNT=.\HelpDemo.cnt
+HLP=.\HelpDemo.hlp
+[FILES]
+.\HelpDemo.rtf
+[WINDOWS]
+Main="All about help files in Borland Delphi",(408,1,613,976),28420,(255,255,255),(192,192,192),f2
+[MAP]
+Contexthelp=2000
+Helpactionstab=3000
+Helponkeywordstab=4000
+Nohelp=1000
+Toolbar=1010
+BtnNew=1020
+BtnOpen=1030
+BtnSave=1040
+BtnCut=1050
+BtnCopy=1060
+BtnPaste=1070
+BtnUndo=1080
+BtnContextHelp=1090
+BtnHelpTOC=1100
+Edit1=2010
+Memo1=2020
+Image1=2030
+Combobox1=2040
+Listbox1=2050
+StaticText1=2060
+Shape1=2070
+Button1=2080
+Speedbutton1=2090
+Button2=2100
+GroupBox1=2110
+RadioButton=2120
+Panel1=2130
+GbCommands=3070
+Btndisptoc=3010
+BtnDispFind=3020
+BtnDispFTS=3030
+BtnCloseHelp=3040
+BtnHelponHelp=3050
+BtnDisplayPopup=3060
+GbMacros=3080
+BtnMoveHelp=3090
+BtnAbout=3100
+BtnResetRichedit=4010

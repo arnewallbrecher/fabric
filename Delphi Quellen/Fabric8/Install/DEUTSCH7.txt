@@ -1,0 +1,994 @@
+1§Datei Fabric7.ini nicht gefunden
+2§Ein Programm-Paket
+3§zur Darstellung
+4§und Analyse
+5§tektonischer Daten
+6§Passwort eingeben:
+7§BERECHNUNG von Winkeln, Schnittkanten, Flächen, Normalen etc.
+8§ROTATION von Richtungsdaten um eine beliebige Achse
+9§Plotten von DATEN in verschiedenen Projektionen
+10§Plotten von GROSSKREISEn in verschiedenen Projektionen
+11§Plotten von KLEINKREISEn in verschiedenen Projektionen
+12§Statistische MASSZAHLEN zirkularer Verteilungen
+13§Plotten einer RICHTUNGSROSE
+14§GEFUEGE  Statistische Maßzahlen und Plot tektonischer Daten
+15§ISO1  Isolinien-Darstellung von Verteilungen von Richtungsdaten
+16§CLODAT  Signifikante Trennung von Submaxima
+17§Orientierung eines PALÄO-SPANNUNGs-Ellipsoides Dieder-Methode
+18§Plot von HARNISCH-Flächen und Striemungslinearen
+19§Plot eines HOEPPENER-Diagramms
+20§Bestimmung des Formfaktors eines Paläostress-Ellipsoides
+21§Plot von verschiedenen Lagekugel-PROJEKTIONEN
+22§Plot eines R%-G%-DIAGRAMMES
+23§Plot eines WOODCOCK-DIAGRAMMES        
+24§Plotten eines VOLLMER-Diagrammes
+25§Fourier-Analyse von Faltenformen
+26§Faltenklassifizierung mit der T'alpha/Alpha-Methode
+27§Ende von Fabric7
+28§Ende
+29§nicht gefunden
+30§&zurück
+31§                                                        
+32§ Alle Rechte an diesem Programm liegen bei den Autoren. 
+33§ Das Programm darf daher weder weitergegeben noch       
+34§ kopiert werden.                                        
+35§                                                        
+36§ Die Autoren sind dankbar für Hinweise auf eventuelle   
+37§ Fehler.                                                
+38§ Adresse: Dr. Eckart Wallbrecher & Dr. Wolfgang Unzog   
+39§          A-8010 Graz                                   
+40§          Paracelsusgasse 59                            
+41§                                                        
+42§                                                  
+43§ Dies Programm wurde ohne Genehmigung der Autoren 
+44§ kopiert. Es kann daher nicht laufen.             
+45§ Tut uns leid.                                    
+46§                                                  
+47§ Die Autoren                                      
+48§                                                  
+49§Installieren Sie Fabric7 neu
+50§zurück zu Windows
+51§Fabric7
+52§Fabric7: Unterprogramm auswählen
+53§&beenden
+54§Fabric7: Berechnungen von Winkeln, Schnittkanten und Normalen
+55§&Dateneingabe
+56§&manuell
+57§von der &Festplatte
+58§von Diskette &A:
+59§von &Diskette B:
+60§von der Daten&bank
+61§Berechnungen
+62§&Schnittkante von 2 Flächen
+63§&Winkel zwischen 2 Flächen
+64§Winkel zwischen 2 &Linearen
+65§&Fläche aus 2 Linearen
+66§&Normale auf 2 Lineare
+67§&Winkel
+68§in &Altgrad
+69§in &Neugrad
+70§Berechnung des Winkels zwischen zwei Flächen
+71§oder zwischen zwei Linearen, der Schnittkante
+72§zweier Flächen, einer Fläche aus zwei Linearen
+73§oder der Normalen auf zwei Lineare
+74§Autor: Eckart Wallbrecher
+75§Folgende Einstellungen sind gültig:
+76§&weiter
+77§Dateneingabe:
+78§von der Festplatte
+79§Berechnung:
+80§Winkel zwischen 2 Flächen
+81§Winkel:
+82§in Altgrad
+83§von &Diskette 
+84§in Neugrad
+85§Fabric7: Berechnungen, manuelle Dateneingabe
+86§&Daten speichern
+87§auf der &Festplatte
+88§auf Diskette &A:
+89§auf der &2. Diskette
+90§&beenden
+91§&Ergebnisse speichern
+92§&Drucker
+93§&drucken
+94§Drucker &einrichten
+95§Messungen als Fallazimut
+96§und Fallwinkel eingeben.
+97§Eingabe mit 'Enter' fort-
+98§setzen. Korrektur mit der
+99§Tabulator-Taste.
+100§ 1. Fläche     2. Fläche     Schnittkante
+101§Daten
+102§Dateneingabe:
+103§1. Messung:
+104§2. Messung:
+105§Eingabe OK
+106§&Eingabe beenden
+107§Fabric7: Berechnungen (Dateneingabe von Diskette)
+108§  1. Fläche        2. Fläche    Schnittkante 
+109§1. Fläche : 
+110§2. Fläche : 
+111§  1. Fläche        2. Fläche       Winkel    
+112§  1. Linear        2. Linear       Winkel    
+113§1. Linear : 
+114§2. Linear : 
+115§  1. Linear        2. Linear         Fläche    
+116§  1. Linear        2. Linear         Normale   
+117§Daten können jetzt gespeichert und/oder gedruckt werden
+118§Daten werden gespeichert
+119§Daten-Diskette
+120§ in Laufwerk 
+121§ einlegen, 
+122§Diskette ist schreibgeschützt!     
+123§Schreibschutz entfernen            
+124§oder eine andere Diskette einlegen,
+125§Keine Diskette im Laufwerk,          
+126§Diskette defekt                      
+127§oder Laufwerk nicht verriegelt       
+128§Fehler beheben und eine Taste drücken
+129§Namen der Speicher-Datei eingeben:
+130§Die Extension 
+131§ wird automatisch angehängt
+132§ Dieser Suchweg existiert nicht!  
+133§ Kontrollieren Sie in Fabric7.ini 
+134§ den Pfad für das Daten-Directory 
+135§Eingabe fehlerhaft
+136§ausgewählte Dateien:
+137§Dateien auswählen:
+138§Anzahl:
+139§&berechnen
+140§ Keine Datei vorhanden 
+141§Schnittkante von zwei Flächen
+142§1. Fläche:          2. Fläche:          Schnittkante:
+143§         __________          __________          _____________
+144§Winkel zwischen zwei Flächen
+145§         1. Fläche:          2. Fläche:              Winkel:
+146§         ________          ________              ______
+147§Winkel zwischen zwei Linearen
+148§1. Linear:          2. Linear:              Winkel:
+149§         ________          ________             ______
+150§Fläche aus zwei Linearen
+151§1. Linear:          2. Linear:               Fläche:
+152§         ________         ________              ______
+153§Normale auf zwei Linearen
+154§1. Linear:          2. Linear:              Normale:
+155§         ________          ________             ________
+156§Fabric7: Rotationen
+157§&Gefügetyp
+158§&Lineare
+159§&Flächen
+160§U-Tisch-&Achsen
+161§U-Tisch-&Pole
+162§&Hilfe
+163§Rotation von Orientierungsdaten
+164§um eine beliebige Achse
+165§Gefügetyp:
+166§auf &Diskette 
+167§manuell
+168§von Diskette A:
+169§Lineare
+170§Flächen
+171§U-Tisch-Achsen
+172§U-Tisch-Pole
+173§Fabric7: Rotationen (manuelle Dateneingabe)
+174§&rotierteDaten speichern
+175§Rotationsachse als Fallazimut/
+176§Fallwinkel eingeben.
+177§Rotationswinkel im Uhrzeigersinn eingeben
+178§Kippwinkel nach N oder W negativ!
+179§Rotationsachse:
+180§Rotationswinkel:
+181§Anzahl der Daten:
+182§&Dateneingabe beenden
+183§Daten:
+184§rotierte Daten:
+185§Lineare
+186§Flächen
+187§U-Tisch-Achsen
+188§U-Tisch-Pole
+189§Rotation von Richtungsdaten
+190§Tag der Bearbeitung: 
+191§Jan.
+192§Feb.
+193§März
+194§April
+195§Mai
+196§Juni
+197§Juli
+198§Aug.
+199§Sept.
+200§Okt.
+201§Nov.
+202§Dez.
+203§Montag
+204§Dienstag
+205§Mittwoch
+206§Donnerstag
+207§Freitag
+208§Sonnabend
+209§Sonntag
+210§  Zeit: 
+211§Datei :
+212§Daten sind 
+213§Rotationsachse = 
+214§Rotationswinkel = 
+215§ Daten werden gespeichert 
+216§EINGABE FEHLERHAFT !
+217§Fabric7: Rotationen (Dateneingabe von Datenträger
+218§  Daten:           rotierte Daten:
+219§Azimut
+220§Einfallen
+221§Rotationswinkel:
+222§Anzahl:
+223§Keine Daten gefunden
+224§ Falscher Wert 
+225§ Korrigieren Sie diesen Wert in der 
+226§ Datei 
+227§Fabric7: Plotten von Daten in ein Projektionsnetz
+228§Plot von Linearen oder Flächenpolen
+229§in verschiedenen Projektionen
+230§ 
+231§Fabric7: Plotten von Großkreisen
+232§             Plot von Großkreisen             
+233§von &Diskette 
+234§Hilfe noch nicht installiert
+235§Fabric7: Plot von Linearen oder Flächen, Eingabe manuell
+236§Fabric7: Plot von Großkreisen, Eingabe manuell
+237§Fabric7: statistische Maßzahlen, Eingabe manuell
+238§Fabric7: Darstellung von Richtungsdaten mit Isolinien, Eingabe manuell
+239§Daten als Fallazimut/Fallwinkel eingeben.
+240§Fabric7: Cluster von Richtungsdaten, Eingabe manuell
+241§&plotten
+242§auf &Diskette
+243§Kein Wert eingegeben
+244§Plotten von Linearen oder Flächen, Eingabe von Diskette
+245§Fabric7: Plotten von Großkreisen, Eingabe von Diskette
+246§Fabric7: statistische Maßzahlen, Eingabe von Diskette
+247§Fabric7: Isolinien-Plot, Eingabe von Diskette
+248§&Auswahl OK
+249§Berechnung der statistischen Parameter
+250§           von Gefügedaten
+251§Plot von tektonischen Daten
+252§Plot von Großkreisen
+253§      Cluster von Richtungsdaten
+254§          Plot von Isolinien
+255§Berechnung der Richtungen der Hauptnormalspannungen 
+256§Dateiname :
+257§Fabric7: Plotten von Richtungsdaten, Grafik
+258§&Projektion
+259§&Lambert
+260§&stereografisch
+261§&Darstellung
+262§&Kreis offen
+263§Kreis &gefüllt
+264§&Dreieck offen
+265§D&reieck gefüllt
+266§&Quadrat offen
+267§Q&uadrat gefüllt
+268§&Raute offen
+269§R&aute gefüllt
+270§&Pole (Achsen) plotten
+271§&durchgezogene Linien
+272§ge&strichelte Linien
+273§ge&punkteteLinien
+274§&strichpunktierte Linien
+275§&Farbe
+276§&Schwarz
+277§&Blau
+278§&Grün
+279§&Rot
+280§&Violett
+281§&Grafik
+282§&kopieren
+283§&ausschneiden
+284§&speichern
+285§speichern &unter
+286§aus der &Zwischenablage holen
+287§aus einer &Datei holen
+288§mit dem &Drucker plotten
+289§in eine HPGL-&Datei zeichnen
+290§in eine D&XF-Datei zeichnen
+291§Größe
+292§&Hochformat
+293§&Querformat
+294§Farbe der &Objekte
+295§Größe, Format, Farbe und Peripherie eingeben!
+296§Anzahl der Daten:
+297§plotten:
+298§Plotdatei erstellen
+299§Radius [mm]:
+300§Mittelpunkt [mm]:
+301§X-Koordinate:
+302§Y-Koordinate:
+303§Koordinaten OK?
+304§Plotten von Großkreisen: Grafik
+305§Plotten von Kleinkreisen: Grafik
+306§Die Zwischenablage enthält keine Grafik!
+307§Datei nicht gefunden
+308§Radius zu groß 
+309§X-Koordinate zu groß
+310§Y-Koordinate zu groß
+311§Plot der Großkreise
+312§Plot der Kleinkreise
+313§Fabric7: Kleinkreise
+314§Plot von Kleinkreisen
+315§Fabric7: Kleinkreise, Dateneingabe manuell
+316§Achse als Fallazimut / Fallwinkel
+317§eingeben
+318§Achse:      Öffnungswinkel:
+319§Achse:
+320§Öffnungswinkel:
+321§Fabric7: Statistische Maßzahlen zirkularer Verteilungen
+322§Berechnung
+323§der statistischen Maßzahlen
+324§zirkularer Verteilungen
+325§&Daten
+326§reine &Richtungen
+327§Richtungen mit &Beträgen
+328§&Bereich
+329§&Halbkreis (1..180)
+330§&Vollkreis (1..360)
+331§Daten:
+332§Bereich:
+333§Fabric7: Plotten einer Richtungsrose
+334§     Plotten
+335§einer Richtungsrose
+336§ zirkular verteilter Daten
+337§reine Richtungen
+338§Richtungen u. Beträge
+339§Altgrad
+340§Neugrad
+341§Halbkreis
+342§Vollkreis
+343§Fabric7: statistische Maßzahlen zirkularer Daten, Eingabe von Diskette
+344§Daten als Azimut eingeben.
+345§Daten als ganze Zahlen eingeben.
+346§Richtung:          Betrag:
+347§Richtung:
+348§Betrag:
+349§Maßzahlen
+350§auf Diskette 
+351§  Statistische Masszahlen zirkularverteilter Daten
+352§Anzahl                     = 
+353§Vektorsumme                = 
+354§normierter Summenvektor    = 
+355§prozentualer Regelungsgrad = 
+356§Vektormittel               = 
+357§Schiefe                    = 
+358§Kurtosis                   = 
+359§Lineare
+360§Flächen
+361§U-Tisch-Achsen
+362§U-Tisch-Pole
+363§Altgrad
+364§Neugrad
+365§Die Probe liegt im Cluster-Feld
+366§Die Probe Liegt im Gürtel-Feld
+367§Isolinien:
+368§Größe, Format und Farben eingeben
+369§Plot der Isolinien
+370§Trennung signifikant
+371§nicht signifikant
+372§getrennte Gruppen:
+373§Obergruppen:
+374§ in Clustern
+375§Fabric7: Harnische und Striemungslineare, manuelle Eingabe
+376§Fabric7: Hoeppener-Diagramm, manuelle Eingabe
+377§ Berechnung der Richtungen der Hauptnormalspannungen 
+378§Farben der Isolinien und die Größe der Zählkalotte wählen!
+379§Sliplines können durch Überschreiben
+380§der Eingaben verändert werden
+381§Daten, die nicht in diese Sliplines passen,
+382§können durch Doppelclick aus der Grafik
+383§entfernt werden
+384§ Plot von Harnischflächen 
+385§theoretisch:
+386§gemessen:
+387§Diagramm zu lang
+388§PLot der Eigenwerte
+389§Winkel:
+390§Plot der Projektion
+391§Dateneingabe
+392§Kreis, offen    
+393§Kreis, gefüllt  
+394§Quadrat, offen  
+395§Quadrat, gefüllt
+396§Dreieck, offen  
+397§Dreieck, gefüllt
+398§Raute, offen    
+399§Raute, gefüllt  
+400§Größe und Farben eingeben
+401§Farben eingeben
+402§Achsen zu groß 
+403§Nullpunkt zu weit nach rechts
+404§Nullpunkt zu hoch
+405§Eingabe ist falsch
+406§WOODCOCK-Diagramm
+407§VOLLMER-Diagramm
+408§ Diagramme
+409§   Eigenwert 1      Eigenwert 2      Eigenwert 3      c-Wert
+410§Plot des WOODCOCK-Diagrammes
+411§Plot des Vollmer-Diagrammes
+412§Fehler in der Datei Fabric7.ini, Zeile 
+413§muß lauten
+414§Korrigieren Sie Zeile 
+415§ mit einem Texteditor 
+416§Drucker einschalten,
+417§Rotierte Daten:
+418§Talpha/Alpha-Methode nach Ramsey (1967)
+419§Datei:
+420§Falten
+421§Falte
+422§Scheitelabstand:
+423§Isogone     Isogonenabstand     Tà/T0
+424§FEHLER: 1. Zeichen unzulässig
+425§Richtungen
+426§Fourier-Analyse von Faltenformen
+427§'Vergenz          1.Punkt               
+428§2.Punkt               3.Punkt              b1          b3
+429§            b5
+430§Gefuege 7
+431§ Plotter einschalten,    
+432§ Papier einlegen,        
+433§ dann eine Taste drücken 
+434§fertig?
+435§Plot beendet
+436§Zeichnen des Diagrammes auf dem Plotter
+437§Die Plot-Datei '
+438§' wird erstellt
+439§Diagramm-Beschriftung eingeben:
+440§ Daten
+441§Daten
+442§Plot-Symbol
+443§Geben Sie ein einziges Zeichen ein
+444§Plot des Teilgroßkreises
+445§Die Zahl der Isolinien ist zu groß
+446§Kein Ergebnis bei 
+447§ Iterationen
+448§ R%-G%-Diagramm
+449§Diagramme
+450§PLot des Fourier-Diagrams
+451§PLot der Falten
+452§Wählen Sie die Anwendung, mit der Sie arbeiten wollen:
+453§Daten als Fallazimut / Fallwinkel eingeben.
+454§Fabric7: Plotten von Daten in ein Projektionsnetz
+455§Fabric7: Cluster von Richtungsdaten, Eingabe von Datenträger
+456§Fabric7: Kleinkreise, Dateneingabe manuell
+457§Fabric7: Maßzahlen zirkularer Verteilungen, Ergebnisse
+458§Dateien:
+459§Winkelraum:
+460§Anzahl
+461§Vektorsumme
+462§normierter Summenvektor
+463§prozentualer Regelungsgrad
+464§Vektormittel
+465§Schiefe
+466§Kurtosis
+467§Fabric7: statistische Maßzahlen zirkularer Verteilungen, Eingabe von Datenträg
+468§Maßzahlen
+469§&plotten
+470§Fabric7: Plotten von Richtungsrosen
+471§&Darstellung
+472§mit &Sektorengrenzen
+473§mit Sektoren&mitten
+474§&gleitend
+475§&Füllung
+476§&nicht gefüllt
+477§&gefüllt
+478§&Farbe
+479§&Schwarz
+480§&Blau
+481§&Grün
+482§&Rot
+483§&Violett
+484§&Grafik
+485§&kopieren
+486§ausschneiden
+487§&speichern
+488§speichern &unter
+489§aus &Zwischenablage holen
+490§aus &Datei holen
+491§auf dem &Hp-Plotter plotten
+492§in eine H&PGL-Datei zeichnen
+493§in eine D&XF-Datei zeichnen
+494§&Größe
+495§&Format
+496§&Hochformat
+497§&Querformat
+498§Farbe der &Peripherie
+499§Farbe der &Objekte
+500§Intervall:
+501§Inkrement:
+502§Plotten:
+503§Fabric7: statistische Maßzahlen von Richtungsdaten
+504§&Dateneingabe
+505§Berechnung und Plot
+506§von Richtungsdaten
+507§Fabric7: Berechnung und Plot der statistischen Maßzahlen von Richtungsdaten
+508§&Konfidenz
+509§9&0 Prozent
+510§9&5 Prozent
+511§9&9 Prozent
+512§&Farbe Daten
+513§Farbe &Eigenvektoren
+514§Farbe &Öffnungsgrad
+515§Farbe &Vertrauenskegel
+516§&Darstellung Daten
+517§&Kreis, offen
+518§Kreis, &gefüllt
+519§&Quadrat, offen
+520§Q&uadrat, gefüllt
+521§&Dreieck, offen
+522§D&reieck, gefüllt
+523§&Raute, offen
+524§R&aute, gefüllt
+525§&Linien
+526§&durchgezogen
+527§&gestrichelt
+528§&strichpunktiert
+529§Farbe der Daten&punkte
+530§Farbe der &Eigenvektoren
+531§Farbe des &Öffnungsgrades
+532§Farbe des &Vertrauenskegels
+533§Anzahl der Daten                =
+534§Regelungsgrad                    =
+535§Konzentrations-Parameter  =
+536§Vertrauenskegel                   =
+537§sphärischer Öffnungsgrad  =
+538§Schwerpunktvektor              =
+539§Eigenwerte:
+540§Eigenvektoren:
+541§Zylindrizität                   =
+542§zirkularer Öffnungsgrad =
+543§Die Probe liegt im Gürtelfeld
+544§Fabric7: Darstellung von Richtungsdaten mit Isolinien
+545§Darstellung von Richtungsdaten
+546§in Vielfachen der Gleichverteilung
+547§und logarithmischer Abstufung
+548§oder in freigewählten Abständen
+549§Fabric7: Darstellung von Richtungsdaten mit Isolinien, Plotten
+550§&Abstufung
+551§&Vielfache der Gleichverteilung
+552§manuelle &Abstufung
+553§&1. Isolinie
+554§&2. Isolinie
+555§&3. Isolinie
+556§&4. Isolinie
+557§&5. Isolinie
+558§&durchgezogene Linie
+559§&gestrichelte Linie
+560§&punktierte Linie
+561§&strichpunktierte Linie
+562§Farbe der &1. Isolinie
+563§Farbe der &2. Isolinie
+564§Farbe der &3. Isolinie
+565§Farbe der &4. Isolinie
+566§Farbe der &5. Isolinie
+567§Isolinien:
+568§bei:
+569§manuelle Eingabe:
+570§1. Isolinie:
+571§2. Isolinie:
+572§3. Isolinie:
+573§4. Isolinie:
+574§5. Isolinie:
+575§Zählkalotte:
+576§Fabric7: Cluster von Richtungsdaten
+577§CLODAT7
+578§Ein Programm zur signifikanten
+579§Trennung von Submaxima
+580§in Verteilungen von Richtungsdaten
+581§Autoren: E. Wallbrecher und W. Unzog
+582§Fabric7: Cluster von Richtungsdaten, Plot
+583§Konfidenz und Vielfaches
+584§der Gleichverteilung:
+585§eingeben
+586§Trennung signifikant
+587§signifikant
+588§1,2,3,4,5,6,7,8,9,10
+589§Testwinkel:
+590§Daten in Clustern:
+591§Vielfaches der
+592§Gleichverteilung:
+593§Gruppe
+594§Menge
+595§R%
+596§Konz.-P.
+597§Theta
+598§s.Öffn.
+599§z.Öffn.
+600§Zylin.
+601§Zentrum
+602§Fabric7: Paläo-Spannungen (Dieder-Methode)
+603§Berechnung der Richtungen
+604§der Hauptnormalspannungen
+605§eines Pläo-Spannungsellipsoides
+606§aus Harnischflächen und Striemungen
+607§Harnischfläche:
+608§Fallazimut / Fallwinkel
+609§Striemung: Fallazimut / ±Fallwinkel
+610§positiv: Aufschiebungen
+611§negativ: Abschiebungen
+612§Ausgabe: korrigierte Striemungen
+613§Harnisch
+614§Striemung
+615§Harnisch:
+616§Striemung:
+617§Fabric7: Paläospannungen, Plot
+618§&Isolinien
+619§20%
+620§40%
+621§60%
+622§80%
+623§95%
+624§Farbe der &20-Prozent-Isolinie
+625§Farbe der &40-Prozent-Isolinie
+626§Farbe der &60-Prozent-Isolinie
+627§Farbe der &80-Prozent-Isolinie
+628§Farbe der &95-Prozent-Isolinie
+629§Anzahl der Dieder:
+630§Größe der Zählkalotte
+631§Isolinien:
+632§Größe der Zählkalotte wählen
+633§Fabric7: Plot von Harnischflächen und Striemungslinearen
+634§Plot von Harnischflächen und
+635§Striemungslinearen mit Polarität
+636§in Lambertscher oder
+637§stereografischer Projektion
+638§Fabric7: Harnische und Striemungslineare, Plot
+639§&Projektion
+640§&Lambert
+641§&stereografisch
+642§&Farbe
+643§&Harnischflächen
+644§&Striemungen
+645§&punktiert
+646§Zahl der Daten:
+647§Fabric7: Hoeppener-Diagramm
+648§Plotten eines
+649§Hoeppener-Diagramms
+650§in Lambertscher oder stereografischer
+651§Projektion
+652§Fabric7: Hoeppener-Diagramm, Plot
+653§&überarbeiten
+654§&nein
+655§&ja
+656§&obere Slip-Lines
+657§&untere Slip-Lines
+658§&speichern
+659§&gereinigte Daten
+660§&eliminierte Daten
+661§auf der &2. Diskette
+662§&Farbe der Punkte
+663§Farbe der &Pfeile
+664§Daten, die nicht in diese Slip-Lines passen,
+665§können durch Doppelklick aus der Grafik
+666§entfernt werden
+667§&Korrektur beenden
+668§Haupt-Normalspannungen:
+669§Sigma1:
+670§Sigma3:
+671§Formfaktor1:
+672§Formfaktor2
+673§Sliplines können durch Überschreiben der Eingaben
+674§und 'Start' verändert werden.
+675§Fabric7: Bestimmung des Formfaktors eines Paläo-Spannungsellipsoides, Plo
+676§&theoretische Punkte
+677§&gemessene Punkte
+678§Farbe des &Diagramms
+679§Farbe der &theoretischen Punkte
+680§Farbe der &gemessenen Punkte
+681§Eigenwerte der Striemungen
+682§theoretisch
+683§gemessen:
+684§Plot-Eingabe ok?
+685§Kantenlänge [mm]:
+686§Nullpunkt [mm]:
+687§X:
+688§Y:
+689§Koordinaten
+690§Fabric7: Bestimmung des Formfaktors
+691§Bestimmung
+692§des Formfaktors
+693§eines Paläo-Spannungsellipsoides
+694§mit der Eigenwert-Methode
+695§Fabric7: Projektionen der Lagenkugel
+696§Plotten
+697§von verschiedenen
+698§Lagenkugel-Projektionen
+699§Fabric7: Projektionen der Lagenkugel, Plot
+700§&Groß- und Kleinkreise
+701§&Äquator
+702§Farbe der &Kreise
+703§Farbe des Äquators
+704§Projektionsnetz:
+705§orthografisches Netz
+706§Winkel:
+707§Abstand der Kreise:
+708§Winkel-Inkrement:
+709§Kippwinkel:
+710§Fabric7: R% - G% - Diagramm
+711§Plotten
+712§eines
+713§R% - G% - Diagrammes
+714§Fabric7: R%-G%-Diagramm, manuelle Dateneingabe
+715§prozentualen Regelungsgrad,
+716§Großkreisregelung
+717§und Plotsymbol eingeben.
+718§R%
+719§G%
+720§Symbol
+721§Dateneingabe:
+722§Regelungsgrad:
+723§Zylindrizität:
+724§Symbol:
+725§&Dateneingabe beenden
+726§&plotten
+727§Fabric7: R%-G%-Diagramm, Eingabe von Diskette
+728§Fabric7: R%-G%-Diagramm, Plot
+729§Farbe der &Koordinaten
+730§Farbe der &Objekte
+731§Länge [cm]:
+732§Nullpunkt
+733§X-Koordinate [cm]:
+734§Y-Koordinate [cm]:
+735§Fabric7: Woodcock-Diagramm
+736§Plotten
+737§eines
+738§Woodcock-Diagramms
+739§Fabric7: Woodcock-Diagramm, manuelle Daten-Eingabe
+740§Eigenwerte eingeben:
+741§Nur Nachkomma-Stellen eingeben
+742§Summe ist falsch!
+743§Fabric7: Woodcock-Diagramm, Dateneingabe von Diskette
+744§Fabric7: Woodcock-Diagramm, Plot
+745§&Symbol
+746§Farbe des &Diagramms
+747§Farbe der Objekte
+748§Tabelle der c-Werte:
+749§Fabric7: Plot eines Vollmer-Diagramms
+750§Vollmer-Diagramms
+751§Fabric7: Vollmer-Diagramm, Plot
+752§Fabric7: Fourier-Analyse von Faltenformen, Hauptformular
+753§zur quantitativen Beschreibung
+754§von Faltenformen
+755§Fabric7: Fourier-Analyse von Faltenformen, manuelle Eingabe
+756§Falten-Inversion in den Koordinaten-Ursprung legen.
+757§Vergenz nach rechts positiv, nach links negativ eingeben.
+758§X- und Y-Koordinaten von drei Punkten einer Viertelfalte
+759§eingeben, der 3. Punkt muß im Faltenscheitel liegen.
+760§1. Punkt:
+761§2. Punkt:
+762§3. Punkt:
+763§1.Punkt
+764§2.Punkt
+765§3.Punkt
+766§Vergenz:
+767§Fabric7: Fourier-Analyse von Faltenformen, Eingabe von Diskette
+768§Ver:
+769§1.Punkt:
+770§2.Punkt:
+771§3.Punkt:
+772§Fabric7: Fourier-Analyse von Faltenformen, Plot
+773§Kantenlänge [mm]:
+774§Nullpunkt [mm]:
+775§X:
+776§Y:
+777§Fabric7: T'alpha/Alpha-Methode
+778§Klassifizierung von Falten
+779§mit Hilfe der Mächtigkeit
+780§gefalteter Lagen
+781§T'alpha/Alpha-Methode (RAMSEY, 1967)
+782§Fabric7: T'alpha/Alpha-Methode, Dateneingabe manuell
+783§Scheitelabstand (T0) zwischen zwei benachbarten Schicht-
+784§grenzen bestimmen. Länge der Isogonen (Talpha) zwischen
+785§den Schichtgrenzen eingeben.
+786§.
+787§Nur ganze Zahlen verwenden.
+788§Anzahl der Schichten
+789§T0:    Isog.:  Talpha:  Talpha/T0:
+790§Isogonen:
+791§Fabric7: T'alpha/Alpha-Methode, Dateneingabe von Diskette
+792§Fabric7: T'alpha/Alpha-Methode, Plot
+793§&Linien
+794§&durchgezogen
+795§&gestrichelt
+796§&strichpunktiert
+797§&punktiert
+798§Anzahl der Falten:
+799§Tabelle:
+800§T0:    Isogone:    T /T0:
+801§Kantenlänge [cm]:
+802§Autoren: E. Wallbrecher & W. Unzog
+803§&Schmidtsches Netz
+804§&WulffschesNetz
+805§&orthografisches Netz
+806§&Kavraiskii-Netz
+807§Länge der Ordinate
+808§&rotierte Daten speichern
+809§Eingabe:
+810§der statistischen Parameter
+811§von Diskette 
+812§Fourier-Analyse
+813§Nullpunktes [mm]:
+814§Länge der Koordinaten [mm]:
+815§Cluster-Feld
+816§Guertel-Feld
+817§OK?Q                                                                           
+818§Punkte
+819§Guertel
+820§Zufall
+821§Schnittkante zweier Flächen
+822§Winkel zwischen 2 Linearen
+823§Fläche aus 2 Linearen
+824§Normale auf 2 Lineare
+825§Ausgabe in Altgrad.
+826§von der Festplatte
+827§Winkel zwischen 2 Flächen
+828§positiv im Uhrzeigersinn
+829§Fallwinkel
+830§Farbe der &Peripherie
+831§Farbe der &Harnischflächen
+832§Farbe der &Striemungen
+833§Bestimmung des Formfaktors, Eingabe von Diskette
+834§Plot der Harnischflächen
+835§Punkte
+836§Gürtel
+837§Zufall
+838§Fabric7, Maßzahlen zirkularverteilter Daten, manuelle Eingabe
+839§Plotten einer Richtungsrose
+840§Fabric7: Plotten einer Richtungsrose, manuelle Dateneingabe
+841§Fabric7: Plotten einer Richtungsrose, Dateneingabe von Diskette
+842§Regelungsgrad [%]
+843§Zylindrizität
+844§Fabric7: Vollmer-Diagramm, Eingabe manuell
+845§Fabric7: Vollmer-Diagramm, Eingabe von Diskette
+846§Symbol für Datenpunkte
+847§Linientyp
+848§Sprache
+849§orthografisch
+850§Typ der Plotdatei:
+851§kein Plot
+852§Plotgröße:
+853§Hoch
+854§Quer
+855§Konfidenz:
+856§Farbe des Hintergrundes
+857§&Grau
+858§&Hellblau
+859§&Weiß
+860§Farbe des Diagramms
+861§G&elb
+862§Farbe der Koordinaten
+863§Programm zur Installation von Fabric7
+864§Fabric7.ini ändern:
+865§Pfad für die Daten-Datei:
+866§Pfad für die Grafik-Datei:
+867§Plotter-Schnittstelle:
+868§Passwort:
+869§ja
+870§nein
+871§Sprache:
+872§in &Fabric7.ini eintragen
+873§Die kostenlose Testzeit für Gefüge7 ist abgelaufen.
+874§Wenn Sie das Programm erwerben, bekommen Sie eine
+875§unbegrenzte Lizenz.
+876§Die Änderungen wurden in 'Fabric7.ini' eingetragen
+877§kann nicht erstellt werden.
+878§wurde angelegt.
+879§&Weiss
+880§Druck-Parameter:
+881§drucken
+882§abbrechen
+883§Radius [in % der Papierbreite]:
+884§Bildmittelpunkt:
+885§X-Koordinate [in % der Papierbreite]:
+886§Y-Koordinate [in % der Papierhöhe]:
+887§Bildunterschrift
+888§Schriftgröße
+889§linksbündig
+890§zentriert
+891§rechtsbündig
+892§Rahmenfarbe
+893§Anzahl der Daten           =
+894§Prozentualer Regelungsgrad =
+895§Konzentrations-Parameter   =
+896§Vertrauenskegel            =
+897§sphärischer Öffnungsgrad   =
+898§Schwerpunkt                =
+899§Eigenwerte:    Eigenvektoren:
+900§Zylindrizität           =
+901§zirkularer Öffnungsgrad =
+902§Länge [in % der Papierbreite]:
+903§Projektion
+904§REKONSTRUKTION oder Simulation tektonischer Daten
+905§Rekonstruktion der Meßdaten
+906§(Fallazimut und Fallwinkel)
+907§aus einer Lagenkugel-Projektion
+908§Autor: Eckart Wallbrecher, Graz
+909§Erzeugen Sie ein Bitmap des auszuwertenden Diagrammes
+910§(nur den Teil innerhalb der Peripherie)
+911§und bringen Sie diesen in die Zwischenablage
+912§&Rekonstruktion beenden
+913§Anzahl der Daten
+914§Datenliste
+915§Gefuegetyp
+916§Projektion
+917§&Projektion
+918§&stereografisch
+919§&orthografisch
+920§&Gefuegetyp
+921§&Lineare
+922§&Flächen
+923§&Farbe
+924§&Schwarz
+925§&Rot
+926§&Blau
+927§&Grün
+928§&Violett
+929§G&elb
+930§&speichern
+931§auf der &Festplatte
+932§auf Diskette A:
+933§auf Diskette
+934§&Drucker
+935§&einrichten
+936§&drucken
+937§Hilfe
+938§&Rekonstruktion
+939§&Simulation
+940§oder Erstellen eines simulierten Datensatzes
+941§&Simulation beenden
+942§Scherkasten
+943§SIMULATION ebener Verformung
+944§Farbe des &Rahmens
+945§Farbe der &Vorzeichnung
+946§Farbe nach &Scherung
+947§Vorzeichnung:
+948§&Linie
+949§&Ellipse
+950§&Rechteck
+951§&Zwischenablage
+952§&Löschen
+953§Scherwinkel:
+954§Grad
+955§Scherung:
+956§&Scherung
+957§&affin
+958§&nicht affin
+959§Faktor:
+960§Plättung
+961§auf
+962§Prozent:
+963§Die Studenten-Lizenz berechtigt auschließlich
+964§zur Nutzung zu Studienzwecken und nicht zu
+965§kommerzieller oder wissenschaftlicher Nutzung.
+966§Talbot-Methode zur Strainanalyse
+967§Strainanalyse
+968§mit der Talbot-Methode
+969§Talbot-Methode, manuelle Dateneingabe
+970§Dehnung: positives Azimut
+971§Kompression: negativ
+972§Strainanalyse mit der Talbot-Methode
+973§Talbot-Methode, Dateneingabe von Diskette
+974§Daten
+975§Kompression
+976§Dehnung
+977§DatenMenge größer als
+978§reservierte Datenmenge.
+979§Ändern Sie Zeile 84
+980§in der Datei Fabric7.ini
+981§max. Datenmenge:
+982§Orientierung des Strain-Ellipsoides
+983§Cluster eliminieren
+984§Prolat
+985§Oblat
+986§Strain-Ellipsoid:
+987§lange Achse:
+988§mittlere Achse:
+989§kurze Achse:
+990§Kegelwinkel
+991§Punkt im Flinn-Diagramm
+992§Farbe der Achsen
+993§Farbe der Ellipse
+994§Ende
